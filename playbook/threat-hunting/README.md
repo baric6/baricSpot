@@ -4,6 +4,14 @@
 
 ## Pulse Dive
 
+Make a user and get the API key
+
+free tier:
+
+50 requests per day&#x20;
+
+500 requests per month
+
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://pulsedive.com/dashboard/" %}
