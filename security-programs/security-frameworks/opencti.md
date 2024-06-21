@@ -4,6 +4,8 @@ OpenCTI is an open source platform allowing organizations to manage their cyber 
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/GQhg97rWoAAOtlw.jpg" alt=""><figcaption></figcaption></figure>
+
 Download
 
 {% embed url="https://github.com/OpenCTI-Platform/opencti" %}
