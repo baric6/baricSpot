@@ -25,5 +25,3 @@
 ## GrayNoise
 
 {% embed url="https://viz.greynoise.io/" %}
-
-##
