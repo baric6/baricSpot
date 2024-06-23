@@ -498,6 +498,7 @@
     * [DHCP Scopes](it-help/networking/dhcp/dhcp-scopes.md)
     * [DHCP Options](it-help/networking/dhcp/dhcp-options.md)
     * [Advanced Scopes - Super-scopes, Multicast Scopes and IPv6](it-help/networking/dhcp/advanced-scopes-super-scopes-multicast-scopes-and-ipv6.md)
+    * [Centralized DHCP and PXE](it-help/networking/dhcp/centralized-dhcp-and-pxe.md)
 
 ## Playbook
 
