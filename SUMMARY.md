@@ -500,6 +500,7 @@
     * [Advanced Scopes - Super-scopes, Multicast Scopes and IPv6](it-help/networking/dhcp/advanced-scopes-super-scopes-multicast-scopes-and-ipv6.md)
     * [Centralized DHCP and PXE](it-help/networking/dhcp/centralized-dhcp-and-pxe.md)
     * [DHCP Policies](it-help/networking/dhcp/dhcp-policies.md)
+    * [Maintain the DHCP Database](it-help/networking/dhcp/maintain-the-dhcp-database.md)
 
 ## Playbook
 
