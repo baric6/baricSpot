@@ -417,7 +417,7 @@
     * [Monitoring a file from a PC](development/siems/splunk/monitoring-a-file-from-a-pc.md)
     * [Resources](development/siems/splunk/resources/README.md)
       * [Detecting Business Email Compromise Using Splunk](development/siems/splunk/resources/detecting-business-email-compromise-using-splunk.md)
-    * [Creating Dashboards](development/siems/splunk/creating-dashboards.md)
+    * [Creating Graphs and Dashboards](development/siems/splunk/creating-graphs-and-dashboards.md)
 * [Docker](development/docker/README.md)
   * [Remap Ports](development/docker/remap-ports.md)
 * [Graphing Tools](development/graphing-tools/README.md)
