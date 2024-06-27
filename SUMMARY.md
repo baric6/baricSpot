@@ -492,6 +492,7 @@
   * [How to Give OneDrive Access to Another User](it-help/windows/how-to-give-onedrive-access-to-another-user.md)
   * [Diskpart Format Disk](it-help/windows/diskpart-format-disk.md)
   * [Download and exe payloads from DNS](it-help/windows/download-and-exe-payloads-from-dns.md)
+  * [C# 2013 Default certificate could not be created. Publish aborting](it-help/windows/c-2013-default-certificate-could-not-be-created.-publish-aborting.md)
 * [Programs](it-help/programs/README.md)
   * [Make A OVA file from you virtual box VM](it-help/programs/make-a-ova-file-from-you-virtual-box-vm.md)
   * [Adobe XI redact location](it-help/programs/adobe-xi-redact-location.md)
