@@ -427,6 +427,7 @@
     * [Wazuh debug logs](development/siems/wazuh/wazuh-debug-logs.md)
     * [Wazuh email notification](development/siems/wazuh/wazuh-email-notification.md)
     * [Wazuh moniter office 360](development/siems/wazuh/wazuh-moniter-office-360.md)
+    * [Wazuh making and modifying user groups](development/siems/wazuh/wazuh-making-and-modifying-user-groups.md)
   * [Splunk](development/siems/splunk/README.md)
     * [Install](development/siems/splunk/install.md)
     * [Splunk forwarder](development/siems/splunk/splunk-forwarder.md)
