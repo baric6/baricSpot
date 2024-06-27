@@ -1,0 +1,7 @@
+# Mullvard browser VPN
+
+<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+
+The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project. It’s designed to minimize tracking and fingerprinting. You could say it’s a Tor Browser to use without the Tor Network. Instead, you can use it with a trustworthy VPN. The idea is to provide one more alternative – beside the Tor Network – to browse the internet with more privacy. To get as many people as possible to fight the big data gathering of today. To free the internet from mass surveillance.
+
+{% embed url="https://mullvad.net/en/browser" %}
