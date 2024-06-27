@@ -272,6 +272,16 @@
   * [Youtube Downloader](security-programs/useful-online-links/youtube-downloader.md)
   * [TinEye Reverse Image Search](security-programs/useful-online-links/tineye-reverse-image-search.md)
   * [Browser exploit CTF challenges](security-programs/useful-online-links/browser-exploit-ctf-challenges.md)
+* [Spiders and Scrapers](security-programs/spiders-and-scrapers/README.md)
+  * [NodeCraw](security-programs/spiders-and-scrapers/nodecraw.md)
+  * [WebPalm](security-programs/spiders-and-scrapers/webpalm.md)
+  * [SpiderSuite](security-programs/spiders-and-scrapers/spidersuite.md)
+  * [SmbCrawler](security-programs/spiders-and-scrapers/smbcrawler.md)
+  * [Bright data web scraper browser](security-programs/spiders-and-scrapers/bright-data-web-scraper-browser.md)
+  * [Webscrape get email and phone](security-programs/spiders-and-scrapers/webscrape-get-email-and-phone.md)
+  * [Jsoup: java HTML parser/scraper](security-programs/spiders-and-scrapers/jsoup-java-html-parser-scraper.md)
+  * [HttpLoot](security-programs/spiders-and-scrapers/httploot.md)
+  * [Katana Spider](security-programs/spiders-and-scrapers/katana-spider.md)
 
 ## Development&#x20;
 
