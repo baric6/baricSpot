@@ -619,6 +619,7 @@
     * [Urlscan + api](playbook/threat-hunting/phishing/urlscan-+-api.md)
     * [CheckPhish URL Checker](playbook/threat-hunting/phishing/checkphish-url-checker.md)
     * [Artists Against 419 spam](playbook/threat-hunting/phishing/artists-against-419-spam.md)
+    * [Blocklist.de](playbook/threat-hunting/phishing/blocklist.de.md)
   * [Malware](playbook/threat-hunting/malware/README.md)
     * [DocGuard](playbook/threat-hunting/malware/docguard.md)
     * [Malware Bazaar +  API](playbook/threat-hunting/malware/malware-bazaar-+-api.md)
