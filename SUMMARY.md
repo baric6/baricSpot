@@ -581,6 +581,7 @@
     * [Texas A\&M cyber security games](playbook/security-education/games/texas-a-and-m-cyber-security-games.md)
     * [CTF time](playbook/security-education/games/ctf-time.md)
     * [National Cyber League CTF game](playbook/security-education/games/national-cyber-league-ctf-game.md)
+    * [Forensics Simulation Compromised Windows server 2022](playbook/security-education/games/forensics-simulation-compromised-windows-server-2022.md)
   * [Sec News](playbook/security-education/sec-news/README.md)
     * [The Tor Times](playbook/security-education/sec-news/the-tor-times.md)
     * [Darkfeed.io Ransomware](playbook/security-education/sec-news/darkfeed.io-ransomware.md)
