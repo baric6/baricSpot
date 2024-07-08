@@ -33,3 +33,7 @@ free tier:
 ## GrayNoise
 
 {% embed url="https://viz.greynoise.io/" %}
+
+## Cisco Talos
+
+{% embed url="https://talosintelligence.com/" %}
