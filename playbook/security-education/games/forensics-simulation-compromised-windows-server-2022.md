@@ -1,11 +1,17 @@
 # Forensics Simulation Compromised Windows server 2022
 
 ```
-Simulated network intrusion as part of research to develop artificial intelligence / machine learning for post-breach triage.
+Simulated network intrusion as part of research to develop artificial
+intelligence / machine learning for post-breach triage.
 
-All information contained within the image (including but not limited to usernames and IP addresses) is synthetic.
+All information contained within the image (including but not limited to usernames 
+and IP addresses) is synthetic.
 
-Simulated UK-based small office network running from Sept 2023 to Feb 2024. The administrator opened RDP to facilitate working from home.  As part of the scenario, on 12th Feb 2024 discovered the server was no longer responding with 'Red Petya' ransomware displayed on the screen.  Forensic experts were engaged, the disk decrypted and a forensic image taken in EnCase E01 format (also known as Expert Witness Format) 
+Simulated UK-based small office network running from Sept 2023 to Feb 2024.
+The administrator opened RDP to facilitate working from home.  As part of the scenario,
+on 12th Feb 2024 discovered the server was no longer responding with 'Red Petya' 
+ransomware displayed on the screen.  Forensic experts were engaged, the disk decrypted
+and a forensic image taken in EnCase E01 format (also known as Expert Witness Format) 
 
 
 Image may be viewed using most forensic tools:
@@ -19,9 +25,13 @@ Image may be viewed using most forensic tools:
 
 
 
-It is anticipated that this collection may be used for teaching so analysis of the image is left as an exercise for the reader.  As with every incident response exercise, care should be taken to protect your systems from potential malware.
+It is anticipated that this collection may be used for teaching so analysis of the
+image is left as an exercise for the reader.  As with every incident response 
+exercise, care should be taken to protect your systems from potential malware.
 
-Many thanks to my PhD supervisors, Prof Adrian Hopgood, Dr Patrick Wong and Dr Ian Kennedy.  Thanks also to CMU Ghosts, VirtualBox, generatedata.com, Kali Linux, GreyNoise.io and many more.
+Many thanks to my PhD supervisors, Prof Adrian Hopgood, Dr Patrick Wong and 
+Dr Ian Kennedy.  Thanks also to CMU Ghosts, VirtualBox, generatedata.com, 
+Kali Linux, GreyNoise.io and many more.
 
 md5sums:
 
@@ -34,7 +44,9 @@ ef559f911cfb1ff5c32bb2fc67f324cb  20240212-decrypted-Windows_Server_2022.E02
 ef079d9e318d8c25fb3de10674e13e79  20240212-decrypted-Windows_Server_2022.E07
 
 
-Released without warranty under CC-BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike).  This license lets others remix, tweak, and build upon this work non-commercially, as long as they credit me and license their new creations under the identical terms.
+Released without warranty under CC-BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike).
+This license lets others remix, tweak, and build upon this work non-commercially, 
+as long as they credit me and license their new creations under the identical terms.
 ```
 
 {% embed url="https://ordo.open.ac.uk/articles/dataset/Compromised_Windows_Server_2022_simulation_/26038642?file=47197528" %}
