@@ -449,6 +449,7 @@
     * [Resources](development/siems/splunk/resources/README.md)
       * [Detecting Business Email Compromise Using Splunk](development/siems/splunk/resources/detecting-business-email-compromise-using-splunk.md)
     * [Creating Graphs and Dashboards](development/siems/splunk/creating-graphs-and-dashboards.md)
+    * [Splunkbase Apps](development/siems/splunk/splunkbase-apps.md)
 * [Graphing Tools](development/graphing-tools/README.md)
   * [Figma Program Graphing](development/graphing-tools/figma-program-graphing.md)
 * [Website Dev](development/website-dev/README.md)
