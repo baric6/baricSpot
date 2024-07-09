@@ -499,6 +499,7 @@
   * [Download and exe payloads from DNS](it-help/windows/download-and-exe-payloads-from-dns.md)
   * [C# 2013 Default certificate could not be created. Publish aborting](it-help/windows/c-2013-default-certificate-could-not-be-created.-publish-aborting.md)
   * [Create a desktop shortcut for an Office program](it-help/windows/create-a-desktop-shortcut-for-an-office-program.md)
+  * [Windows S mode disable](it-help/windows/windows-s-mode-disable.md)
 * [Programs](it-help/programs/README.md)
   * [Make A OVA file from you virtual box VM](it-help/programs/make-a-ova-file-from-you-virtual-box-vm.md)
   * [Adobe XI redact location](it-help/programs/adobe-xi-redact-location.md)
