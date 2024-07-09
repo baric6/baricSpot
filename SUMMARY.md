@@ -598,6 +598,7 @@
     * [Malware Gallery, History of Malware](playbook/security-education/sec-news/malware-gallery-history-of-malware.md)
   * [Online Learning](playbook/security-education/online-learning/README.md)
     * [pwn.college](playbook/security-education/online-learning/pwn.college.md)
+    * [Cisco Ethical hacker lab](playbook/security-education/online-learning/cisco-ethical-hacker-lab.md)
 * [Threat Hunting](playbook/threat-hunting/README.md)
   * [Communities](playbook/threat-hunting/communities/README.md)
     * [Onniforums](playbook/threat-hunting/communities/onniforums.md)
