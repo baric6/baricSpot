@@ -576,6 +576,7 @@
       * [NIST SP 800-171r3, Protecting Controlled Unclassified Information in Nonfederal Systems and Organiza](playbook/security-education/self-audit-procedures/nist/nist-sp-800-171r3-protecting-controlled-unclassified-information-in-nonfederal-systems-and-organiza.md)
       * [Nist 800-171 R2 task list](playbook/security-education/self-audit-procedures/nist/nist-800-171-r2-task-list.md)
       * [NIST 800-171 PDF](playbook/security-education/self-audit-procedures/nist/nist-800-171-pdf.md)
+    * [Dora - Digital Operational Resilience Act](playbook/security-education/self-audit-procedures/dora-digital-operational-resilience-act.md)
   * [Links](playbook/security-education/links/README.md)
     * [Security basics articles](playbook/security-education/links/security-basics-articles.md)
   * [Videos](playbook/security-education/videos/README.md)
