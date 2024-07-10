@@ -8,4 +8,6 @@ At a high level, one is a framework produced by the National Institute of Standa
 * Third-Party Risk Management.
 * Information & Intelligence Sharing Arrangements.
 
+[https://www.oracle.com/a/ocom/docs/contract-checklist-dora.pdf](https://www.oracle.com/a/ocom/docs/contract-checklist-dora.pdf)
+
 {% embed url="https://www.oracle.com/a/ocom/docs/contract-checklist-dora.pdf" %}
