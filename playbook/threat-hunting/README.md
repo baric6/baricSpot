@@ -37,3 +37,7 @@ free tier:
 ## Cisco Talos
 
 {% embed url="https://talosintelligence.com/" %}
+
+## Maltrail
+
+{% embed url="https://github.com/stamparm/maltrail?tab=readme-ov-file" %}
