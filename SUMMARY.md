@@ -219,6 +219,7 @@
   * [Total-Recall Microsoft recall reader](security-programs/windows/total-recall-microsoft-recall-reader.md)
   * [NetworkMiner](security-programs/windows/networkminer.md)
   * [PowerHuntShare](security-programs/windows/powerhuntshare.md)
+  * [SharpBruteForceSSh](security-programs/windows/sharpbruteforcessh.md)
 * [Bug Bounty](security-programs/bug-bounty/README.md)
   * [Caido (burp alt)](security-programs/bug-bounty/caido-burp-alt.md)
   * [Ghauri SQL injection](security-programs/bug-bounty/ghauri-sql-injection.md)
