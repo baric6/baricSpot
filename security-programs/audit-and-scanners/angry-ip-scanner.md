@@ -1,0 +1,11 @@
+# Angry IP scanner
+
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+Angry IP Scanner (or simply ipscan) is an open-source and cross-platform network scanner designed to be fast and simple to use. It scans IP addresses and ports as well as has many other features.
+
+It is widely used by network administrators and just curious users around the world, including large and small enterprises, banks, and government agencies.
+
+It runs on Linux, Windows, and Mac OS X, possibly supporting other platforms as well.
+
+{% embed url="https://angryip.org/githubhttps://github.com/angryip/ipscan" %}
