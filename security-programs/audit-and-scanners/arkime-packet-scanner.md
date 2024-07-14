@@ -1,5 +1,5 @@
 # Arkime packet scanner
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://github.com/arkime/arkime" %}
