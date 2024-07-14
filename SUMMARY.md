@@ -290,6 +290,8 @@
   * [Shodan Scrapper](security-programs/bug-bounty/shodan-scrapper.md)
   * [TruffleHog](security-programs/bug-bounty/trufflehog.md)
   * [Kiterunner](security-programs/bug-bounty/kiterunner.md)
+  * [Arescan Advanced Directory Discovery Tool](security-programs/bug-bounty/arescan-advanced-directory-discovery-tool.md)
+  * [Caido web app audit](security-programs/bug-bounty/caido-web-app-audit.md)
 * [Privacy](security-programs/privacy/README.md)
   * [Tor](security-programs/privacy/tor.md)
   * [I2P](security-programs/privacy/i2p.md)
@@ -730,3 +732,4 @@
   * [HTTP request headers](playbook/resources/http-request-headers.md)
   * [Local file inclusion exploits](playbook/resources/local-file-inclusion-exploits.md)
   * [Wireshark rdp traffic scanning](playbook/resources/wireshark-rdp-traffic-scanning.md)
+  * [Network Attacks](playbook/resources/network-attacks-1.md)
