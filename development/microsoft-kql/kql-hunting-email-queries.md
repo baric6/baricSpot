@@ -45,10 +45,7 @@ EmailEvents
 
 ```
 EmailEvents
-| where not(SenderFromAddress has_any("@yahoo.com", "@gmail.com", "@outlook.com", "@aol.com", "icloud.com", "@gesmv.org"
-, "@crayonstoclassrooms.org", "@info.dot.ohio.gov", "@amazon.com","@voicemail.goto.com", "@dayforce.com", "@sharepointonline.com"
-, "@shopgoodwill.com", "@shopgoodwill.com","@sharepointonline.com", "@ceridian.com", "@brittcosoftware.com", "@alerts.reliaslearning.com"
-))
+| where not(SenderFromAddress has_any("@yahoo.com", "@gmail.com", "@outlook.com", "@aol.com", "icloud.com"))
 | summarize Count = count() by SenderFromAddress
 | project SenderFromAddress, Count
 ```
