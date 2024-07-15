@@ -530,6 +530,7 @@
     * [Creating Graphs and Dashboards](development/siems/splunk/creating-graphs-and-dashboards.md)
     * [Splunkbase Apps](development/siems/splunk/splunkbase-apps.md)
     * [Turning on File Folder Auditing](development/siems/splunk/turning-on-file-folder-auditing.md)
+  * [Windows Detailed activity properties in the audit log](development/siems/windows-detailed-activity-properties-in-the-audit-log.md)
 * [Graphing Tools](development/graphing-tools/README.md)
   * [Figma Program Graphing](development/graphing-tools/figma-program-graphing.md)
 * [Website Dev](development/website-dev/README.md)
