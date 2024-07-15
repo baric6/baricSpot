@@ -294,6 +294,7 @@
   * [Arescan Advanced Directory Discovery Tool](security-programs/bug-bounty/arescan-advanced-directory-discovery-tool.md)
   * [Caido web app audit](security-programs/bug-bounty/caido-web-app-audit.md)
   * [Gungnir - Domain cert monitor](security-programs/bug-bounty/gungnir-domain-cert-monitor.md)
+  * [Scilla](security-programs/bug-bounty/scilla.md)
 * [Privacy](security-programs/privacy/README.md)
   * [Tor](security-programs/privacy/tor.md)
   * [I2P](security-programs/privacy/i2p.md)
