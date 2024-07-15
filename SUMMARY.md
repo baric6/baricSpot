@@ -301,6 +301,7 @@
   * [Gluetun VPN client](security-programs/privacy/gluetun-vpn-client.md)
   * [Mullvard browser VPN](security-programs/privacy/mullvard-browser-vpn.md)
   * [Tailscale VPN](security-programs/privacy/tailscale-vpn.md)
+  * [Google Results about you](security-programs/privacy/google-results-about-you.md)
 * [Useful Online Links](security-programs/useful-online-links/README.md)
   * [Hugging face AI LLM models](security-programs/useful-online-links/hugging-face-ai-llm-models.md)
   * [Hunter internet device finder, like Shodan](security-programs/useful-online-links/hunter-internet-device-finder-like-shodan.md)
