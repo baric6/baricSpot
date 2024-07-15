@@ -595,6 +595,7 @@
   * [Windows common commands enum](it-help/windows/windows-common-commands-enum.md)
   * [TCP packet cheat sheet](it-help/windows/tcp-packet-cheat-sheet.md)
   * [Common ports and services](it-help/windows/common-ports-and-services.md)
+  * [How to Disable access to install Office add-ins](it-help/windows/how-to-disable-access-to-install-office-add-ins.md)
 * [Programs](it-help/programs/README.md)
   * [Make A OVA file from you virtual box VM](it-help/programs/make-a-ova-file-from-you-virtual-box-vm.md)
   * [Adobe XI redact location](it-help/programs/adobe-xi-redact-location.md)
