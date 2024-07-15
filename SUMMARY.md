@@ -494,6 +494,7 @@
   * [ipam server](development/homelab/ipam-server.md)
   * [PRTG network solutions](development/homelab/prtg-network-solutions.md)
   * [Monitoring domain controller with TIG suite](development/homelab/monitoring-domain-controller-with-tig-suite.md)
+  * [How to install NetHunter on TicWatch Pro](development/homelab/how-to-install-nethunter-on-ticwatch-pro.md)
 * [Siems](development/siems/README.md)
   * [Wazuh](development/siems/wazuh/README.md)
     * [Default register agent config](development/siems/wazuh/default-register-agent-config.md)
