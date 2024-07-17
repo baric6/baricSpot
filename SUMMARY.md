@@ -255,6 +255,7 @@
   * [PowerHuntShare](security-programs/windows/powerhuntshare.md)
   * [SharpBruteForceSSh](security-programs/windows/sharpbruteforcessh.md)
   * [AzureGraph](security-programs/windows/azuregraph.md)
+  * [MDEtester](security-programs/windows/mdetester.md)
 * [Bug Bounty](security-programs/bug-bounty/README.md)
   * [Caido (burp alt)](security-programs/bug-bounty/caido-burp-alt.md)
   * [Ghauri SQL injection](security-programs/bug-bounty/ghauri-sql-injection.md)
