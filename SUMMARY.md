@@ -732,6 +732,7 @@
     * [Blocklist.de](playbook/threat-hunting/phishing/blocklist.de.md)
     * [Find Certs of newly added sites](playbook/threat-hunting/phishing/find-certs-of-newly-added-sites.md)
     * [UrlDna Website Breakdown](playbook/threat-hunting/phishing/urldna-website-breakdown.md)
+    * [Free Phone Validation Lookup](playbook/threat-hunting/phishing/free-phone-validation-lookup.md)
   * [Malware](playbook/threat-hunting/malware/README.md)
     * [DocGuard](playbook/threat-hunting/malware/docguard.md)
     * [Malware Bazaar +  API](playbook/threat-hunting/malware/malware-bazaar-+-api.md)
