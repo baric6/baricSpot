@@ -702,6 +702,7 @@
     * [The Sysadmin Channel](playbook/security-education/sec-news/the-sysadmin-channel.md)
     * [Security Affairs](playbook/security-education/sec-news/security-affairs.md)
     * [Malware Gallery, History of Malware](playbook/security-education/sec-news/malware-gallery-history-of-malware.md)
+    * [meterpreter.org](playbook/security-education/sec-news/meterpreter.org.md)
   * [Online Learning](playbook/security-education/online-learning/README.md)
     * [pwn.college](playbook/security-education/online-learning/pwn.college.md)
     * [Cisco Ethical hacker lab](playbook/security-education/online-learning/cisco-ethical-hacker-lab.md)
