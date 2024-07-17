@@ -720,6 +720,7 @@
     * [Web Check](playbook/threat-hunting/osint-websites/web-check.md)
     * [OSINT people data](playbook/threat-hunting/osint-websites/osint-people-data.md)
     * [URLDna](playbook/threat-hunting/osint-websites/urldna.md)
+    * [Sourcegraph search github codebase](playbook/threat-hunting/osint-websites/sourcegraph-search-github-codebase.md)
   * [Phishing](playbook/threat-hunting/phishing/README.md)
     * [Fake Site URL lookup](playbook/threat-hunting/phishing/fake-site-url-lookup.md)
     * [Phishtank URL lookup](playbook/threat-hunting/phishing/phishtank-url-lookup.md)
