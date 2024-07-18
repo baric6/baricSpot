@@ -1,6 +1,6 @@
 # Merlin C2
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Merlin is a cross-platform post-exploitation Command & Control server and agent written in Go.
 

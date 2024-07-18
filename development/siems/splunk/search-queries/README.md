@@ -17,3 +17,12 @@ Rex is regex that you can replace a string like below replace a space with a und
 Pulls data from fields and organizes it into a table view
 
 `| table UserId, SourceFileName, UserAgent, CreationTime`
+
+
+
+lookup a uploaded csv table by file name&#x20;
+
+`| inputlookup <filename.csv>`
+
+
+
