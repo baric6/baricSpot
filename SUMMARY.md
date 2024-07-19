@@ -543,6 +543,8 @@
     * [Splunkbase Apps](development/siems/splunk/splunkbase-apps.md)
     * [Turning on File Folder Auditing](development/siems/splunk/turning-on-file-folder-auditing.md)
     * [Uploading lookup table csv file](development/siems/splunk/uploading-lookup-table-csv-file.md)
+    * [Create/Modify User account](development/siems/splunk/create-modify-user-account.md)
+    * [Stop auto logout](development/siems/splunk/stop-auto-logout.md)
 * [Graphing Tools](development/graphing-tools/README.md)
   * [Figma Program Graphing](development/graphing-tools/figma-program-graphing.md)
 * [Website Dev](development/website-dev/README.md)
