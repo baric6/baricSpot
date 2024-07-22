@@ -51,7 +51,6 @@
   * [AIMOD2 Threat Hunting Framework](security-programs/threat-hunting/aimod2-threat-hunting-framework.md)
   * [(IR) Untitled Goose tool](security-programs/threat-hunting/ir-untitled-goose-tool.md)
   * [Bitlocker attacks](security-programs/threat-hunting/bitlocker-attacks.md)
-  * [Honeypots](security-programs/threat-hunting/honeypots.md)
   * [MISP Threat Intelligence Sharing Platform](security-programs/threat-hunting/misp-threat-intelligence-sharing-platform.md)
   * [Threat Hunting keywords](security-programs/threat-hunting/threat-hunting-keywords.md)
   * [Velociraptor threat hunter](security-programs/threat-hunting/velociraptor-threat-hunter.md)
@@ -368,6 +367,9 @@
   * [Discord as a C2](security-programs/command-and-control/discord-as-a-c2.md)
   * [Octopus C2 Server](security-programs/command-and-control/octopus-c2-server.md)
   * [Empire C2 framework](security-programs/command-and-control/empire-c2-framework.md)
+* [HoneyPots](security-programs/honeypots/README.md)
+  * [Honeypots](security-programs/honeypots/honeypots.md)
+  * [Respotter](security-programs/honeypots/respotter.md)
 
 ## Development&#x20;
 
