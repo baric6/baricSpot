@@ -298,6 +298,7 @@
   * [Gungnir - Domain cert monitor](security-programs/bug-bounty/gungnir-domain-cert-monitor.md)
   * [Scilla](security-programs/bug-bounty/scilla.md)
   * [WebCopilot](security-programs/bug-bounty/webcopilot.md)
+  * [Subdominator](security-programs/bug-bounty/subdominator.md)
 * [Privacy](security-programs/privacy/README.md)
   * [Tor](security-programs/privacy/tor.md)
   * [I2P](security-programs/privacy/i2p.md)
