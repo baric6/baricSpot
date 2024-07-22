@@ -547,6 +547,7 @@
     * [Uploading lookup table csv file](development/siems/splunk/uploading-lookup-table-csv-file.md)
     * [Create/Modify User account](development/siems/splunk/create-modify-user-account.md)
     * [Stop auto logout](development/siems/splunk/stop-auto-logout.md)
+    * [Script Locations](development/siems/splunk/script-locations.md)
 * [Graphing Tools](development/graphing-tools/README.md)
   * [Figma Program Graphing](development/graphing-tools/figma-program-graphing.md)
 * [Website Dev](development/website-dev/README.md)
