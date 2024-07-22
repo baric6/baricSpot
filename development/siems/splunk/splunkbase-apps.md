@@ -17,3 +17,9 @@ Threat hunting add-on that is a community that shares IP address and Urls of mal
 ## Splunk Addon for Microsoft cloud
 
 {% embed url="https://splunk.github.io/splunk-add-on-for-microsoft-cloud-services/Configureaccount/" %}
+
+## Splunk ES Content Update
+
+The Splunk ES Content Update (ESCU) app delivers pre-packaged Security Content. ESCU provides regular Security Content updates to help security practitioners address ongoing time-sensitive threats, attack methods, and other security issues. Security Content consists of tactics,
+
+{% embed url="https://splunkbase.splunk.com/app/3449" %}
