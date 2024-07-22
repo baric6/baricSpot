@@ -731,6 +731,7 @@
     * [Hack Forums](playbook/threat-hunting/communities/hack-forums.md)
     * [Ohio Infosec](playbook/threat-hunting/communities/ohio-infosec.md)
     * [Doxbin](playbook/threat-hunting/communities/doxbin.md)
+    * [Bug Bounty Community](playbook/threat-hunting/communities/bug-bounty-community.md)
   * [OSINT Websites](playbook/threat-hunting/osint-websites/README.md)
     * [Hackers-Arise](playbook/threat-hunting/osint-websites/hackers-arise.md)
     * [Hunter.io](playbook/threat-hunting/osint-websites/hunter.io.md)

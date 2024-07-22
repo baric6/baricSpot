@@ -44,7 +44,7 @@ A Splunk forwarder is like a agent in Wazuh Siem. It is a piece of software the 
 
 5. Select virtual account
 
-<figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Leave all this default
 
