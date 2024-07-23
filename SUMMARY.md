@@ -693,6 +693,7 @@
       * [NIST 800-171 PDF](playbook/security-education/self-audit-procedures/nist/nist-800-171-pdf.md)
     * [Dora - Digital Operational Resilience Act](playbook/security-education/self-audit-procedures/dora-digital-operational-resilience-act.md)
     * [FAR Federal Acquisition Regulations](playbook/security-education/self-audit-procedures/far-federal-acquisition-regulations.md)
+    * [Epeat Usable Devices](playbook/security-education/self-audit-procedures/epeat-usable-devices.md)
   * [Links](playbook/security-education/links/README.md)
     * [Security basics articles](playbook/security-education/links/security-basics-articles.md)
   * [Videos](playbook/security-education/videos/README.md)
