@@ -31,3 +31,11 @@ Compare IP data in file with splunk logs
 `* | lookup c2cisp.csv ip as d_ip OUTPUT ip as c2cisp | search c2cisp=*`
 
 {% embed url="https://community.splunk.com/t5/Splunk-Search/How-to-search-a-lookup-table-to-find-any-IP-addresses-that-match/m-p/175026" %}
+
+#### Sort
+
+```
+your search....| sort -count
+```
+
+{% embed url="https://community.splunk.com/t5/Splunk-Search/How-do-I-sort-this-stats-count/m-p/362536" %}
