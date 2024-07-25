@@ -24,7 +24,7 @@ install dependencies
 
 "dev": "nodemon index.js",
 
-4. Make a file name index.js (this is your main server with node)
+5. Make a file name index.js (this is your main server with node)
 
 const express = require('express');&#x20;
 
@@ -38,7 +38,7 @@ app.listen(port, () => {
 
 });
 
-5. start node
+6. start node
 
 npm run start&#x20;
 
