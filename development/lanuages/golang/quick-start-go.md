@@ -5,40 +5,46 @@
 3. Make a file named main.go leave it blank for now
 4. Run
 
-go mod init \<name of project>&#x20;
+```
+go mod init <name of project> 
+```
 
 5. This will make a go.mod file, simple answer it where dependencies live&#x20;
 6. To add a dependency
 
-go get \<package name>
+```
+go get <package name>
+```
 
 \***NOTE**\*
 
 Sometime the dependency do not want to play well so you may need to run this command and save a few times to make all the errors and warnings go away
 
+```
 go mod tidy
+```
 
 ### Basic hello world
 
 7. This to the main.go file&#x20;
 
+```
 package main
-
 import (
-
-&#x20;          "fmt"
-
+    "fmt"
 )
-
-func main(){
-
-&#x20;        fmt.println("Hello world")
-
+func main(){      
+      fmt.println("Hello world")
 }
+```
 
 8. Run
 
+```
 go run main.go
+```
+
+
 
 
 
