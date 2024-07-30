@@ -369,6 +369,7 @@
   * [Discord as a C2](security-programs/command-and-control/discord-as-a-c2.md)
   * [Octopus C2 Server](security-programs/command-and-control/octopus-c2-server.md)
   * [Empire C2 framework](security-programs/command-and-control/empire-c2-framework.md)
+  * [RedGuard C2](security-programs/command-and-control/redguard-c2.md)
 * [HoneyPots](security-programs/honeypots/README.md)
   * [Honeypots](security-programs/honeypots/honeypots.md)
   * [Respotter](security-programs/honeypots/respotter.md)
