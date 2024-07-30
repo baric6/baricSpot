@@ -805,6 +805,7 @@
   * [Tracking](playbook/threat-hunting/tracking/README.md)
     * [Tracking Ships](playbook/threat-hunting/tracking/tracking-ships.md)
     * [Tracking Planes](playbook/threat-hunting/tracking/tracking-planes.md)
+  * [BugBounty Resources](playbook/threat-hunting/bugbounty-resources.md)
 * [Resources](playbook/resources/README.md)
   * [Playbook Resources](playbook/resources/playbook-resources.md)
   * [Cybersecurity search engines for researchers](playbook/resources/cybersecurity-search-engines-for-researchers.md)
