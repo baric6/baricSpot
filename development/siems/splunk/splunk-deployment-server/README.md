@@ -21,7 +21,7 @@ In _Updating Splunk Enterprise Instances_:
 
 ## forwarder management
 
-<figure><img src="../../../.gitbook/assets/700px-Forwarder_management_start_page.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/700px-Forwarder_management_start_page.png" alt=""><figcaption></figcaption></figure>
 
 _noun_
 
