@@ -8,6 +8,8 @@ A Splunk Enterprise instance that acts as a centralized configuration manager, g
 
 The [forwarder management](https://docs.splunk.com/Splexicon:Forwardermanagement) interface offers an easy way to configure the deployment server.
 
+{% embed url="https://www.youtube.com/watch?v=ccJFp2VgqgM" %}
+
 ### For more information
 
 In _Updating Splunk Enterprise Instances_:
