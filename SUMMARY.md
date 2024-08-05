@@ -571,6 +571,7 @@
     * [Stop auto logout](development/siems/splunk/stop-auto-logout.md)
     * [Script Locations](development/siems/splunk/script-locations.md)
     * [Deployment Server](development/siems/splunk/deployment-server.md)
+    * [Splunk Deployment Server](development/siems/splunk/splunk-deployment-server.md)
 * [Graphing Tools](development/graphing-tools/README.md)
   * [Figma Program Graphing](development/graphing-tools/figma-program-graphing.md)
 * [Website Dev](development/website-dev/README.md)
