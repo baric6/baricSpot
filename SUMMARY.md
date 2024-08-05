@@ -577,7 +577,7 @@
   * [Phishing Dev](development/phishing-dev/README.md)
     * [PWA - Progressive Web Apps](development/phishing-dev/pwa-progressive-web-apps.md)
     * [Scareware Example](development/website-dev/phishing-dev/scareware-example.md)
-    * [TODO create phishing page with Zoom](development/website-dev/phishing-dev/todo-create-phishing-page-with-zoom.md)
+    * [TODO Ideas](development/website-dev/phishing-dev/todo-ideas.md)
   * [RevolverMaps](development/website-dev/revolvermaps.md)
   * [Emailerjs](development/website-dev/emailerjs.md)
 * [Lanuages](development/lanuages/README.md)
