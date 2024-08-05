@@ -54,3 +54,13 @@ In _Updating Splunk Enterprise Instances_:
 * [Deploy apps to clients](http://docs.splunk.com/Documentation/Splunk/9.3.0/Updating/Updateconfigurations)
 
 {% embed url="https://docs.splunk.com/Documentation/Splunk/9.3.0/Updating/Forwardermanagementoverview" %}
+
+## Deployment Server to Push Out Apps for Data Ingestion
+
+{% embed url="https://www.youtube.com/watch?v=rXywsH_D4Sw" %}
+
+## Notes
+
+1. Depending on what OS you want to install the deployment server on WINDOWS  can only work with WINDOWS agents. If you put the deployment server on a LINUX box it will be able to talk to WINDOWS and LINUX.
+2. This is the same installer as the SIEM version it is just going to be configured differently. In the deployment server no log files should be routed there
+3. It is free for the deployment server except for the cloud version of splunk
