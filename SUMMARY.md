@@ -574,6 +574,7 @@
     * [Splunk Deployment Server](development/siems/splunk/splunk-deployment-server/README.md)
       * [Deployment Resources](development/siems/splunk/splunk-deployment-server/deployment-resources.md)
       * [Other Types of Deployment Servers that can be used](development/siems/splunk/splunk-deployment-server/other-types-of-deployment-servers-that-can-be-used.md)
+    * [Calling Rest API from Splunk](development/siems/splunk/calling-rest-api-from-splunk.md)
 * [Graphing Tools](development/graphing-tools/README.md)
   * [Figma Program Graphing](development/graphing-tools/figma-program-graphing.md)
 * [Website Dev](development/website-dev/README.md)
