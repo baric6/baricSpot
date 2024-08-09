@@ -426,6 +426,7 @@
     * [Nomi Sec (Exploits)](development/api-and-data-sources/github-data-sources/nomi-sec-exploits.md)
     * [IPsum bad IP's](development/api-and-data-sources/github-data-sources/ipsum-bad-ips.md)
     * [romainmarcoux bad IP addresses](development/api-and-data-sources/github-data-sources/romainmarcoux-bad-ip-addresses.md)
+  * [IP2Location](development/api-and-data-sources/ip2location.md)
 * [Databases](development/databases/README.md)
   * [MySQL Fake Server](development/databases/mysql-fake-server.md)
   * [Beekeeper studio remote SQL viewer](development/databases/beekeeper-studio-remote-sql-viewer.md)
