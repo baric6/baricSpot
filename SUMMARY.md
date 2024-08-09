@@ -328,6 +328,7 @@
   * [Fireprox](security-programs/privacy/fireprox.md)
   * [Proxycannon-ng](security-programs/privacy/proxycannon-ng.md)
   * [Gigaproxy](security-programs/privacy/gigaproxy.md)
+  * [White Intel - A DATA ANALYTICS TOOL FOR DETECTING BREACHES FROM INFORMATION STEALERS](security-programs/privacy/white-intel-a-data-analytics-tool-for-detecting-breaches-from-information-stealers.md)
 * [Useful Online Links](security-programs/useful-online-links/README.md)
   * [Hugging face AI LLM models](security-programs/useful-online-links/hugging-face-ai-llm-models.md)
   * [Hunter internet device finder, like Shodan](security-programs/useful-online-links/hunter-internet-device-finder-like-shodan.md)
