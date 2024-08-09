@@ -128,6 +128,7 @@
   * [Mitmproxy - open source interactive HTTPS proxy.](security-programs/browser-tools/mitmproxy-open-source-interactive-https-proxy..md)
   * [BrowserGhost get browser data](security-programs/browser-tools/browserghost-get-browser-data.md)
   * [BrowserAudit](security-programs/browser-tools/browseraudit.md)
+  * [I-See-You](security-programs/browser-tools/i-see-you.md)
 * [Mobile](security-programs/mobile/README.md)
   * [ApkHack Backdoor](security-programs/mobile/apkhack-backdoor.md)
   * [(IOT) MQTT Explorer](security-programs/mobile/iot-mqtt-explorer.md)
