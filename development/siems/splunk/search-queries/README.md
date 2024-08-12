@@ -5,10 +5,12 @@
 #### Count by tag you are searching for like "Message" will bring a count of like messages
 
 ```
-| stats count by <tag>
+| stats count by ip
 ```
 
-
+```
+| stats count by userName, ip
+```
 
 #### Rex is regex that you can replace a string like below replace a space with a underscore&#x20;
 
@@ -32,11 +34,23 @@
 
 #### Compare IP data in file with splunk logs
 
+* lookup c2cisp.csv ip  - calls the file and uses the ip column
+* matches the ip to the the data set d\_ip
+* outputs the matched in a var named c2cisp
+
 ```
 * | lookup c2cisp.csv ip as d_ip OUTPUT ip as c2cisp | search c2cisp=*
 ```
 
 {% embed url="https://community.splunk.com/t5/Splunk-Search/How-to-search-a-lookup-table-to-find-any-IP-addresses-that-match/m-p/175026" %}
+
+Find IPs that are not in the csv or 123.123.123.123
+
+```
+* | lookup IP.csv ip AS ipAdd OUTPUT ip AS match_ip
+| where isnull(match_ip) | where ipAdd != "123.123.123.123"
+| stats count by userDisplayName, ipAdd | sort - count
+```
 
 #### Using Sort
 
