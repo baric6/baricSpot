@@ -71,3 +71,26 @@ your search....| sort -_time
 ```
 
 {% embed url="https://docs.splunk.com/Documentation/SCS/current/SearchReference/WhereCommandExamples" %}
+
+#### Using maps with Location of IP
+
+Cluster map
+
+```
+* | iplocation ipAdd 
+| geostats latfield=lat longfield=lon count by  userName
+```
+
+<figure><img src="../../../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+
+Choropleth Map&#x20;
+
+```
+* | iplocation ip
+| stats count by Country 
+| rename Country AS country count as numb 
+| sort -numb 
+| geom geo_countries featureIdField=country
+```
+
+<figure><img src="../../../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
