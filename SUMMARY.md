@@ -738,6 +738,7 @@
     * [Security basics articles](playbook/security-education/links/security-basics-articles.md)
   * [Videos](playbook/security-education/videos/README.md)
     * [Barracuda](playbook/security-education/videos/barracuda.md)
+    * [Microsoft](playbook/security-education/videos/microsoft.md)
   * [Games](playbook/security-education/games/README.md)
     * [Cyber Awareness Challenge](playbook/security-education/games/cyber-awareness-challenge.md)
     * [Cyber Crosswords](playbook/security-education/games/cyber-crosswords.md)
