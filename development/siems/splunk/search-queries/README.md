@@ -109,7 +109,7 @@ your search....| sort -_time
 Cluster map
 
 ```
-* | iplocation ipAdd 
+| iplocation ipAdd 
 | geostats latfield=lat longfield=lon count by userName
 ```
 
@@ -118,7 +118,7 @@ Cluster map
 Choropleth Map&#x20;
 
 ```
-* | iplocation ip
+| iplocation ip
 | stats count by Country 
 | rename Country AS country count as numb 
 | sort -numb 
