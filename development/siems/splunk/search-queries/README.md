@@ -38,16 +38,15 @@
 * matches the ip to the the data set d\_ip
 * outputs the matched in a var named c2cisp
 
-```
-* | lookup c2cisp.csv ip as d_ip OUTPUT ip as c2cisp | search c2cisp=*
-```
+<pre><code><strong>| lookup c2cisp.csv ip as d_ip OUTPUT ip as c2cisp | search c2cisp=*
+</strong></code></pre>
 
 {% embed url="https://community.splunk.com/t5/Splunk-Search/How-to-search-a-lookup-table-to-find-any-IP-addresses-that-match/m-p/175026" %}
 
 Find IPs that are not in the csv or 123.123.123.123
 
 ```
-* | lookup IP.csv ip AS ipAdd OUTPUT ip AS match_ip
+| lookup IP.csv ip AS ipAdd OUTPUT ip AS match_ip
 | where isnull(match_ip) | where ipAdd != "123.123.123.123"
 | stats count by userDisplayName, ipAdd | sort - count
 ```
