@@ -448,6 +448,7 @@
   * [KQL Identity-based Attacks](development/microsoft-kql/kql-identity-based-attacks.md)
   * [KQL Hunting URLS Queries](development/microsoft-kql/kql-hunting-urls-queries.md)
   * [KQL search](development/microsoft-kql/kql-search.md)
+  * [KQL Github Pages](development/microsoft-kql/kql-github-pages.md)
 * [Runescape Botting](development/runescape-botting/README.md)
   * [osBot](development/runescape-botting/osbot/README.md)
     * [{1} how to begin](development/runescape-botting/osbot/1-how-to-begin.md)
