@@ -32,6 +32,7 @@
   * [WhatsMyName](security-programs/osint/whatsmyname.md)
   * [LeakSearch Tool to search password dumps and breached DB](security-programs/osint/leaksearch-tool-to-search-password-dumps-and-breached-db.md)
   * [Skytrack track planes](security-programs/osint/skytrack-track-planes.md)
+  * [Tookie-osint](security-programs/osint/tookie-osint.md)
 * [Security FrameWorks](security-programs/security-frameworks/README.md)
   * [(docker) OffensiveDocker](security-programs/security-frameworks/docker-offensivedocker.md)
   * [ICS Security training](security-programs/security-frameworks/ics-security-training.md)
@@ -391,6 +392,7 @@
 * [HoneyPots](security-programs/honeypots/README.md)
   * [Honeypots](security-programs/honeypots/honeypots.md)
   * [Respotter](security-programs/honeypots/respotter.md)
+  * [HoneyDB](security-programs/honeypots/honeydb.md)
 
 ## Development&#x20;
 
@@ -531,6 +533,7 @@
   * [Monitoring domain controller with TIG suite](development/homelab/monitoring-domain-controller-with-tig-suite.md)
   * [How to install NetHunter on TicWatch Pro](development/homelab/how-to-install-nethunter-on-ticwatch-pro.md)
   * [Sniffnet network monitor](development/homelab/sniffnet-network-monitor.md)
+  * [NetAlertX](development/homelab/netalertx.md)
 * [Siems](development/siems/README.md)
   * [Wazuh](development/siems/wazuh/README.md)
     * [Default register agent config](development/siems/wazuh/default-register-agent-config.md)
