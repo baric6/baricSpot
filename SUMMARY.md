@@ -99,6 +99,7 @@
   * [X64DBG RE debugger](security-programs/reverse-engineering/x64dbg-re-debugger.md)
   * [Forensics - RecoverPy Un-delete Data](security-programs/reverse-engineering/forensics-recoverpy-un-delete-data.md)
   * [YaraDbg](security-programs/reverse-engineering/yaradbg.md)
+  * [Interactive PDF Analysis](security-programs/reverse-engineering/interactive-pdf-analysis.md)
 * [Phishing](security-programs/phishing/README.md)
   * [(defense) Conan account finder](security-programs/phishing/defense-conan-account-finder.md)
   * [(defense) Mailto analyzer](security-programs/phishing/defense-mailto-analyzer.md)

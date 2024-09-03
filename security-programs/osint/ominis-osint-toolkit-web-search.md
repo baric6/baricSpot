@@ -2,7 +2,7 @@
 
 **Information Obtained** Discover online mentions of a query or username. Identify potential social profiles and forums.
 
-<figure><img src="../../.gitbook/assets/screenshot.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (1).png" alt=""><figcaption></figcaption></figure>
 
 Download
 
