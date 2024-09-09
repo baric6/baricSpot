@@ -1,6 +1,6 @@
 # (Paid) Private Internet Access
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 When you go online with a VPN, all your inbound and outbound traffic travels through an encrypted tunnel. This means ISPs, cyber-criminals, network admins, and anyone else who might be snooping on your activity won’t be able to see what you’re up to.
 

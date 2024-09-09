@@ -318,6 +318,7 @@
   * [WebCopilot](security-programs/bug-bounty/webcopilot.md)
   * [Subdominator](security-programs/bug-bounty/subdominator.md)
   * [Web-Check: The Ultimate Toolkit for Website Analysis and Security Assessment](security-programs/bug-bounty/web-check-the-ultimate-toolkit-for-website-analysis-and-security-assessment.md)
+  * [DorkGPT](security-programs/bug-bounty/dorkgpt.md)
 * [Privacy](security-programs/privacy/README.md)
   * [Tor](security-programs/privacy/tor.md)
   * [I2P](security-programs/privacy/i2p.md)
