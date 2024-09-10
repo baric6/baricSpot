@@ -125,3 +125,16 @@ Choropleth Map&#x20;
 ```
 
 <figure><img src="../../../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+
+To add multiple lookup files to a search, this should work for Cluster map and Choropleth Map&#x20;
+
+* You can just stack the lookups
+
+```
+source="activity" load=Directory  Op=Logged
+| lookup Microsoft.csv subnet AS CIP OUTPUT subnet AS matched_subnet
+| lookup IP.csv IP AS CIP OUTPUT IP AS matched_subnet
+| where isnull(matched_subnet)
+| iplocation CIP
+| geostats latfield=lat longfield=lon count by UserId
+```
