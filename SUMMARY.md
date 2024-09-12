@@ -677,6 +677,8 @@
     * [How to Create Distribution Lists in Outlook](it-help/windows/office-product/how-to-create-distribution-lists-in-outlook.md)
     * [Hard delete mailbox without deleting user account in Microsoft 365](it-help/windows/office-product/hard-delete-mailbox-without-deleting-user-account-in-microsoft-365.md)
     * [Send automatic out of office replies from Outlook.com or Outlook on the web](it-help/windows/office-product/send-automatic-out-of-office-replies-from-outlook.com-or-outlook-on-the-web.md)
+  * [Group Policy](it-help/windows/group-policy/README.md)
+    * [Make Edge open a custom site](it-help/windows/group-policy/make-edge-open-a-custom-site.md)
 * [Programs](it-help/programs/README.md)
   * [Make A OVA file from you virtual box VM](it-help/programs/make-a-ova-file-from-you-virtual-box-vm.md)
   * [Adobe XI redact location](it-help/programs/adobe-xi-redact-location.md)
