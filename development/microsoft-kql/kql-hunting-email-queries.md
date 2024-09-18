@@ -82,3 +82,30 @@ EmailEvents
 | order by EmailLanguage asc // Sort by language in ascending order
 | project RecipientEmailAddress, Subject, SenderFromAddress, EmailLanguage
 ```
+
+#### Finding attachments sent from Gmail
+
+```kusto
+EmailAttachmentInfo
+| where SenderFromAddress contains "gmail"
+| project RecipientEmailAddress, SenderFromAddress, FileName
+```
+
+#### Finding attachments that are PDF sent from Gmail with a certain size
+
+```kusto
+EmailAttachmentInfo
+| where FileType has "pdf"
+| where SenderFromAddress contains "gmail"
+| where FileSize > 40000 and FileSize < 50000
+| extend FileSizeKB = FileSize / 1024.0
+| project RecipientEmailAddress, SenderFromAddress, FileName, FileSize, FileSizeKB 
+```
+
+Attachments type count
+
+```kusto
+EmailAttachmentInfo
+| summarize Count = count() by FileType
+| order by Count desc
+```
