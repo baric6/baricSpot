@@ -109,3 +109,11 @@ EmailAttachmentInfo
 | summarize Count = count() by FileType
 | order by Count desc
 ```
+
+#### Email contains in subject
+
+```kusto
+EmailEvents
+| where Subject contains "Direct Deposit"
+| project SenderFromAddress, RecipientEmailAddress, Subject
+```

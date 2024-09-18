@@ -460,6 +460,7 @@
   * [KQL Hunting URLS Queries](development/microsoft-kql/kql-hunting-urls-queries.md)
   * [KQL search](development/microsoft-kql/kql-search.md)
   * [KQL Github Pages](development/microsoft-kql/kql-github-pages.md)
+  * [Generate KQL queries](development/microsoft-kql/generate-kql-queries.md)
 * [Runescape Botting](development/runescape-botting/README.md)
   * [osBot](development/runescape-botting/osbot/README.md)
     * [{1} how to begin](development/runescape-botting/osbot/1-how-to-begin.md)
