@@ -860,6 +860,7 @@
     * [VPN & Proxy IP Detection Tool](playbook/threat-hunting/osint-websites/vpn-and-proxy-ip-detection-tool.md)
     * [IP2Proxy Proxy Detection](playbook/threat-hunting/osint-websites/ip2proxy-proxy-detection.md)
     * [IP Address Lookup](playbook/threat-hunting/osint-websites/ip-address-lookup.md)
+    * [Use this Ip-locator](playbook/threat-hunting/osint-websites/use-this-ip-locator.md)
   * [Phishing](playbook/threat-hunting/phishing/README.md)
     * [Fake Site URL lookup](playbook/threat-hunting/phishing/fake-site-url-lookup.md)
     * [Phishtank URL lookup](playbook/threat-hunting/phishing/phishtank-url-lookup.md)
