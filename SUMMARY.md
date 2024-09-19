@@ -354,6 +354,7 @@
   * [Youtube Downloader](security-programs/useful-online-links/youtube-downloader.md)
   * [TinEye Reverse Image Search](security-programs/useful-online-links/tineye-reverse-image-search.md)
   * [Browser exploit CTF challenges](security-programs/useful-online-links/browser-exploit-ctf-challenges.md)
+  * [Wordlists specially for API routes fuzzing](security-programs/useful-online-links/wordlists-specially-for-api-routes-fuzzing.md)
 * [Spiders and Scrapers](security-programs/spiders-and-scrapers/README.md)
   * [NodeCraw](security-programs/spiders-and-scrapers/nodecraw.md)
   * [WebPalm](security-programs/spiders-and-scrapers/webpalm.md)
