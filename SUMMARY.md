@@ -445,6 +445,7 @@
   * [IP2Location](development/api-and-data-sources/ip2location.md)
   * [WebCheck API](development/api-and-data-sources/webcheck-api.md)
   * [Wordlists specially for API routes fuzzing](development/api-and-data-sources/wordlists-specially-for-api-routes-fuzzing.md)
+  * [(paid) Netify Network intel](development/api-and-data-sources/paid-netify-network-intel.md)
 * [Databases](development/databases/README.md)
   * [MySQL Fake Server](development/databases/mysql-fake-server.md)
   * [Beekeeper studio remote SQL viewer](development/databases/beekeeper-studio-remote-sql-viewer.md)
