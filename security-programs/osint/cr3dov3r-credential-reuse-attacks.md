@@ -1,6 +1,6 @@
 # Cr3dOv3r credential reuse attacks
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 You give Cr3dOv3r an email then it does two simple useful jobs with it:
 

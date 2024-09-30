@@ -8,7 +8,7 @@
 
 If in the installer you have it monitoring the event viewer alerts the file should contain
 
-<figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
 To monitor the file location add this to the above file
 

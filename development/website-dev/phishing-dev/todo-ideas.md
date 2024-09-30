@@ -2,7 +2,7 @@
 
 ### Make a Phishing page for zoom
 
-<figure><img src="../../../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-06-21 133158.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,6 +1,6 @@
 # ETWMonitor
 
-<figure><img src="../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
 
 Windows notifier tool that detects suspicious connections by monitoring ETW event logs&#x20;
 

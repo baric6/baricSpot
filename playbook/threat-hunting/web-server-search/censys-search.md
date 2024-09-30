@@ -1,6 +1,6 @@
 # Censys Search
 
-<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
 Below is a example link that shows how to search by a label
 

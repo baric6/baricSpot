@@ -7,4 +7,4 @@ description: >-
 
 # OSINT
 
-<figure><img src="../../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,6 @@
 # APKLeaks Scanner
 
-<figure><img src="../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
 
 Scanning APK file for URIs, endpoints & secrets.&#x20;
 

@@ -10,7 +10,7 @@ Poastal is an email OSINT tool that provides valuable information on any email a
 * Identify if the email is considered spam.
 * Check if the email is registered on popular platforms such as Facebook, Twitter, Snapchat, Parler, Rumble, MeWe, Imgur, Adobe, Wordpress, and Duolingo.
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 Download&#x20;
 

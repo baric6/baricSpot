@@ -6,11 +6,11 @@ Encrypting File System (EFS) is a useful feature. Other user accounts cannot acc
 
 When a folder or file is encrypted using Encrypting File System (EFS), the File Explorer app shows a pad lock overlay icon for such a file or folder.
 
-<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
 Tip: File Explorer can show encrypted files in green color. You need to turn on this feature manually as described in the article Show Compressed and Encrypted Files in Color in Windows 10.
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 Show Compressed Encrypted Files In Color In File Explorer
 
@@ -31,7 +31,7 @@ Open a new command prompt
 
 Find Encrypted Files The command will list your encrypted files.
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
 You are done!
 
@@ -43,4 +43,4 @@ Execute the following command in the command prompt:
 
 This will create the file encrypted\_files.txt on your desktop.Windows 10 Find Encrypted Files
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>

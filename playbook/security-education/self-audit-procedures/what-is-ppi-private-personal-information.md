@@ -21,7 +21,7 @@ Identifying Information. However, HUD standards refer to PPI
 
 **Loss of Control, Compromise, Unauthorized Disclose, Unauthorized Acquisition or Access**
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 **Helpful links**
 

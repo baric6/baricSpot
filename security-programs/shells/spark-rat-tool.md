@@ -4,7 +4,7 @@ Spark is a free, safe, open-source, web-based, cross-platform and full-featured 
 
 We won't collect any data, thus the server will never self-upgrade. Your clients will only communicate with your server forever.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 Download&#x20;
 

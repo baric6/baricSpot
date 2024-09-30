@@ -1,6 +1,6 @@
 # BLINT ELF, EXE vuln scanner
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 Download&#x20;
 

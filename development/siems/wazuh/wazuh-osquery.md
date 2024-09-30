@@ -17,4 +17,4 @@ windows debug&#x20;
 1. keep default value to yes
 2. remove default value on windows what is happening is the instance is running twice
 
-<figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>

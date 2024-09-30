@@ -1,6 +1,6 @@
 # Invoke ADEnum
 
-<figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 
 Active Directory Enumerator - Automate Active Directory Enumeration using PowerView
 

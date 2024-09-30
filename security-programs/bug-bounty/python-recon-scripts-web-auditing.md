@@ -1,6 +1,6 @@
 # Python recon scripts web auditing
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
 Have you ever done an audit with a lot of hosts to audit and were lazy to do all the blackbox tests by hand?
 

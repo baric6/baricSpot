@@ -1,6 +1,6 @@
 # W3af (Web Application Attack and Audit Framework)
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 Download and Docker&#x20;
 

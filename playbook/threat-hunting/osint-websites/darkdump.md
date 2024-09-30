@@ -1,6 +1,6 @@
 # Darkdump
 
-<figure><img src="../../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
 
 Example 1: `python3 darkdump.py --query programming`\
 Example 2: `python3 darkdump.py --query="chat rooms"`\

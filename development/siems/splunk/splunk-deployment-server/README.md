@@ -19,7 +19,7 @@ In _Updating Splunk Enterprise Instances_:
 
 ## Deploy and Use the Splunk App for Windows Infrastructure
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://docs.splunk.com/Documentation/MSApp/2.0.4/MSInfra/Setupadeploymentserver" %}
 

@@ -1,6 +1,6 @@
 # Security basics articles
 
-<figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
 
 A site that gives out good information about basic topics in Cyber Security
 

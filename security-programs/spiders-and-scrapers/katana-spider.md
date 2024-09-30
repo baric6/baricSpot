@@ -1,6 +1,6 @@
 # Katana Spider
 
-<figure><img src="../../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
 * Fast And fully configurable web crawling
 * Standard and Headless mode support

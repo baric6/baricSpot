@@ -4,4 +4,4 @@ Many applications, including browsers, support the SSLKEYFILEFILE environment va
 
 To configure Wireshark to use a specific TLS key log file, open the Preferences dialog (Edit -> Preferences), navigate to the TLS section under Protocols, and then change the (Pre)-Master-Secret log filename field:
 
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>

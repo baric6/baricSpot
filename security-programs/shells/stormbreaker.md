@@ -5,7 +5,7 @@
 * Access Webcam
 * Access Microphone
 
-<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 Download&#x20;
 
