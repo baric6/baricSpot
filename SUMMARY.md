@@ -785,6 +785,7 @@
     * [Troubleshooting DHCP](it-help/networking/dhcp/troubleshooting-dhcp.md)
 * [Resume tools](it-help/resume-tools/README.md)
   * [Latex resume builder](it-help/resume-tools/latex-resume-builder.md)
+  * [Eforms](it-help/resume-tools/eforms.md)
 
 ## Playbook
 
