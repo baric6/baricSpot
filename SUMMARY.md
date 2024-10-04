@@ -653,6 +653,7 @@
     * [Quick start Go](development/lanuages/golang/quick-start-go.md)
 * [GitHub](development/github/README.md)
   * [Make Personal tokens for use in your programs](development/github/make-personal-tokens-for-use-in-your-programs.md)
+  * [CVE PoC](development/github/cve-poc.md)
 
 ## IT Help
 
