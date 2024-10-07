@@ -202,7 +202,7 @@
   * [Fenrir linux incator of compremises scanner](security-programs/audit-and-scanners/fenrir-linux-incator-of-compremises-scanner.md)
   * [Parchu web vuln checker](security-programs/audit-and-scanners/parchu-web-vuln-checker.md)
   * [Angry IP scanner](security-programs/audit-and-scanners/angry-ip-scanner.md)
-  * [nuclei](security-programs/audit-and-scanners/nuclei.md)
+  * [Nuclei Scanner](security-programs/audit-and-scanners/nuclei-scanner.md)
   * [rmap](security-programs/audit-and-scanners/rmap.md)
   * [Slooth Security Vulnerability Search and Management System](security-programs/audit-and-scanners/slooth-security-vulnerability-search-and-management-system.md)
   * [Wireshark](security-programs/audit-and-scanners/wireshark.md)
