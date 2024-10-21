@@ -471,6 +471,7 @@
   * [WebCheck API](development/api-and-scraping-sources/webcheck-api.md)
   * [Wordlists specially for API routes fuzzing](development/api-and-scraping-sources/wordlists-specially-for-api-routes-fuzzing.md)
   * [(paid) Netify Network intel](development/api-and-scraping-sources/paid-netify-network-intel.md)
+  * [(semi free)IPHQ Fraud and Cyber Threats API](development/api-and-scraping-sources/semi-free-iphq-fraud-and-cyber-threats-api.md)
 * [Microsoft KQL](development/microsoft-kql/README.md)
   * [KQL hunting email Queries](development/microsoft-kql/kql-hunting-email-queries.md)
   * [KQL Identity-based Attacks](development/microsoft-kql/kql-identity-based-attacks.md)
