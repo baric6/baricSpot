@@ -655,6 +655,8 @@
     * [Graftcp](development/lanuages/library/graftcp.md)
     * [Python-For-Cybersecurity](development/lanuages/library/python-for-cybersecurity.md)
     * [How to Launch an HTTP Server in One Line of Python Code](development/lanuages/library/how-to-launch-an-http-server-in-one-line-of-python-code.md)
+  * [Python](development/lanuages/python/README.md)
+    * [Python to EXE file](development/lanuages/python/python-to-exe-file.md)
 * [GitHub](development/github/README.md)
   * [Make Personal tokens for use in your programs](development/github/make-personal-tokens-for-use-in-your-programs.md)
 
