@@ -619,6 +619,7 @@
     * [Splunkbase Apps](development/siems/splunk/splunkbase-apps/README.md)
       * [Splunkbase App Values](development/siems/splunk/splunkbase-apps/splunkbase-app-values.md)
       * [Verkada Splunk Integration](development/siems/splunk/splunkbase-apps/verkada-splunk-integration.md)
+      * [Microsoft teams add-on for Splunk](development/siems/splunk/splunkbase-apps/microsoft-teams-add-on-for-splunk.md)
     * [Create/Modify User account](development/siems/splunk/create-modify-user-account.md)
     * [Stop auto logout](development/siems/splunk/stop-auto-logout.md)
     * [Script Locations](development/siems/splunk/script-locations.md)
