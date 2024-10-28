@@ -338,6 +338,7 @@
   * [Subdominator](security-programs/bug-bounty/subdominator.md)
   * [Web-Check: The Ultimate Toolkit for Website Analysis and Security Assessment](security-programs/bug-bounty/web-check-the-ultimate-toolkit-for-website-analysis-and-security-assessment.md)
   * [DorkGPT](security-programs/bug-bounty/dorkgpt.md)
+  * [Hexa Keylogger](security-programs/bug-bounty/hexa-keylogger.md)
 * [Privacy](security-programs/privacy/README.md)
   * [Tor](security-programs/privacy/tor/README.md)
     * [Tor-Bot Dark-web scanner](security-programs/privacy/tor/tor-bot-dark-web-scanner.md)
