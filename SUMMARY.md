@@ -146,6 +146,7 @@
   * [BrowserAudit](security-programs/browser-tools/browseraudit.md)
   * [I-See-You](security-programs/browser-tools/i-see-you.md)
   * [DB Browser for SQLite (DB4S)](security-programs/browser-tools/db-browser-for-sqlite-db4s.md)
+  * [CursedChrome](security-programs/browser-tools/cursedchrome.md)
 * [Mobile](security-programs/mobile/README.md)
   * [ApkHack Backdoor](security-programs/mobile/apkhack-backdoor.md)
   * [(IOT) MQTT Explorer](security-programs/mobile/iot-mqtt-explorer.md)
