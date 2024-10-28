@@ -326,6 +326,7 @@
   * [(bugbounty) Wildcrawl](security-programs/bug-bounty/bugbounty-wildcrawl.md)
   * [CMSmap website vulnscan](security-programs/bug-bounty/cmsmap-website-vulnscan.md)
   * [SQLMap](security-programs/bug-bounty/sqlmap.md)
+  * [GraphQLmap](security-programs/bug-bounty/graphqlmap.md)
   * [(vuln scanner) Web Security Scanner](security-programs/bug-bounty/vuln-scanner-web-security-scanner.md)
   * [FFUF fuzzer](security-programs/bug-bounty/ffuf-fuzzer.md)
   * [Shodan Scrapper](security-programs/bug-bounty/shodan-scrapper.md)
