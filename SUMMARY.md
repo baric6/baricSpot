@@ -441,6 +441,7 @@
     * [CVE PoC - github](development/api-and-scraping-sources/scraping/cve-poc-github.md)
     * [NVD CVE Search - site](development/api-and-scraping-sources/scraping/nvd-cve-search-site.md)
     * [Packet-storm Exploits search - site](development/api-and-scraping-sources/scraping/packet-storm-exploits-search-site.md)
+    * [CVE shodan JSON endpoint](development/api-and-scraping-sources/scraping/cve-shodan-json-endpoint.md)
   * [Github Data Sources](development/api-and-scraping-sources/github-data-sources/README.md)
     * [Pinokio AI Collection](development/api-and-scraping-sources/github-data-sources/pinokio-ai-collection.md)
     * [Mail checker list of bad email domains](development/api-and-scraping-sources/github-data-sources/mail-checker-list-of-bad-email-domains.md)
