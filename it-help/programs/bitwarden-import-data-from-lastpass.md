@@ -24,6 +24,5 @@ You can also import data directly from LastPass into Bitwarden:
 2. Select the Settings tab
 3. Choose Vault and then Import items
 4. Follow the prompts to import directly from LastPass&#x20;
-5.
 
 Bitwarden may reject imports that exceed certain data limitations, such as the number of items, folders, collections, or item-folder relationships.&#x20;
