@@ -671,6 +671,7 @@
     * [How to Launch an HTTP Server in One Line of Python Code](development/lanuages/python/how-to-launch-an-http-server-in-one-line-of-python-code.md)
 * [GitHub](development/github/README.md)
   * [Make Personal tokens for use in your programs](development/github/make-personal-tokens-for-use-in-your-programs.md)
+  * [How to unlink and link GPO policies](development/github/how-to-unlink-and-link-gpo-policies.md)
 
 ## IT Help
 
