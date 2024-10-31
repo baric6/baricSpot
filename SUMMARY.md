@@ -676,6 +676,7 @@
     * [Pwntools python lib](development/lanuages/python/pwntools-python-lib.md)
     * [Python-For-Cybersecurity](development/lanuages/python/python-for-cybersecurity.md)
     * [How to Launch an HTTP Server in One Line of Python Code](development/lanuages/python/how-to-launch-an-http-server-in-one-line-of-python-code.md)
+    * [Virus-Builder](development/lanuages/python/virus-builder.md)
   * [bash](development/lanuages/bash/README.md)
     * [Check for Leaked Passwords on HaveIBeenPwned](development/lanuages/bash/check-for-leaked-passwords-on-haveibeenpwned.md)
 * [GitHub](development/github/README.md)

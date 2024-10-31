@@ -1,0 +1,5 @@
+# Virus-Builder
+
+This tool will generate a virus that can only destroy Windows computer. You can also configure to auto run in usb drive More scripts will be added with time
+
+{% embed url="https://github.com/Cyber-Dioxide/Virus-Builder/" %}
