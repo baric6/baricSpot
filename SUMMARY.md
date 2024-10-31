@@ -168,6 +168,7 @@
   * [BlueToolkit](security-programs/mobile/bluetoolkit.md)
   * [DH-Hackbar](security-programs/mobile/dh-hackbar.md)
   * [Sippts VoIP Scanner](security-programs/mobile/sippts-voip-scanner.md)
+  * [Frida Script Runner](security-programs/mobile/frida-script-runner.md)
 * [Audit and Scanners](security-programs/audit-and-scanners/README.md)
   * [OpenVAS/Greenbone](security-programs/audit-and-scanners/openvas-greenbone.md)
   * [Nikto Scanner](security-programs/audit-and-scanners/nikto-scanner.md)
