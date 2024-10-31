@@ -388,6 +388,7 @@
   * [G-Scraper](security-programs/spiders-and-scrapers/g-scraper.md)
   * [Email Crawler](security-programs/spiders-and-scrapers/email-crawler.md)
   * [creepyCrawler](security-programs/spiders-and-scrapers/creepycrawler.md)
+  * [Maxun auto web-scraper](security-programs/spiders-and-scrapers/maxun-auto-web-scraper.md)
 * [Command and Control](security-programs/command-and-control/README.md)
   * [Merlin C2](security-programs/command-and-control/merlin-c2.md)
   * [Periscope C2](security-programs/command-and-control/periscope-c2.md)
