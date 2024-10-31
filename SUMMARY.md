@@ -676,9 +676,10 @@
     * [Pwntools python lib](development/lanuages/python/pwntools-python-lib.md)
     * [Python-For-Cybersecurity](development/lanuages/python/python-for-cybersecurity.md)
     * [How to Launch an HTTP Server in One Line of Python Code](development/lanuages/python/how-to-launch-an-http-server-in-one-line-of-python-code.md)
+  * [bash](development/lanuages/bash/README.md)
+    * [Check for Leaked Passwords on HaveIBeenPwned](development/lanuages/bash/check-for-leaked-passwords-on-haveibeenpwned.md)
 * [GitHub](development/github/README.md)
   * [Make Personal tokens for use in your programs](development/github/make-personal-tokens-for-use-in-your-programs.md)
-  * [How to unlink and link GPO policies](development/github/how-to-unlink-and-link-gpo-policies.md)
 
 ## IT Help
 
@@ -748,6 +749,7 @@
     * [Send automatic out of office replies from Outlook.com or Outlook on the web](it-help/windows/office-product/send-automatic-out-of-office-replies-from-outlook.com-or-outlook-on-the-web.md)
   * [Group Policy](it-help/windows/group-policy/README.md)
     * [Make Edge open a custom site](it-help/windows/group-policy/make-edge-open-a-custom-site.md)
+    * [How to unlink and link GPO policies](it-help/windows/group-policy/how-to-unlink-and-link-gpo-policies.md)
 * [Programs](it-help/programs/README.md)
   * [Make A OVA file from you virtual box VM](it-help/programs/make-a-ova-file-from-you-virtual-box-vm.md)
   * [Adobe XI redact location](it-help/programs/adobe-xi-redact-location.md)
