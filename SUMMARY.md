@@ -105,6 +105,7 @@
   * [YaraDbg](security-programs/reverse-engineering/yaradbg.md)
   * [Interactive PDF Analysis](security-programs/reverse-engineering/interactive-pdf-analysis.md)
   * [Indetectables Toolkit](security-programs/reverse-engineering/indetectables-toolkit.md)
+  * [Binwalk](security-programs/reverse-engineering/binwalk.md)
 * [Phishing](security-programs/phishing/README.md)
   * [(defense) Conan account finder](security-programs/phishing/defense-conan-account-finder.md)
   * [(defense) Mailto analyzer](security-programs/phishing/defense-mailto-analyzer.md)
