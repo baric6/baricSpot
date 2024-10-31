@@ -60,6 +60,7 @@
   * [Velociraptor threat hunter](security-programs/threat-hunting/velociraptor-threat-hunter.md)
   * [Win32 Offensive Cheetsheet](security-programs/threat-hunting/win32-offensive-cheetsheet.md)
   * [Introducing the REx: Rule Explorer Project](security-programs/threat-hunting/introducing-the-rex-rule-explorer-project.md)
+  * [Awesome Threat Detection and Hunting](security-programs/threat-hunting/awesome-threat-detection-and-hunting.md)
 * [Shells](security-programs/shells/README.md)
   * [(py rat) WCE Windows Commander and Exfiltrer](security-programs/shells/py-rat-wce-windows-commander-and-exfiltrer.md)
   * [(proxy\_reverse shell) Stowaway](security-programs/shells/proxy\_reverse-shell-stowaway.md)
