@@ -523,6 +523,7 @@
   * [Set service recovery options in powershell](development/ad-ps-commands/set-service-recovery-options-in-powershell.md)
   * [Powershell Gallery](development/ad-ps-commands/powershell-gallery.md)
   * [Basic Powershell commands](development/ad-ps-commands/basic-powershell-commands.md)
+  * [Push notification Windows ps1](development/ad-ps-commands/push-notification-windows-ps1.md)
 * [HomeLab](development/homelab/README.md)
   * [ISO's](development/homelab/isos/README.md)
     * [(windows) atlas OS](development/homelab/isos/windows-atlas-os.md)
