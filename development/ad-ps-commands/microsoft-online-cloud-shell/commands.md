@@ -17,3 +17,13 @@ Get-AzCommand
 ```
 Get-Command -Module Az.* -Verb Get
 ```
+
+#### Connect to Exchange online (from local shell)
+
+```
+Install-Module ExchangeOnlineManagement
+```
+
+```
+Connect-ExchangeOnline
+```
