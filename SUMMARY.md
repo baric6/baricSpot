@@ -686,6 +686,8 @@
     * [Check for Leaked Passwords on HaveIBeenPwned](development/lanuages/bash/check-for-leaked-passwords-on-haveibeenpwned.md)
 * [GitHub](development/github/README.md)
   * [Make Personal tokens for use in your programs](development/github/make-personal-tokens-for-use-in-your-programs.md)
+* [Gaming](development/gaming/README.md)
+  * [Ryujinx](development/gaming/ryujinx.md)
 
 ## IT Help
 
