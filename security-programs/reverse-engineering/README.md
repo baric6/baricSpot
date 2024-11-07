@@ -7,4 +7,4 @@ description: >-
 
 # Reverse Engineering
 
-<figure><img src="../../.gitbook/assets/1500x500-2-1270x475.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gbv-Bt9WQA09Xvq.jpg" alt=""><figcaption></figcaption></figure>
