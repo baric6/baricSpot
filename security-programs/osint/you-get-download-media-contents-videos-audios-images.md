@@ -2,7 +2,7 @@
 
 Not just for YouTube but other media sites or images check the instructions.. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Instructions
 
