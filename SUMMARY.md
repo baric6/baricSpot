@@ -601,6 +601,7 @@
   * [Rath Data Analysis and Visualization tools](development/homelab/rath-data-analysis-and-visualization-tools.md)
   * [BlueWave Uptime](development/homelab/bluewave-uptime.md)
   * [Windmill Automation](development/homelab/windmill-automation.md)
+  * [Activity Watch](development/homelab/activity-watch.md)
 * [Siems](development/siems/README.md)
   * [Wazuh](development/siems/wazuh/README.md)
     * [Default register agent config](development/siems/wazuh/default-register-agent-config.md)
