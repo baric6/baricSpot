@@ -498,6 +498,7 @@
   * [Security Playground](development/docker/security-playground.md)
   * [Install docker-compose on linux](development/docker/install-docker-compose-on-linux.md)
   * [Awesome Compose Docker](development/docker/awesome-compose-docker.md)
+  * [Nginx-proxy-manager docker](development/docker/nginx-proxy-manager-docker.md)
 * [API and Scraping Sources](development/api-and-scraping-sources/README.md)
   * [Scraping](development/api-and-scraping-sources/scraping/README.md)
     * [CVEDetails - site](development/api-and-scraping-sources/scraping/cvedetails-site.md)
