@@ -900,6 +900,8 @@
   * [pwn.college](security-education/online-learning/pwn.college.md)
   * [Cisco Ethical hacker lab](security-education/online-learning/cisco-ethical-hacker-lab.md)
   * [Windows Privilege Escalation Crash Course](security-education/online-learning/windows-privilege-escalation-crash-course.md)
+  * [Hack the box](security-education/online-learning/hack-the-box.md)
+  * [Try hack me](security-education/online-learning/try-hack-me.md)
 * [Comics](security-education/comics.md)
 * [Communities](security-education/communities/README.md)
   * [Onniforums](security-education/communities/onniforums.md)
