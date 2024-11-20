@@ -509,6 +509,7 @@
     * [CVE shodan JSON endpoint](development/api-and-scraping-sources/scraping/cve-shodan-json-endpoint.md)
     * [Cisco Talos CVE reports and zero-days](development/api-and-scraping-sources/scraping/cisco-talos-cve-reports-and-zero-days.md)
     * [Zero-Day.cz](development/api-and-scraping-sources/scraping/zero-day.cz.md)
+    * [Zero-Day Initiative](development/api-and-scraping-sources/scraping/zero-day-initiative.md)
   * [Github Data Sources](development/api-and-scraping-sources/github-data-sources/README.md)
     * [Pinokio AI Collection](development/api-and-scraping-sources/github-data-sources/pinokio-ai-collection.md)
     * [Mail checker list of bad email domains](development/api-and-scraping-sources/github-data-sources/mail-checker-list-of-bad-email-domains.md)
