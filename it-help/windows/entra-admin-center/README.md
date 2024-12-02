@@ -1,0 +1,2 @@
+# Entra Admin Center
+
