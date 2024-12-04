@@ -821,6 +821,7 @@
   * [Common ports and services](it-help/windows/common-ports-and-services.md)
   * [Edge How to create a shortcut that launches a non-default-browser to a website](it-help/windows/edge-how-to-create-a-shortcut-that-launches-a-non-default-browser-to-a-website.md)
   * [Windows 11 camera not working Error: 0xA00F429F](it-help/windows/windows-11-camera-not-working-error-0xa00f429f.md)
+  * [Native Bypass CredGuard](it-help/windows/native-bypass-credguard.md)
 * [Programs](it-help/programs/README.md)
   * [Make A OVA file from you virtual box VM](it-help/programs/make-a-ova-file-from-you-virtual-box-vm.md)
   * [Adobe XI redact location](it-help/programs/adobe-xi-redact-location.md)
