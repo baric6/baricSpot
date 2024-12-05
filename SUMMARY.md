@@ -712,6 +712,7 @@
     * [Microsoft](development/siems/ip-from-companies/microsoft.md)
     * [Google](development/siems/ip-from-companies/google.md)
     * [misp-warninglists and tools to scrape](development/siems/ip-from-companies/misp-warninglists-and-tools-to-scrape.md)
+    * [Azure cloud IP Addresses](development/siems/ip-from-companies/azure-cloud-ip-addresses.md)
   * [VPN IP](development/siems/vpn-ip/README.md)
     * [VPN (nord, proton, ...)](development/siems/vpn-ip/vpn-nord-proton-....md)
     * [Proton VPN and Data Centers](development/siems/vpn-ip/proton-vpn-and-data-centers.md)
