@@ -440,6 +440,7 @@
   * [creepyCrawler](security-programs/spiders-and-scrapers/creepycrawler.md)
   * [Maxun auto web-scraper](security-programs/spiders-and-scrapers/maxun-auto-web-scraper.md)
   * [Scraperr Spider](security-programs/spiders-and-scrapers/scraperr-spider.md)
+  * [Scrapling Web-Scraper](security-programs/spiders-and-scrapers/scrapling-web-scraper.md)
 * [Command and Control](security-programs/command-and-control/README.md)
   * [Merlin C2](security-programs/command-and-control/merlin-c2.md)
   * [Periscope C2](security-programs/command-and-control/periscope-c2.md)
