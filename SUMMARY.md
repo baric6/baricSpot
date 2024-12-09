@@ -24,6 +24,7 @@
     * [IP2Proxy Proxy Detection](security-programs/osint/osint-websites/ip2proxy-proxy-detection.md)
     * [IP Address Lookup](security-programs/osint/osint-websites/ip-address-lookup.md)
     * [Use this Ip-locator](security-programs/osint/osint-websites/use-this-ip-locator.md)
+    * [Library Of Leaks](security-programs/osint/osint-websites/library-of-leaks.md)
   * [Counter OSINT](security-programs/osint/counter-osint.md)
   * [The Inspector](security-programs/osint/the-inspector.md)
   * [Blackbird](security-programs/osint/blackbird.md)
