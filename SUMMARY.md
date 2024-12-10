@@ -128,6 +128,7 @@
   * [Interactive PDF Analysis](security-programs/reverse-engineering/interactive-pdf-analysis.md)
   * [Indetectables Toolkit](security-programs/reverse-engineering/indetectables-toolkit.md)
   * [Binwalk](security-programs/reverse-engineering/binwalk.md)
+  * [lightweight multi-architecture assembly playground](security-programs/reverse-engineering/lightweight-multi-architecture-assembly-playground.md)
 * [Phishing](security-programs/phishing/README.md)
   * [Phishing Sites](security-programs/phishing/phishing-sites/README.md)
     * [Fake Site URL lookup](security-programs/phishing/phishing-sites/fake-site-url-lookup.md)
