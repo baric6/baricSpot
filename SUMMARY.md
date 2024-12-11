@@ -658,6 +658,7 @@
   * [BlueWave Uptime](development/homelab/bluewave-uptime.md)
   * [Windmill Automation](development/homelab/windmill-automation.md)
   * [Activity Watch](development/homelab/activity-watch.md)
+  * [Checkmate](development/homelab/checkmate.md)
 * [Siems](development/siems/README.md)
   * [Wazuh](development/siems/wazuh/README.md)
     * [Default register agent config](development/siems/wazuh/default-register-agent-config.md)
