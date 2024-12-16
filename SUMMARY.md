@@ -554,6 +554,7 @@
   * [KQL Github Pages](development/microsoft-kql/kql-github-pages.md)
   * [Generate KQL queries](development/microsoft-kql/generate-kql-queries.md)
   * [KQL Hunting-Queries-Detection-Rules](development/microsoft-kql/kql-hunting-queries-detection-rules.md)
+  * [KQL Sources](development/microsoft-kql/kql-sources.md)
 * [Runescape Botting](development/runescape-botting/README.md)
   * [osBot](development/runescape-botting/osbot/README.md)
     * [{1} how to begin](development/runescape-botting/osbot/1-how-to-begin.md)
