@@ -153,3 +153,19 @@ index=your_index sourcetype=your_sourcetype
 2. **`stats count by ip`**:
    * Groups the results by the extracted `ip` field.
    * Counts the occurrences of each unique IP address.
+
+
+
+### Count the location of a IP
+
+```
+sourcetype="activity"
+| spath Operation 
+| search Operation=FileAccessed ClientIP!=123.123.123.123
+| lookup MiUm.csv subnet AS ClientIP OUTPUT subnet AS matched_subnet1
+| lookup GEP.csv GEIP AS ClientIP OUTPUT GEIP AS matched_subnet2 
+| where isnull(matched_subnet1) AND isnull(matched_subnet2) 
+| iplocation ClientIP 
+| stats count by Country
+| sort count
+```
