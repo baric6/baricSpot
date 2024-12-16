@@ -720,6 +720,8 @@
     * [Google](development/siems/ip-from-companies/google.md)
     * [misp-warninglists and tools to scrape](development/siems/ip-from-companies/misp-warninglists-and-tools-to-scrape.md)
     * [Azure cloud IP Addresses](development/siems/ip-from-companies/azure-cloud-ip-addresses.md)
+    * [T-mobile IP Geo location](development/siems/ip-from-companies/t-mobile-ip-geo-location.md)
+    * [Verizon Wireless IP Geo Location](development/siems/ip-from-companies/verizon-wireless-ip-geo-location.md)
   * [VPN IP](development/siems/vpn-ip/README.md)
     * [VPN (nord, proton, ...)](development/siems/vpn-ip/vpn-nord-proton-....md)
     * [Proton VPN and Data Centers](development/siems/vpn-ip/proton-vpn-and-data-centers.md)
