@@ -898,6 +898,7 @@
   * [Latex resume builder](it-help/resume-tools/latex-resume-builder.md)
   * [Eforms](it-help/resume-tools/eforms.md)
   * [eSign](it-help/resume-tools/esign.md)
+  * [MarkItDown](it-help/resume-tools/markitdown.md)
 
 ## Security Education
 
