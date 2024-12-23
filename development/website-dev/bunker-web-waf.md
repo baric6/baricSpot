@@ -1,6 +1,6 @@
 # Bunker Web Waf
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 BunkerWeb is a next-generation and open-source Web Application Firewall (WAF).
 

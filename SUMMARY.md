@@ -491,6 +491,7 @@
 * [Code Scanners](development/code-scanners/README.md)
   * [Mobsfscan android safe code scanner](development/code-scanners/mobsfscan-android-safe-code-scanner.md)
   * [Sourcegraph search github codebase](development/code-scanners/sourcegraph-search-github-codebase.md)
+  * [grepmarx](development/code-scanners/grepmarx.md)
 * [Databases](development/databases/README.md)
   * [MySQL Fake Server](development/databases/mysql-fake-server.md)
   * [Beekeeper studio remote SQL viewer](development/databases/beekeeper-studio-remote-sql-viewer.md)
