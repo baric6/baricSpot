@@ -1,5 +1,9 @@
 # KQL hunting with Azure and Log Analytics
 
+### From the Microsoft Entra Admin center on the left for monitoring and health some times it is is hidden under show more. under that tab is Log analyst&#x20;
+
+
+
 **Large number of failed authentications** - If a user account has a large amount of failed authentications in a short time period, it could be a sign of a brute force or password spray attack. The following KQL example will return all users that have 10+ failed password attempts in the last 24 hours.
 
 ```
@@ -126,4 +130,47 @@ SigninLogs
     AppDisplayName,
     ResourceDisplayName,
     UserAgent
+```
+
+#### Resources accessed by user <a href="#resources-accessed-by-user" id="resources-accessed-by-user"></a>
+
+Lists the resources accessed for a specific user.
+
+```
+// Set v_Users_UPN with the UPN of the user of interest
+let v_Users_UPN = "osotnoc@contoso.com"; // email goes here
+SigninLogs
+| where UserPrincipalName == v_Users_UPN
+| summarize Count=count()  by ResourceDisplayName, AppDisplayName
+```
+
+#### User count per Resource <a href="#user-count-per-resource" id="user-count-per-resource"></a>
+
+How many Users have connected to a resource like AD an exchange
+
+```
+SigninLogs
+| project UserDisplayName, Identity,UserPrincipalName,  AppDisplayName, AppId, ResourceDisplayName
+| summarize UserCount=dcount(UserPrincipalName) by ResourceDisplayName
+```
+
+#### User count per Application <a href="#user-count-per-application" id="user-count-per-application"></a>
+
+How many users are using a certain application like outlook
+
+```
+SigninLogs
+| project UserDisplayName, Identity,UserPrincipalName,  AppDisplayName, AppId, ResourceDisplayName
+| summarize UserCount=dcount(UserPrincipalName) by AppDisplayName
+```
+
+#### Failed Sign-in reasons <a href="#failed-signin-reasons" id="failed-signin-reasons"></a>
+
+The query list the main reasons for sign in failures.
+
+```
+SigninLogs
+| where ResultType != 0
+| summarize Count=count() by ResultDescription, ResultType
+| sort by Count desc nulls last
 ```
