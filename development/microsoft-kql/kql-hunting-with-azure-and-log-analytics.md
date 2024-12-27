@@ -174,3 +174,24 @@ SigninLogs
 | summarize Count=count() by ResultDescription, ResultType
 | sort by Count desc nulls last
 ```
+
+#### Failed login Count <a href="#failed-login-count" id="failed-login-count"></a>
+
+Resources with most failed log in attempts.
+
+```
+SigninLogs
+| where ResultType !=0
+| summarize FailedLoginCount=count() by ResourceDisplayName
+| sort by FailedLoginCount desc nulls last
+```
+
+#### Sign-in Locations <a href="#signin-locations" id="signin-locations"></a>
+
+Failed and successful sign-ins by source location.
+
+```
+SigninLogs
+| summarize Successful=countif(ResultType==0), Failed=countif(ResultType!=0) by Location
+```
+
