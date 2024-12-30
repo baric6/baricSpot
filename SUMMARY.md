@@ -13,6 +13,7 @@
     * [Zoomeye search](security-programs/osint/web-server-search/zoomeye-search.md)
     * [FQFA Search](security-programs/osint/web-server-search/fqfa-search.md)
     * [Odin Online Device Search](security-programs/osint/web-server-search/odin-online-device-search.md)
+    * [LeakIX a site for finding leaks](security-programs/osint/web-server-search/leakix-a-site-for-finding-leaks.md)
   * [OSINT Websites](security-programs/osint/osint-websites/README.md)
     * [Hackers-Arise](security-programs/osint/osint-websites/hackers-arise.md)
     * [Hunter.io](security-programs/osint/osint-websites/hunter.io.md)
