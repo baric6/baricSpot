@@ -703,6 +703,8 @@
       * [Turning on File Folder Auditing](development/siems/splunk/resources/turning-on-file-folder-auditing.md)
       * [Uploading lookup table csv file](development/siems/splunk/resources/uploading-lookup-table-csv-file.md)
       * [Export Splunk results to CSV file](development/siems/splunk/resources/export-splunk-results-to-csv-file.md)
+      * [Open-source detection rules like SigmaRules and Splunk ESCU rules](development/siems/splunk/resources/open-source-detection-rules-like-sigmarules-and-splunk-escu-rules.md)
+      * [Splunk research Detection, Analytics Playbooks and stats](development/siems/splunk/resources/splunk-research-detection-analytics-playbooks-and-stats.md)
     * [Creating Graphs and Dashboards](development/siems/splunk/creating-graphs-and-dashboards.md)
     * [Splunkbase Apps](development/siems/splunk/splunkbase-apps/README.md)
       * [Splunkbase App Values](development/siems/splunk/splunkbase-apps/splunkbase-app-values.md)
