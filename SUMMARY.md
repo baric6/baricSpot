@@ -424,6 +424,7 @@
   * [Youtube Downloader](security-programs/useful-online-links/youtube-downloader.md)
   * [TinEye Reverse Image Search](security-programs/useful-online-links/tineye-reverse-image-search.md)
   * [Browser exploit CTF challenges](security-programs/useful-online-links/browser-exploit-ctf-challenges.md)
+  * [Blackhat Russia Tools](security-programs/useful-online-links/blackhat-russia-tools.md)
 * [Spiders and Scrapers](security-programs/spiders-and-scrapers/README.md)
   * [NodeCraw](security-programs/spiders-and-scrapers/nodecraw.md)
   * [WebPalm](security-programs/spiders-and-scrapers/webpalm.md)
