@@ -719,7 +719,7 @@
       * [Other Types of Deployment Servers that can be used](development/siems/splunk/splunk-deployment-server/other-types-of-deployment-servers-that-can-be-used.md)
     * [Calling Rest API from Splunk](development/siems/splunk/calling-rest-api-from-splunk.md)
     * [Splunk Python Lookup Script app Development](development/siems/splunk/splunk-python-lookup-script-app-development.md)
-    * [(Settings) Data Inputs](development/siems/splunk/settings-data-inputs.md)
+    * [(Settings) Data Inputs + Scripting Examples](development/siems/splunk/settings-data-inputs-+-scripting-examples.md)
   * [IP from Companies](development/siems/ip-from-companies/README.md)
     * [Microsoft](development/siems/ip-from-companies/microsoft.md)
     * [Google](development/siems/ip-from-companies/google.md)

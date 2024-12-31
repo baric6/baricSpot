@@ -1,10 +1,12 @@
-# (Settings) Data Inputs
+# (Settings) Data Inputs + Scripting Examples
+
+
 
 <figure><img src="../../../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
 
 In the Splunk web-app you access this by going to the settings menu in the top right corner and selecting Data Inputs it will give you the image above
 
-## Help
+### Servers
 
 #### TCP: This will open the port you specify on the Splunk server and listen for connections
 
