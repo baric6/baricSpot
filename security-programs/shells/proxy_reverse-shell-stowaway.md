@@ -1,6 +1,6 @@
 # (proxy\_reverse shell) Stowaway
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/chain.webp" alt=""><figcaption></figcaption></figure>
 

@@ -8,25 +8,25 @@ You can use any IDE that supports Java, but in this tutorial I will be showing y
 2. Download and install IntelliJ IDEA from the JetBrains website https://www.jetbrains.com/idea/
 3. Open IntelliJ IDEA and select "Create New Project"
 
-<figure><img src="../../../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
 
 1. Create a new Java project giving it an appropriate name
 
-<figure><img src="../../../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
 1. Open the module settings by pressing F4, or right clicking the module and selecting "Open Module Settings"
 2. Navigate to the "Libraries" section on the left side of the pane, add a new Java library, and in the file chooser select the OSBot .jar file
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
 7. Navigate to the "Artifacts" section on the left side of the pane, and add a new empty JAR.
 8. Give the JAR an appropriate name, such as the name of your script.
 9. Set the output directory of the JAR to C:\Users\Username\OSBot\Scripts in Windows, or \~/OSBot/Scripts in Mac/Linux
 10. Add the compiled output of your module to the JAR by double clicking it on the right hand side of the window
 
-<figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
 
 11. Select apply and close the window.
 

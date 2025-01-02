@@ -2,7 +2,7 @@
 
 Your target's phone's front and back cameras can be accessed by sending a link
 
-<figure><img src="../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
 Download
 

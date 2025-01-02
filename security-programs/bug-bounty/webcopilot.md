@@ -1,6 +1,6 @@
 # WebCopilot
 
-<figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
 
 **WebCopilot** is an automation tool designed to enumerate subdomains of the target and detect bugs using different open-source tools.
 

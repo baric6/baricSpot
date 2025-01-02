@@ -1,6 +1,6 @@
 # Caido web app audit
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 Caido aims to help security professionals and enthusiasts audit web applications with efficiency and ease.
 

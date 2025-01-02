@@ -2,7 +2,7 @@
 
 ## OSINT Mantra
 
-![](<../../.gitbook/assets/image (319).png>)&#x20;
+![](<../../.gitbook/assets/image (330).png>)&#x20;
 
 The tool in question was created in Go and its main objective is to search for API keys in JavaScript files and HTML pages.
 

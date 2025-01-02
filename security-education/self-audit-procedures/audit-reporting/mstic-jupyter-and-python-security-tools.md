@@ -10,6 +10,6 @@ msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks.
 * perform sophisticated analysis such as anomalous session detection and time series decomposition
 * visualize data using interactive timelines, process trees and multi-dimensional Morph Charts
 
-<figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://github.com/microsoft/msticpy" %}

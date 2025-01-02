@@ -7,7 +7,7 @@ Follow these steps to quickly change your account password from the Ctrl + Alt +
 1. Press Ctrl + Alt + Delete on your keyboard to view the available options.
 2. Next, click on the Change a password option.
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
 3. Next, enter your old account password.
 4. Next, you need to provide a new password and confirm the same.

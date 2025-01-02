@@ -1,6 +1,6 @@
 # Monitoring domain controller with TIG suite
 
-<figure><img src="../../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
 
 ### Setup
 

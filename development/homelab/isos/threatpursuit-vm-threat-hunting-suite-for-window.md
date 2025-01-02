@@ -2,7 +2,7 @@
 
 Runs on default instillation of windows
 
-<figure><img src="../../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 
 Download and Install&#x20;
 

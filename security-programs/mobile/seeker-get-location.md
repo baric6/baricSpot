@@ -4,7 +4,7 @@ Concept behind Seeker is simple, just like we host phishing pages to get credent
 
 Seeker with host a fake site and get geo-location of the device&#x20;
 
-<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
 
 Download&#x20;
 

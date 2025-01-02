@@ -1,6 +1,6 @@
 # AD - HEKATOMB scan and crack
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 Hekatomb is a python script that connects to LDAP directory to retrieve all computers and users informations. Then it will download all DPAPI blob of all users from all computers. Finally, it will extract domain controller private key through RPC uses it to decrypt all credentials.
 

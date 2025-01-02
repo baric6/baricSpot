@@ -4,6 +4,6 @@ Grepmarx is a web application providing a single platform to quickly understand,
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://github.com/Orange-Cyberdefense/grepmarx/tree/main" %}

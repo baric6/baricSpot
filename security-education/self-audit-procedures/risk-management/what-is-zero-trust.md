@@ -6,7 +6,7 @@ historically, enterprises have relied on a castle-and-moat cybersecurity model, 
 
 Instead of focusing on user and device locations relative to the perimeter -- i.e., inside or outside the private network -- the zero-trust model grants users access to information based on their identities and roles, regardless of whether they are at the office, at home or elsewhere.
 
-<figure><img src="../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=yZLwC0Y4Cg0&t=78s" %}
 

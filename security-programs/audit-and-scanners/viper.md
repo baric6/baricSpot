@@ -1,6 +1,6 @@
 # Viper
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 * Viper is a graphical intranet penetration tool, which modularizes and weaponizes the tactics and technologies commonly used in the process of Intranet penetration
 * Viper integrates basic functions such as bypass anti-virus software, intranet tunnel, file management, command line and so on

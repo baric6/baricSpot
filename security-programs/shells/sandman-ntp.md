@@ -6,7 +6,7 @@ Sandman works as a stager and leverages NTP (a protocol to sync time & date) to 
 
 Since NTP is a protocol that is overlooked by many defenders resulting in wide network accessibility.
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 Download
 

@@ -4,7 +4,7 @@
 2. Select lookup table files&#x20;
 3. there is a green button named New Lookup Table, File click it
 
-<figure><img src="../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 4. Fill in the data and browse for the file needed
    1. Destination app : search
@@ -12,7 +12,7 @@
    3. Destination filename: name it the same as your file
    4. click save
 
-<figure><img src="../../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 5. Go to search and type
 

@@ -1,6 +1,6 @@
 # Grouper 3 find vulns in AD GPO
 
-<figure><img src="../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
 
 Like its ancestors, Group3r is a tool for pentesters and red teamers to rapidly enumerate relevant settings in AD Group Policy, and to identify exploitable misconfigurations in same. It does this by talking LDAP to Domain Controllers, parsing GPO config files off the domain SYSVOL share, and also by looking at other files (usually on file shares) that are referenced within GPOs, like scripts, MSI packages, exes, etc.
 

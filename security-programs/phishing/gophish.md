@@ -1,6 +1,6 @@
 # Gophish
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 Gophish: Open-Source Phishing Toolkit
 

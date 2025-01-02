@@ -16,11 +16,11 @@ A Splunk forwarder is like a agent in Wazuh Siem. It is a piece of software the 
 2. in splunk make sure you add a receiving port under settings > forward and receiving&#x20;
    1. click add new
 
-<figure><img src="../../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
 
 3. add what ever port you want and click save, 9997 is the default
 
-<figure><img src="../../../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
 
 ### Client Install&#x20;
 
@@ -36,7 +36,7 @@ A Splunk forwarder is like a agent in Wazuh Siem. It is a piece of software the 
    2. &#x20;for this one we select on-prem
    3. click Customize Options
 
-<figure><img src="../../../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
 4. Unless you have a SSL Cert or know what it is, leave this blank&#x20;
 
@@ -72,7 +72,7 @@ A Splunk forwarder is like a agent in Wazuh Siem. It is a piece of software the 
 
 ### Troubleshooting
 
-<figure><img src="../../../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
 
 * if you see this just hit OK some times it works after that other times it will start to roll back. If it has rolled back restart the computer and try again.
 * if successful you are good

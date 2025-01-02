@@ -10,7 +10,7 @@ What does it do?
 * It brute force directories on WebServers and reports results (200, 403)
 * It produces a Web UI for presentation&#x20;
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 Download
 

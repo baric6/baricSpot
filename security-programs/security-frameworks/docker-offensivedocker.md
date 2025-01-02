@@ -2,7 +2,7 @@
 
 &#x20;Offensive Docker is an image with the more used tools to create an pentest environment easily and quickly.
 
-<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 Download
 

@@ -112,7 +112,7 @@ Cluster map
 | geostats latfield=lat longfield=lon count by userName
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
 
 Choropleth Map&#x20;
 
@@ -124,7 +124,7 @@ Choropleth Map&#x20;
 | geom geo_countries featureIdField=country
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
 
 To add multiple lookup files to a search, this should work for Cluster map and Choropleth Map&#x20;
 
