@@ -1,6 +1,6 @@
 # Nikto Scanner
 
-<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 open source (GPL) web server scanner that performs vulnerability scanning against web servers for multiple items, including dangerous files and programs. Nitko checks for outdated versions of web server software
 

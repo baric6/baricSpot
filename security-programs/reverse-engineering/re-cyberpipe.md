@@ -2,7 +2,7 @@
 
 An easy to use PowerShell script to collect memory and disk forensics for DFIR investigations.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 Needs other programs to run
 

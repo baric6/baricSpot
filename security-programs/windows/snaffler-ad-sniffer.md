@@ -1,6 +1,6 @@
 # Snaffler AD sniffer
 
-<figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 Broadly speaking - it gets a list of Windows computers from Active Directory, then spreads out its snaffly appendages to them all to figure out which ones have file shares, and whether you can read them.
 

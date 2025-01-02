@@ -1,6 +1,6 @@
 # Ghauri SQL injection
 
-<figure><img src="../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 
 An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 

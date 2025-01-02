@@ -5,7 +5,7 @@ dnSpyEx is a unofficial continuation of the dnSpy project which is a debugger an
 * Debug .NET and Unity assemblies
 * Edit .NET and Unity assemblies
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 Download
 

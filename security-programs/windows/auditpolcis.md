@@ -1,6 +1,6 @@
 # AuditPolCIS
 
-<figure><img src="../../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
 CIS Benchmark testing of Windows configuration&#x20;
 

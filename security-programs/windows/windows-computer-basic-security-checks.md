@@ -1,6 +1,6 @@
 # Windows computer basic security checks
 
-<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
 PS script that runs several client checks for when doing system security stuff.
 

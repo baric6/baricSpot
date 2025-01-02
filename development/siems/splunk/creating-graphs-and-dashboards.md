@@ -27,19 +27,19 @@ New York | 1
 
 5. you should be able to click over to the visualization tab to see a graph
 
-<figure><img src="../../../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
 
 6. you should see something like this:
    1. it could be a bar, pie, ect.. depending on what you got selected
    2. you can select a chart by in this example clicking on the pie chart name in the top left corner of the image
 
-<figure><img src="../../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
 
 ## Adding graph to A Dashboard
 
 1. in the top right of the page where you are viewing the graph you should see:
 
-<figure><img src="../../../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
 
 2. under the save as you have the option to&#x20;
    1. create a report&#x20;
@@ -49,7 +49,7 @@ New York | 1
 3. for this we will be selecting New Dashboard
 4. when a new popup opens
 
-<figure><img src="../../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
 
 5. fill in dashboard title, select dashboard studio, select grid, under panel title name the graph  and save to dashboard and you have a new dashboard with the data
 

@@ -2,7 +2,7 @@
 
 Webpage
 
-<figure><img src="../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
 
 Download&#x20;
 

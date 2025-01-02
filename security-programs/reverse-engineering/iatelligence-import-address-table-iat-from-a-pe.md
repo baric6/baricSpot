@@ -8,7 +8,7 @@ It also displays the hashes of the file and estimates the cost of the GPT-3 requ
 
 Below is a quick example of the result you'll get. Notice that the request can take longer depending of the size of the IAT.
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 Download
 

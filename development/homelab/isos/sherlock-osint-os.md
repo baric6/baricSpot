@@ -1,6 +1,6 @@
 # Sherlock Osint os
 
-<figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 Sherlock Linux is a Debian-based open source distribution that contains all the tools needed to obtain information from open sources in an OSINT investigation
 

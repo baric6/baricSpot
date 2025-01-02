@@ -2,7 +2,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
 linkedInDumper is a Python 3 script that dumps employee data from the LinkedIn social networking platform.
 

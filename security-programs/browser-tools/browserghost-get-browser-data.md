@@ -1,6 +1,6 @@
 # BrowserGhost get browser data
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 Realize that the system grabs the browser passwords of other users on the machine (to facilitate quick credential collection when moving laterally)
 

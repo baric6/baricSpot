@@ -26,7 +26,7 @@ Command to install no GUI agent&#x20;
 
 shows a example of agent config from group menu
 
-<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
 ## Remove
 
@@ -38,4 +38,4 @@ cd /var/ossec/bin/
 ./manage_agents
 ```
 
-<figure><img src="../../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>

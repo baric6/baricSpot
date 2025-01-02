@@ -1,6 +1,6 @@
 # TrlDNet file type finder
 
-<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;N.B. You need to download the TrID/32 package (witch contains over 1.600 filetypes defs) to use this tool.
 

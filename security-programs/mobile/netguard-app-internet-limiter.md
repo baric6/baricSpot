@@ -1,6 +1,6 @@
 # NetGuard App internet limiter
 
-<figure><img src="../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
 
 Sometimes, you wish: _I don't want this app to connect to the internet,_ because you just want to use the offline functionalities of an app.
 

@@ -1,6 +1,6 @@
 # Sploitscan .py
 
-<figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
 Download
 

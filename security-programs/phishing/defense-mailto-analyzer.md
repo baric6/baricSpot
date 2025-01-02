@@ -6,7 +6,7 @@ Analyze your emails!
 
 Mailto analyzer will show your email address exposure on various services.
 
-<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 Download
 

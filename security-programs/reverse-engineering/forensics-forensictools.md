@@ -4,7 +4,7 @@ Forensictools is a toolkit designed for digital forensics, offering a wide array
 
 In addition to installing the tools, forensictools seamlessly integrates the programs into the Windows PATH. This integration allows for effortless utilization of these tools directly from the command line, eliminating the need for manual setup or configuration.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 Download
 

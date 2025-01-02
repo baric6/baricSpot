@@ -6,7 +6,7 @@ One of the key features of Infoooze is its ability to work as a global package, 
 
 Infoooze is easy to install and use, making it an ideal tool for anyone looking to gather information quickly and efficiently.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
 
 Download&#x20;
 

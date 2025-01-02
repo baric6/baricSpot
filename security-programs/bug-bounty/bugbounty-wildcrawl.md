@@ -1,6 +1,6 @@
 # (bugbounty) Wildcrawl
 
-<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
 Here's a summary of what the script does:
 

@@ -4,7 +4,7 @@
 
 `auditpol.exe /get /category:*`
 
-<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 Enable the Security Auditing&#x20;
 
