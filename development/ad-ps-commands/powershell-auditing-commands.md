@@ -1,6 +1,6 @@
 # Powershell Auditing Commands
 
-### History of Powershell
+### History of Commands Ran&#x20;
 
 ```powershell
 Get-Content "$env:UserProfile\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt"
@@ -14,19 +14,19 @@ Get-WinEvent -LogName "Microsoft-Windows-PowerShell/Operational" | Select-Object
 
 ### Active Network Connections
 
-```
+```powershell
 Get-NetTCPConnection | Where-Object { $_.RemoteAddress -match "<Suspicious IP>" }
 ```
 
 ### Find by port
 
-```
+```powershell
 Get-NetTCPConnection | Where-Object { $_.RemotePort -eq 443 } | Sort-Object State, RemoteAddress
 ```
 
 ### Search Event Logs
 
-```
+```powershell
 Get-WinEvent -LogName Security | Where-Object { $_.Message -match "miner" } | Select-Object TimeCreated, Message
 ```
 
@@ -38,28 +38,28 @@ Get-ScheduledTask | Where-Object { $_.TaskName -match "crypto|xmrig|miner" }
 
 ### Process Info Sorted by highest
 
-```
+```powershell
 Get-Process | Select-Object Name, Id, Path, CPU, StartTime | Sort-Object CPU -Descending
 ```
 
 ### Check for certain name of process
 
-```
+```powershell
 Get-Process | Where-Object { $_.Name -match "xmrig" }
 ```
 
-### EventLogs for Installation
+### Event Logs for Installation
 
 **Event ID 19**: Successful installation of updates.
 
 **Event ID 17**: Updates downloaded but not yet installed.
 
-```
+```powershell
 Get-WinEvent -LogName "Microsoft-Windows-WindowsUpdateClient/Operational" | Where-Object { $_.Id -eq 19 } | Select-Object TimeCreated, Message
 ```
 
 ### Find install date for programs
 
-```
+```powershell
 Get-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\*" | Select-Object DisplayName, DisplayVersion, InstallDate
 ```
