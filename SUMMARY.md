@@ -186,7 +186,7 @@
   * [BrowserGhost get browser data](security-programs/browser-tools/browserghost-get-browser-data.md)
   * [BrowserAudit](security-programs/browser-tools/browseraudit.md)
   * [I-See-You](security-programs/browser-tools/i-see-you.md)
-  * [DB Browser for SQLite (DB4S)](security-programs/browser-tools/db-browser-for-sqlite-db4s.md)
+  * [DB Browser for SQLite](security-programs/browser-tools/db-browser-for-sqlite.md)
   * [CursedChrome](security-programs/browser-tools/cursedchrome.md)
 * [Mobile](security-programs/mobile/README.md)
   * [ApkHack Backdoor](security-programs/mobile/apkhack-backdoor.md)

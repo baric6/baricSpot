@@ -2,7 +2,7 @@
 description: DB Browser for SQLite
 ---
 
-# Page 1
+# DB Browser for SQLite
 
 <figure><img src="../../.gitbook/assets/screenshot.png" alt=""><figcaption></figcaption></figure>
 
