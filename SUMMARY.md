@@ -881,6 +881,7 @@
   * [Install Cisco AnyConnect Secure Mobility Client on a Mac Computer](it-help/programs/install-cisco-anyconnect-secure-mobility-client-on-a-mac-computer.md)
   * [Bitwarden Import Data from LastPass](it-help/programs/bitwarden-import-data-from-lastpass.md)
   * [Create a desktop shortcut to open a specific URL in Chrome while default browser is Edge](it-help/programs/create-a-desktop-shortcut-to-open-a-specific-url-in-chrome-while-default-browser-is-edge.md)
+  * [Removing Edge popups](it-help/programs/removing-edge-popups.md)
 * [Networking](it-help/networking/README.md)
   * [DNS](it-help/networking/dns/README.md)
     * [Overview](it-help/networking/dns/overview.md)
