@@ -11,3 +11,9 @@ tag=*
 ```
 tag=* | stats count
 ```
+
+### count by search word
+
+```
+tag=* words admin | stats count
+```
