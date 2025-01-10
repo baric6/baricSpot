@@ -10,10 +10,6 @@
 | Centralized log collection        | ✅ Yes              | ❌ No          |
 | No access to Event Log system     | ❌ No               | ✅ Yes         |
 
-***
-
-
-
 ### Microsoft Defender logs can be accessed via
 
 * **Event Logs**: Defender writes logs to the Windows Event Log (`Microsoft-Windows-Windows Defender/Operational`).
