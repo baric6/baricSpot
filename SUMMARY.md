@@ -672,6 +672,7 @@
     * [Install](development/siems/splunk/install.md)
     * [Splunk forwarder](development/siems/splunk/splunk-forwarder/README.md)
       * [Install forwarder via Powershell](development/siems/splunk/splunk-forwarder/install-forwarder-via-powershell.md)
+      * [Windows Defender event-viewer and logs](development/siems/splunk/splunk-forwarder/windows-defender-event-viewer-and-logs.md)
     * [Log Locations](development/siems/splunk/log-locations.md)
     * [Search Queries](development/siems/splunk/search-queries/README.md)
       * [Windows Detailed activity properties in the audit log](development/siems/splunk/search-queries/windows-detailed-activity-properties-in-the-audit-log.md)
