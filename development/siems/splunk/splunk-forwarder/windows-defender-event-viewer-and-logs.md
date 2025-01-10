@@ -23,6 +23,13 @@ C:\Program Files\SplunkUniversalForwarder\etc\apps\SplunkUniversalForwarder\loca
 * **Event Logs**: Defender writes logs to the Windows Event Log (`Microsoft-Windows-Windows Defender/Operational`).
 * **Files**: Defender activity may also be written to log files depending on your organization's configuration.
 
+### Make a Index in Splunk
+
+Settings > Indexes > New Index
+
+1. Name it "Defender" or ensure the name used in the forwarder matches the Index name, as the forwarder must align with the Index.
+2. Everything else default and save&#x20;
+
 ### For Event Logs
 
 1. Open `SplunkUniversalForwarder\etc\apps\Splunk_TA_Windows\local\inputs.conf` or create the file if it doesn’t exist.
@@ -53,3 +60,7 @@ disabled = 0
 index = defender
 sourcetype = defender:log
 ```
+
+### Malware test file&#x20;
+
+{% embed url="https://www.eicar.org/download-anti-malware-testfile/" %}
