@@ -1,5 +1,13 @@
 # Windows Defender event-viewer and logs
 
+#### **Location Windows**&#x20;
+
+input.conf
+
+```
+C:\Program Files\SplunkUniversalForwarder\etc\apps\SplunkUniversalForwarder\local\input.conf
+```
+
 #### **When to Use Each**
 
 | **Scenario**                      | **Use Event Logs** | **Use Files** |
