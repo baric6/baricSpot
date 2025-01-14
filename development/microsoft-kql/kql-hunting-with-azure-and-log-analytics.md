@@ -203,3 +203,23 @@ SigninLogs
 | summarize Successful=countif(ResultType==0), Failed=countif(ResultType!=0) by Location
 ```
 
+country
+
+<pre><code><strong>SigninLogs
+</strong>| summarize 
+    LastSeen = max(TimeGenerated), 
+    SignInCount = count(), 
+    Locations = make_set(Location) 
+  by UserPrincipalName
+| where LastSeen >= ago(3d)
+| order by LastSeen desc
+</code></pre>
+
+#### Sign-ins from Unfamiliar Countries
+
+```
+SigninLogs
+| where Location !contains "US" // Replace with your expected country
+| summarize Count = count(), LastSignIn = max(TimeGenerated) by UserPrincipalName, tostring(Location)
+| order by Count desc
+```
