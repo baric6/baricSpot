@@ -6,7 +6,7 @@
 
 **Large number of failed authentications** - If a user account has a large amount of failed authentications in a short time period, it could be a sign of a brute force or password spray attack. The following KQL example will return all users that have 10+ failed password attempts in the last 24 hours.
 
-```
+```sh
 SigninLogs
 | where TimeGenerated > ago (24hrs)
 | where ResultType == "50126"
@@ -37,6 +37,14 @@ SigninLogs
 | where TimeGenerated > ago (24hrs)
 | where Status contains "MFA denied" or Status contains "Fraud"
 | summarize by UserPrincipalName, tostring (Status.additionalDetails)
+```
+
+Count fraud
+
+```
+SigninLogs
+| where Status contains "MFA denied" or Status contains "Fraud"
+| summarize Count = count() by UserPrincipalName, tostring(Status.additionalDetails)
 ```
 
 
