@@ -551,6 +551,7 @@
   * [Wordlists specially for API routes fuzzing](development/api-and-scraping-sources/wordlists-specially-for-api-routes-fuzzing.md)
   * [(paid) Netify Network intel](development/api-and-scraping-sources/paid-netify-network-intel.md)
   * [(semi free)IPHQ Fraud and Cyber Threats API](development/api-and-scraping-sources/semi-free-iphq-fraud-and-cyber-threats-api.md)
+  * [API-Security-Checklist](development/api-and-scraping-sources/api-security-checklist.md)
 * [Microsoft KQL](development/microsoft-kql/README.md)
   * [KQL hunting email Queries](development/microsoft-kql/kql-hunting-email-queries.md)
   * [KQL hunting with Azure and Log Analytics](development/microsoft-kql/kql-hunting-with-azure-and-log-analytics.md)
