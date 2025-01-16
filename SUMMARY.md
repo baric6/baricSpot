@@ -541,6 +541,7 @@
     * [IPsum bad IP's](development/api-and-scraping-sources/github-data-sources/ipsum-bad-ips.md)
     * [romainmarcoux bad IP addresses](development/api-and-scraping-sources/github-data-sources/romainmarcoux-bad-ip-addresses.md)
     * [Data-cve-poc Exploits](development/api-and-scraping-sources/github-data-sources/data-cve-poc-exploits.md)
+    * [Free Threat Intel/IOC Feeds](development/api-and-scraping-sources/github-data-sources/free-threat-intel-ioc-feeds.md)
   * [(paid) Text message api](development/api-and-scraping-sources/paid-text-message-api.md)
   * [(api) internetdb.shodan.io](development/api-and-scraping-sources/api-internetdb.shodan.io.md)
   * [Awesome-security-Apis](development/api-and-scraping-sources/awesome-security-apis.md)
