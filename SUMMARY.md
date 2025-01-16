@@ -682,6 +682,7 @@
   * [Checkmate](development/homelab/checkmate.md)
   * [JetKVM IP based KVM](development/homelab/jetkvm-ip-based-kvm.md)
   * [Myspeed testing and keep network speeds](development/homelab/myspeed-testing-and-keep-network-speeds.md)
+  * [GOSINT - Open Source Threat Intelligence Gathering and Processing Framework](development/homelab/gosint-open-source-threat-intelligence-gathering-and-processing-framework.md)
 * [Siems](development/siems/README.md)
   * [Splunk](development/siems/splunk/README.md)
     * [Install](development/siems/splunk/install.md)
