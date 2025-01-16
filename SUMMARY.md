@@ -260,6 +260,7 @@
   * [TcpDump](security-programs/audit-and-scanners/tcpdump.md)
   * [grype docker and file system scanner](security-programs/audit-and-scanners/grype-docker-and-file-system-scanner.md)
   * [APTRS vulnscanner](security-programs/audit-and-scanners/aptrs-vulnscanner.md)
+  * [Microsoft Attack Surface Analyzer](security-programs/audit-and-scanners/microsoft-attack-surface-analyzer.md)
 * [Windows](security-programs/windows/README.md)
   * [NETworkManager](security-programs/windows/networkmanager.md)
   * [Ntlmscan](security-programs/windows/ntlmscan.md)
