@@ -708,6 +708,7 @@
       * [Verkada Splunk Integration](development/siems/splunk/splunkbase-apps/verkada-splunk-integration.md)
       * [Microsoft teams add-on for Splunk](development/siems/splunk/splunkbase-apps/microsoft-teams-add-on-for-splunk.md)
       * [Add Bit-warden to Splunk](development/siems/splunk/splunkbase-apps/add-bit-warden-to-splunk.md)
+      * [Top Splunk Apps](development/siems/splunk/splunkbase-apps/top-splunk-apps.md)
     * [Create/Modify User account](development/siems/splunk/create-modify-user-account.md)
     * [Stop auto logout](development/siems/splunk/stop-auto-logout.md)
     * [Splunk Deployment Server](development/siems/splunk/splunk-deployment-server/README.md)
