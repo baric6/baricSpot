@@ -27,15 +27,18 @@ index = powershellHistory
 #### Adding a index to Splunk
 
 1. Hit settings in the top right corner > then click on indexes
-2. Hit the button ![](../../../../.gitbook/assets/image.png)
-3. Name the index powershellHistory in this case, leave everything else default
-4. save
+2. Hit the button ![](<../../../../.gitbook/assets/image (1).png>)
+3. Name the index powershellHistory in this case, also change the app to "Search & Reporting"
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+1. save
 
 #### Restart agent
 
 1. on the PC that has the forwarder go into services and find splunk forwarder service and hit restart
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Finding data in splunk
 
