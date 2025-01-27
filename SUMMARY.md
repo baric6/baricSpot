@@ -765,6 +765,7 @@
   * [Figma Program Graphing](development/graphing-tools/figma-program-graphing.md)
   * [Photopea](development/graphing-tools/photopea.md)
   * [Mind map creating diagrams](development/graphing-tools/mind-map-creating-diagrams.md)
+  * [OpenFreeMap](development/graphing-tools/openfreemap.md)
 * [Website Dev](development/website-dev/README.md)
   * [RevolverMaps](development/website-dev/revolvermaps.md)
   * [Emailerjs](development/website-dev/emailerjs.md)
