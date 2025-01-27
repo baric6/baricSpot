@@ -854,6 +854,7 @@
     * [Microsoft Entra conditional access: block access by location](it-help/windows/microsoft-entra-conditional-access-block-access-by-location.md)
     * [Azure AAD create a alert to email when conditional access and Audit logs catch a oddity](it-help/windows/entra-admin-center-conditional-access/azure-aad-create-a-alert-to-email-when-conditional-access-and-audit-logs-catch-a-oddity.md)
     * [Apply Conditional Access Policy to Microsoft Copilot](it-help/windows/entra-admin-center-conditional-access/apply-conditional-access-policy-to-microsoft-copilot.md)
+    * [Conditional Access - Block unknown or unsupported device platform](it-help/windows/entra-admin-center-conditional-access/conditional-access-block-unknown-or-unsupported-device-platform.md)
   * [How to uninstall a program through windows command prompt](it-help/windows/how-to-uninstall-a-program-through-windows-command-prompt.md)
   * [Change Password in windows and mac](it-help/windows/change-password-in-windows-and-mac.md)
   * [Reinstalling RDP on a windows machine](it-help/windows/reinstalling-rdp-on-a-windows-machine.md)
