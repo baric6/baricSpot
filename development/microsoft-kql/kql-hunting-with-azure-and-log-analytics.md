@@ -15,6 +15,22 @@ SigninLogs
 | project UserPrincipalName, event_count
 ```
 
+More Details
+
+```
+SigninLogs
+| where ResultType == "50126"
+| summarize 
+    event_count = count(), 
+    StartTime = min(TimeGenerated), 
+    EndTime = max(TimeGenerated), 
+    IPs = make_set(IPAddress), 
+    Apps = make_set(AppDisplayName) 
+    by UserPrincipalName 
+| where event_count > 9
+| project UserPrincipalName, event_count, StartTime, EndTime, IPs, Apps
+```
+
 
 
 **MFA fatigue attack** - An MFA fatigue attack is where the end user is repeatedly bombarded with MFA requests in the hope they will approve one. The number match experience has largely mitigated this type of attack but **this is also an indicator that a user's password may have been compromised so needs to be reviewed urgently.** The following KQL example will return users that have had 5+ MFA failures or device authentication failures in the last 24 hours.
@@ -26,6 +42,22 @@ SigninLogs
 | summarize event_count = count() by UserPrincipalName 
 | where event_count > 4
 | project UserPrincipalName, event_count
+```
+
+More Detailed
+
+```
+SigninLogs
+| where ResultType in ("500121", "50155", "50158")
+| summarize 
+    event_count = count(), 
+    StartTime = min(TimeGenerated), 
+    EndTime = max(TimeGenerated), 
+    IPs = make_set(IPAddress), 
+    Apps = make_set(AppDisplayName) 
+    by UserPrincipalName
+| where event_count > 4
+| project UserPrincipalName, event_count, StartTime, EndTime, IPs, Apps
 ```
 
 
