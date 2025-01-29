@@ -32,7 +32,13 @@
 | inputlookup <filename.csv>
 ```
 
-#### Compare IP data in file with splunk logs
+#### Find items like&#x20;
+
+```
+| inputlookup AllUsersMfaDetails.csv | where like(lower(DeviceName), "%ip%")
+```
+
+#### Com<kbd>p</kbd>are IP data in file with splunk logs
 
 * lookup c2cisp.csv ip  - calls the file and uses the ip column
 * matches the ip to the the data set d\_ip
