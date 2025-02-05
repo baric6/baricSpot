@@ -28,6 +28,7 @@
     * [Use this Ip-locator](security-programs/osint/osint-websites/use-this-ip-locator.md)
     * [Library Of Leaks](security-programs/osint/osint-websites/library-of-leaks.md)
     * [Pugrecon](security-programs/osint/osint-websites/pugrecon.md)
+    * [Advanced search for Youtube](security-programs/osint/osint-websites/advanced-search-for-youtube.md)
   * [Counter OSINT](security-programs/osint/counter-osint.md)
   * [The Inspector](security-programs/osint/the-inspector.md)
   * [Blackbird](security-programs/osint/blackbird.md)
