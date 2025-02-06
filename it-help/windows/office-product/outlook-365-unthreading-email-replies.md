@@ -1,5 +1,7 @@
 # Outlook 365 unthreading email replies
 
+{% embed url="https://www.youtube.com/watch?v=y3XoUQ_jiv8" %}
+
 1. Click on your profile picture
 2. hit the gear in the bottom left&#x20;
 3. go to mail
