@@ -4,6 +4,10 @@
 
 {% embed url="https://petri.com/install-active-directory-users-and-computers/" %}
 
+Option 2
+
+{% embed url="https://www.solveyourtech.com/how-to-get-active-directory-on-windows-11-a-step-by-step-guide/" %}
+
 ## Windows 10
 
 ## Instructions
