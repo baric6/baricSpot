@@ -1,4 +1,4 @@
-# How to Force Outlook to Update the Job Title
+# How to Force Outlook(Classic) to Update the Job Title
 
 #### **1. Force Outlook to Download the Updated Address Book (OAB)**
 
