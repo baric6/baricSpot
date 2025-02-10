@@ -848,7 +848,7 @@
     * [Send automatic out of office replies from Outlook.com or Outlook on the web](it-help/windows/office-product/send-automatic-out-of-office-replies-from-outlook.com-or-outlook-on-the-web.md)
     * [How to remove a saved email address from Outlook's autocomplete List](it-help/windows/office-product/how-to-remove-a-saved-email-address-from-outlooks-autocomplete-list.md)
     * [Outlook 365 unthreading email replies](it-help/windows/office-product/outlook-365-unthreading-email-replies.md)
-    * [How to Force Outlook to Update the Job Title](it-help/windows/office-product/how-to-force-outlook-to-update-the-job-title.md)
+    * [How to Force Outlook(Classic) to Update the Job Title](it-help/windows/office-product/how-to-force-outlook-classic-to-update-the-job-title.md)
     * [Block or unblock senders in Outlook](it-help/windows/office-product/block-or-unblock-senders-in-outlook.md)
   * [Group Policy](it-help/windows/group-policy/README.md)
     * [Configure User’s Folder Redirection with Group Policy](it-help/windows/configure-users-folder-redirection-with-group-policy.md)
