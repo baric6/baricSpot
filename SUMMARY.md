@@ -623,6 +623,7 @@
     * [Portainer Docker Management](development/homelab/docker-apps/portainer-docker-management.md)
     * [DocCat](development/homelab/docker-apps/doccat.md)
     * [Dashy HomeLab Home page](development/homelab/docker-apps/dashy-homelab-home-page.md)
+    * [Huginn Agents](development/homelab/docker-apps/huginn-agents.md)
   * [ISO's](development/homelab/isos/README.md)
     * [(windows) atlas OS](development/homelab/isos/windows-atlas-os.md)
     * [(Paid) Acronis True Image](development/homelab/isos/paid-acronis-true-image.md)
