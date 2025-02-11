@@ -1,6 +1,6 @@
 # Dashy HomeLab Home page
 
-<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 A Entry point for your network servers and shortcuts, Has other features I give it 10/10
 

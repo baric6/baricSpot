@@ -1,6 +1,6 @@
 # Rancher Kubernetes cluster
 
-<figure><img src="../../.gitbook/assets/kind-of-excited-that-i-finally-went-this-route-rancher-for-v0-hi93qqref87c1.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/kind-of-excited-that-i-finally-went-this-route-rancher-for-v0-hi93qqref87c1.webp" alt=""><figcaption></figcaption></figure>
 
 Docker Quick-start
 

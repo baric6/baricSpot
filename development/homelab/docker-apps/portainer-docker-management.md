@@ -1,6 +1,6 @@
 # Portainer Docker Management
 
-<figure><img src="../../.gitbook/assets/portainer-container-list-screen.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/portainer-container-list-screen.webp" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://docs.portainer.io/start/intro" %}
 
