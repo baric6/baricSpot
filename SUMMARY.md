@@ -891,6 +891,7 @@
   * [Windows server 2022 not able to default view image files like png, jpeg and ext ...](it-help/windows/windows-server-2022-not-able-to-default-view-image-files-like-png-jpeg-and-ext-....md)
 * [Mobile](it-help/mobile/README.md)
   * [Enter Android’s Bootloader](it-help/mobile/enter-androids-bootloader.md)
+  * [Set Up Microsoft Authenticator](it-help/mobile/set-up-microsoft-authenticator.md)
 * [Programs](it-help/programs/README.md)
   * [Make A OVA file from you virtual box VM](it-help/programs/make-a-ova-file-from-you-virtual-box-vm.md)
   * [Adobe XI redact location](it-help/programs/adobe-xi-redact-location.md)
