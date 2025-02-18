@@ -162,7 +162,7 @@ index=your_index sourcetype=your_sourcetype
 
 
 
-### Count the location of a IP
+#### Count the location of a IP
 
 ```
 sourcetype="activity"
@@ -175,3 +175,4 @@ sourcetype="activity"
 | stats count by Country
 | sort count
 ```
+
