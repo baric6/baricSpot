@@ -856,6 +856,7 @@
     * [Outlook 365 unthreading email replies](it-help/windows/office-product/outlook-365-unthreading-email-replies.md)
     * [How to Force Outlook(Classic) to Update the Job Title](it-help/windows/office-product/how-to-force-outlook-to-update-the-job-title.md)
     * [Block or unblock senders in Outlook](it-help/windows/office-product/block-or-unblock-senders-in-outlook.md)
+    * [Install Microsoft Projects](it-help/windows/office-product/install-microsoft-projects.md)
   * [Group Policy](it-help/windows/group-policy/README.md)
     * [Configure User’s Folder Redirection with Group Policy](it-help/windows/configure-users-folder-redirection-with-group-policy.md)
     * [Make Edge open a custom site](it-help/windows/group-policy/make-edge-open-a-custom-site.md)
