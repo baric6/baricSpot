@@ -176,3 +176,47 @@ sourcetype="activity"
 | sort count
 ```
 
+
+
+
+
+#### Extract values from raw entry&#x20;
+
+With a default data set
+
+```
+ category: status
+   details: { 
+     new: [ 
+       { 
+         name: status
+         value: offline
+       }
+     ]
+     old: [
+       {
+         name: status
+         value: online
+       }
+     ]
+   }
+   device: {}
+```
+
+Splunk grabs the data little different the dot notation for whats inside of the details object, the SPL language uses spath to extract the raw information&#x20;
+
+<pre><code><strong>
+</strong><strong>| spath path=details.new{}.value output=new_status
+</strong>| spath path=details.old{}.value output=old_status 
+| table new_status old_status
+</code></pre>
+
+What the table should look like:
+
+```
+| new_status| old_status |
+| --------- | ---------- |
+| offline   | online     |
+| online    | offline    |
+| offline   | online     |
+```
