@@ -819,6 +819,7 @@
     * [Blocklist.de](development/siems/ip-block-lists/blocklist.de.md)
     * [Scam-Blocklist](development/siems/ip-block-lists/scam-blocklist.md)
     * [Blocklist-ipsets](development/siems/ip-block-lists/blocklist-ipsets.md)
+  * [Malicious User Agents](development/siems/malicious-user-agents.md)
 * [Graphing Tools](development/graphing-tools/README.md)
   * [Figma Program Graphing](development/graphing-tools/figma-program-graphing.md)
   * [Photopea](development/graphing-tools/photopea.md)
