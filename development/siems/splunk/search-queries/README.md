@@ -220,3 +220,28 @@ What the table should look like:
 | online    | offline    |
 | offline   | online     |
 ```
+
+
+
+#### Searching for Malicious User Agents
+
+Needed&#x20;
+
+{% embed url="https://github.com/mthcht/awesome-lists/blob/main/Lists/suspicious_http_user_agents_list.csv" %}
+
+extra&#x20;
+
+ip.csv is the internal IP addresses were not on list to narrow it down (It is not needed)
+
+```
+
+index=* "UserAgent"
+| rex field=_raw "Name:\s*UserAgent\s*\n\s*Value:\s*(?<UserAgent>.+)"
+| rex field=_raw "ClientIP:\s*(?<ClientIP>\S+)" 
+| lookup suspicious_user_agents.csv http_user_agent AS UserAgent OUTPUT http_user_agent AS Match
+| eval Match=if(isnotnull(Match), "Suspicious", "Normal") 
+| lookup ip.csv IP AS ClientIP OUTPUT IP AS Match
+| where isnull(Match)
+| stats count by UserAgent
+| sort - count
+```
