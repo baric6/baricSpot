@@ -27,6 +27,10 @@ Mozilla/5.0 (Linux; Android 9; SM-N976N Build/QP1A.190711.020; wv) AppleWebKit/5
 ```
 
 ```
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) id:9c5330a3 16 OAuth2:Token
+```
+
+```
 UserError node-fetch 16 OAuth2:Token
 ```
 
