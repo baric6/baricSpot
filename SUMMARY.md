@@ -176,6 +176,7 @@
   * [HEDnsExtractor](security-programs/phishing/hednsextractor.md)
   * [CyberPhish](security-programs/phishing/cyberphish.md)
   * [PhishMailer](security-programs/phishing/phishmailer.md)
+  * [BeEF](security-programs/phishing/beef.md)
 * [Browser Tools](security-programs/browser-tools/README.md)
   * [Tamper Monkey Extension](security-programs/browser-tools/tamper-monkey-extension.md)
   * [Mercurial Grabber](security-programs/browser-tools/mercurial-grabber.md)
