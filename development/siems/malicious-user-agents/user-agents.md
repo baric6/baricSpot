@@ -53,3 +53,7 @@ UserError BAV2ROPC 16 OAuth2:Token
 ```
 Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.12026; Pro) 16 OAuth2:Token
 ```
+
+```
+Mozilla/5.0 (compatible; Yahoo! Slurp China; http://misc.yahoo.com.cn/help.html) 16 OAuth2:Token
+```
