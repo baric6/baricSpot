@@ -899,6 +899,7 @@
     * [Azure event codes](it-help/windows/sysadmin/azure-event-codes.md)
     * [Delaying a service starting in Microsoft](it-help/windows/sysadmin/delaying-a-service-starting-in-microsoft.md)
     * [Block a message from being sent or received based on the file name extension of the attachment](it-help/windows/sysadmin/block-a-message-from-being-sent-or-received-based-on-the-file-name-extension-of-the-attachment.md)
+    * [Renew a root CA certificate](it-help/windows/sysadmin/renew-a-root-ca-certificate.md)
   * [Office Product](it-help/windows/office-product/README.md)
     * [Classic Outlook desktop can't read encrypted email](it-help/windows/office-product/classic-outlook-desktop-cant-read-encrypted-email.md)
     * [Create a desktop shortcut for an Office program](it-help/windows/office-product/create-a-desktop-shortcut-for-an-office-program.md)
