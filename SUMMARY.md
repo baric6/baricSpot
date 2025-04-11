@@ -753,6 +753,7 @@
     * [Log Locations](development/siems/splunk/log-locations.md)
     * [Search Queries](development/siems/splunk/search-queries/README.md)
       * [Windows Detailed activity properties in the audit log](development/siems/splunk/search-queries/windows-detailed-activity-properties-in-the-audit-log.md)
+      * [SPL Breakdown](development/siems/splunk/search-queries/spl-breakdown.md)
     * [Create a email alert](development/siems/splunk/create-a-email-alert.md)
     * [Monitoring a file from a PC](development/siems/splunk/monitoring-a-file-from-a-pc.md)
     * [Resources](development/siems/splunk/resources/README.md)
