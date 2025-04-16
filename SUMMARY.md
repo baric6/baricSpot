@@ -1016,6 +1016,7 @@
 
 ## Security Education
 
+* [Monthly Security topics Outline](security-education/monthly-security-topics-outline.md)
 * [Games](security-education/games/README.md)
   * [Cyber Awareness Challenge](security-education/games/cyber-awareness-challenge.md)
   * [Cyber Crosswords](security-education/games/cyber-crosswords.md)
