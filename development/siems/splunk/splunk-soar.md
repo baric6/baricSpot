@@ -2,7 +2,7 @@
 
 ### Install Splunk Soar Video
 
-{% embed url="https://www.tiktok.com/@gavrisec/video/7360182025787165994" %}
+{% embed url="https://www.youtube.com/watch?v=uLXUE6oTuNA" %}
 
 ### Dependencies
 
@@ -76,9 +76,61 @@ Hit "Y" for everything for defaults
 
 Towards the end of the install it will ask for a password for the phantom user create one, you will need it later
 
-###
+Go back to the root directory
 
-###
+```
+cd /
+```
+
+Change ownership to /opt/ directory to phantom (this worked for me if you get a perm denied doing it the video way)
+
+```
+chown phantom: /opt/
+```
+
+Now go back into the splunk-soar folder
+
+```
+cd /opt/splunk-soar/
+```
+
+Change to phantom user
+
+```
+su phantom
+```
+
+Once in the splunk-soar folder, run the soar-install
+
+```
+./soar-install --splunk-soar-home /opt/splunk-soar/ --https-port 8443
+```
+
+Its is good to follow what the warnings say, I am going to ignore the warnings and press "y"
+
+Next it will ask if everything is correct hit "y"
+
+After it is done installing (i was in the /opt/splunk-soar/ folder) switch to the bin folder
+
+```
+cd bin
+```
+
+In the bin menu there is a script you need to run to start the server
+
+Run
+
+```
+./start_phantom
+```
+
+The server is running now
+
+Go to the webapp by (the HTTPS:// is important, HTTP will take you no where):
+
+```
+https://localhost:8443 or <ip>:8443
+```
 
 ### How to use Splunk Soar Video
 
