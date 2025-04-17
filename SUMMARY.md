@@ -780,6 +780,7 @@
     * [Calling Rest API from Splunk](development/siems/splunk/calling-rest-api-from-splunk.md)
     * [Splunk Python Lookup Script app Development](development/siems/splunk/splunk-python-lookup-script-app-development.md)
     * [(Settings) Data Inputs + Scripting Examples](development/siems/splunk/settings-data-inputs-+-scripting-examples.md)
+    * [Splunk Soar](development/siems/splunk/splunk-soar.md)
   * [Wazuh](development/siems/wazuh/README.md)
     * [Default register agent config](development/siems/wazuh/default-register-agent-config.md)
     * [Monitoring process to look for a app running](development/siems/wazuh/monitoring-process-to-look-for-a-app-running.md)
