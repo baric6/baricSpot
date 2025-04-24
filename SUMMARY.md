@@ -870,6 +870,7 @@
   * [OpenSauced github repository finder](development/github/opensauced-github-repository-finder.md)
 * [Gaming](development/gaming/README.md)
   * [Ryujinx](development/gaming/ryujinx.md)
+* [Cursor AI code editor](development/cursor-ai-code-editor.md)
 
 ## IT Help
 
