@@ -744,6 +744,8 @@
     * [Microsoft Entra conditional access: block access by location](development/compliance/entra-admin-center-conditional-access/microsoft-entra-conditional-access-block-access-by-location.md)
     * [Azure AAD create a alert to email when conditional access and Audit logs catch a oddity](development/compliance/entra-admin-center-conditional-access/azure-aad-create-a-alert-to-email-when-conditional-access-and-audit-logs-catch-a-oddity.md)
     * [Apply Conditional Access Policy to Microsoft Copilot](development/compliance/entra-admin-center-conditional-access/apply-conditional-access-policy-to-microsoft-copilot.md)
+  * [Password Auditing](development/compliance/password-auditing/README.md)
+    * [DSInternals](development/compliance/password-auditing/dsinternals.md)
 * [Siems and EDR](development/siems-and-edr/README.md)
   * [Splunk](development/siems-and-edr/splunk/README.md)
     * [Install](development/siems-and-edr/splunk/install.md)
