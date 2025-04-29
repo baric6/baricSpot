@@ -865,6 +865,7 @@
     * [How to Launch an HTTP Server in One Line of Python Code](development/lanuages/python/how-to-launch-an-http-server-in-one-line-of-python-code.md)
     * [Virus-Builder](development/lanuages/python/virus-builder.md)
     * [Server Agent example Squidnet bot](development/lanuages/python/server-agent-example-squidnet-bot.md)
+    * [Impacket Pentesting lib](development/lanuages/python/impacket-pentesting-lib.md)
   * [bash](development/lanuages/bash/README.md)
     * [Check for Leaked Passwords on HaveIBeenPwned](development/lanuages/bash/check-for-leaked-passwords-on-haveibeenpwned.md)
 * [GitHub](development/github/README.md)
