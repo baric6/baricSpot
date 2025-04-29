@@ -1056,6 +1056,7 @@
   * [Windows Privilege Escalation Crash Course](security-education/online-learning/windows-privilege-escalation-crash-course.md)
   * [Hack the box](security-education/online-learning/hack-the-box.md)
   * [Try hack me](security-education/online-learning/try-hack-me.md)
+  * [Hacknetics Pentesting Gitbook](security-education/online-learning/hacknetics-pentesting-gitbook.md)
 * [Comics](security-education/comics.md)
 * [Communities](security-education/communities/README.md)
   * [Onniforums](security-education/communities/onniforums.md)
