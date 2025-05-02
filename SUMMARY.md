@@ -931,6 +931,7 @@
     * [Block or unblock senders in Outlook](it-help/windows/office-product/block-or-unblock-senders-in-outlook.md)
     * [Install Microsoft Projects](it-help/windows/office-product/install-microsoft-projects.md)
     * [Outlook Send as or as behalf Email](it-help/windows/office-product/outlook-send-as-or-as-behalf-email.md)
+    * [How to make lined paper in Microsoft word](it-help/windows/office-product/how-to-make-lined-paper-in-microsoft-word.md)
   * [Group Policy](it-help/windows/group-policy/README.md)
     * [Configure User’s Folder Redirection with Group Policy](it-help/windows/configure-users-folder-redirection-with-group-policy.md)
     * [Make Edge open a custom site](it-help/windows/group-policy/make-edge-open-a-custom-site.md)
