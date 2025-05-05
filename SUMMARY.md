@@ -724,6 +724,8 @@
     * [Apply Conditional Access Policy to Microsoft Copilot](development/compliance/entra-admin-center-conditional-access/apply-conditional-access-policy-to-microsoft-copilot.md)
   * [Password Auditing](development/compliance/password-auditing/README.md)
     * [DSInternals](development/compliance/password-auditing/dsinternals.md)
+  * [GRC Tools (Governance, Risk, and Compliance)](development/compliance/grc-tools-governance-risk-and-compliance/README.md)
+    * [CISO Assistant](development/compliance/grc-tools-governance-risk-and-compliance/ciso-assistant.md)
 * [Siems and EDR](development/siems-and-edr/README.md)
   * [Splunk](development/siems-and-edr/splunk/README.md)
     * [Install](development/siems-and-edr/splunk/install.md)
