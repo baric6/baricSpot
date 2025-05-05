@@ -50,6 +50,9 @@ UserError okhttp/4.12.0 16 OAuth2:Token
 UserError BAV2ROPC 16 OAuth2:Token
 ```
 
+<pre><code><strong>UserError Go-http-client/1.1
+</strong></code></pre>
+
 ```
 Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.12026; Pro) 16 OAuth2:Token
 ```
@@ -57,3 +60,4 @@ Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.12026; Pro) 16 OA
 ```
 Mozilla/5.0 (compatible; Yahoo! Slurp China; http://misc.yahoo.com.cn/help.html) 16 OAuth2:Token
 ```
+

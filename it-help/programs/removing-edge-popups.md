@@ -1,6 +1,6 @@
 # Removing Edge popups
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The image above us just a site you allowed permissions to and it has taken over your edge notifications. This kind of popup will redirect you to malicious site and try to take your data.
 
