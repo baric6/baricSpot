@@ -999,6 +999,7 @@
   * [Create a desktop shortcut to open a specific URL in Chrome while default browser is Edge](it-help/programs/create-a-desktop-shortcut-to-open-a-specific-url-in-chrome-while-default-browser-is-edge.md)
   * [Removing Edge popups](it-help/programs/removing-edge-popups.md)
   * [Chrome clear cashed browser data](it-help/programs/chrome-clear-cashed-browser-data.md)
+  * [Dropbox taking up storage on physical devices](it-help/programs/dropbox-taking-up-storage-on-physical-devices.md)
 * [Networking](it-help/networking/README.md)
   * [DNS](it-help/networking/dns/README.md)
     * [Overview](it-help/networking/dns/overview.md)
