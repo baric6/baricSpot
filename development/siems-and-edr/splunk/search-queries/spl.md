@@ -2,7 +2,7 @@
 
 ## Useful search commands
 
-#### Count by tag you are searching for like "Message" will bring a count of like messages
+### Count by tag you are searching for like "Message" will bring a count of like messages
 
 ```
 | stats count by ip
@@ -12,7 +12,7 @@
 | stats count by userName, ip
 ```
 
-#### Rex is regex that you can replace a string like below replace a space with a underscore&#x20;
+### Rex is regex that you can replace a string like below replace a space with a underscore&#x20;
 
 ```
 | rex field=_raw "Account Name:\s+(?<Account_Name>[^\s]+)" | stats count by Account_Name   
@@ -20,25 +20,25 @@
 
 
 
-#### Pulls data from fields and organizes it into a table view
+### Pulls data from fields and organizes it into a table view
 
 ```
 | table UserId, SourceFileName, UserAgent, CreationTime
 ```
 
-#### lookup a uploaded csv table by file name&#x20;
+### lookup a uploaded csv table by file name&#x20;
 
 ```
 | inputlookup <filename.csv>
 ```
 
-#### Find items like&#x20;
+### Find items like&#x20;
 
 ```
 | inputlookup AllUsersMfaDetails.csv | where like(lower(DeviceName), "%ip%")
 ```
 
-#### Compare IP data in file with Splunk logs
+### Compare IP data in file with Splunk logs
 
 * lookup c2cisp.csv ip  - calls the file and uses the ip column
 * matches the ip to the the data set d\_ip
@@ -57,7 +57,7 @@ Find IPs that are not in the csv or 123.123.123.123
 | stats count by userDisplayName, ipAdd | sort - count
 ```
 
-#### lookup Resources
+### lookup Resources
 
 For reference: the docs have a page for each command: [lookup](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Flinkprotect.cudasvc.com%2Furl%3Fa%3Dhttp%253a%252f%252fdocs.splunk.com%252fDocumentation%252fSplunk%252flatest%252fSearchReference%252flookup%26c%3DE%2C1%2C9WdqfdRfM0wEV_Qnll6u4oBZHKTTvtQhTrcqBQPvue3crYzZ5LGmx33Mcm_T1VPSqXJxHtYvRz9C0m9_wyG9_Su1VbB5JSvUHjEzpyXZ9mKADgto2nhsA1A%2C%26typo%3D1\&data=05%7C02%7Cj.hollon%40gesmv.org%7C957c925c683d49a425a908dcbc67cda4%7C28083ef1d541442f8571ff507e065abf%7C0%7C0%7C638592401318082814%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C\&sdata=VM%2BEuWCD2e9zIoLKbJw7%2BvR8JJ2%2Fgu%2FhFGLvA7B87o0%3D\&reserved=0), [inputlookup](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Flinkprotect.cudasvc.com%2Furl%3Fa%3Dhttp%253a%252f%252fdocs.splunk.com%252fDocumentation%252fSplunk%252flatest%252fSearchReference%252finputlookup%26c%3DE%2C1%2C_RriEuStr5fUqhhcdL9ktqZlefHk3PxVSHx5SWFKC_k5D5yQf9aTz7EGnY30hW4NUuFgXpMes3uj22gLmqWSILsODRT0lkoXyGuCDWOwrCGQjha2urXf9YnrDNZx%26typo%3D1\&data=05%7C02%7Cj.hollon%40gesmv.org%7C957c925c683d49a425a908dcbc67cda4%7C28083ef1d541442f8571ff507e065abf%7C0%7C0%7C638592401318096900%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C\&sdata=iCD29NMcBYPKDfJpksPdxjHETg%2BSUIrf9UOgaCOdQEo%3D\&reserved=0), and [outputlookup](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Flinkprotect.cudasvc.com%2Furl%3Fa%3Dhttp%253a%252f%252fdocs.splunk.com%252fDocumentation%252fSplunk%252flatest%252fSearchReference%252foutputlookup%26c%3DE%2C1%2Csk5ByITxaEoeA0li5naNbLhGxogdYvKGvJs_0hqxkd1fmA5nFyu72K6K0Mbw7lSDryeY184W-bIjbUA-CocNsaZbKDYKKc6j5L17doKgwFJL_qA%2C%26typo%3D1\&data=05%7C02%7Cj.hollon%40gesmv.org%7C957c925c683d49a425a908dcbc67cda4%7C28083ef1d541442f8571ff507e065abf%7C0%7C0%7C638592401318102398%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C\&sdata=eVEjixid3N1X7PMv1%2FDQgfwwPoWEv6pfu889YwzbJ7k%3D\&reserved=0).
 
@@ -89,7 +89,7 @@ Yes, you can lookup two tables in the came command. You can even join the two ta
     > |lookup lookup1 ip\
     > |lookup lookup2 host
 
-#### Using Sort
+### Using Sort
 
 ```
 your search....| sort -count
@@ -101,7 +101,7 @@ your search....| sort -_time
 
 {% embed url="https://community.splunk.com/t5/Splunk-Search/How-do-I-sort-this-stats-count/m-p/362536" %}
 
-#### Using where
+### Using where
 
 ```
  where ClientIP IN ("86.48.9.97", "92.119.17.191")
@@ -109,7 +109,7 @@ your search....| sort -_time
 
 {% embed url="https://docs.splunk.com/Documentation/SCS/current/SearchReference/WhereCommandExamples" %}
 
-#### Using maps with Location of IP
+### Using maps with Location of IP
 
 Cluster map
 
@@ -120,7 +120,7 @@ Cluster map
 
 <figure><img src="../../../../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
 
-Choropleth Map&#x20;
+### Choropleth Map&#x20;
 
 ```
 | iplocation ip
@@ -145,7 +145,7 @@ source="activity" load=Directory  Op=Logged
 | geostats latfield=lat longfield=lon count by UserId
 ```
 
-#### IP manipulation removing port&#x20;
+### IP manipulation removing port&#x20;
 
 ```
 index=your_index sourcetype=your_sourcetype
@@ -162,7 +162,7 @@ index=your_index sourcetype=your_sourcetype
 
 
 
-#### Count the location of a IP
+### Count the location of a IP
 
 ```
 sourcetype="activity"
@@ -180,7 +180,7 @@ sourcetype="activity"
 
 
 
-#### Extract values from raw entry&#x20;
+### Extract values from raw entry&#x20;
 
 With a default data set
 
@@ -223,7 +223,7 @@ What the table should look like:
 
 
 
-#### Searching for Malicious User Agents
+### Searching for Malicious User Agents
 
 Needed&#x20;
 
@@ -244,4 +244,16 @@ index=* "UserAgent"
 | where isnull(Match)
 | stats count by UserAgent
 | sort - count
+```
+
+
+
+### File downloaded limit&#x20;
+
+This will alert when a user downloads more than 200 files
+
+```
+* Operation=FileDownloaded 
+| stats count as download_count by UserId
+| where download_count > 200
 ```
