@@ -814,6 +814,7 @@
     * [Malicious User Agents](development/siems-and-edr/data-for-siem/malicious-user-agents/README.md)
       * [User Agents](development/siems-and-edr/data-for-siem/malicious-user-agents/user-agents.md)
     * [CVE feeds](development/siems-and-edr/data-for-siem/cve-feeds.md)
+    * [Scamalytics IP Search API](development/siems-and-edr/data-for-siem/scamalytics-ip-search-api.md)
 * [Graphing Tools](development/graphing-tools/README.md)
   * [Figma Program Graphing](development/graphing-tools/figma-program-graphing.md)
   * [Photopea](development/graphing-tools/photopea.md)
