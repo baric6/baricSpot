@@ -404,6 +404,7 @@
   * [DorkGPT](security-programs/bug-bounty/dorkgpt.md)
   * [Hexa Keylogger](security-programs/bug-bounty/hexa-keylogger.md)
   * [Lazy Dork](security-programs/bug-bounty/lazy-dork.md)
+  * [AdminDirectoryFinder](security-programs/bug-bounty/admindirectoryfinder.md)
 * [Privacy](security-programs/privacy/README.md)
   * [Privacy Sites](security-programs/privacy/privacy-sites/README.md)
     * [Fake Name and Information generator](security-programs/privacy/privacy-sites/fake-name-and-information-generator.md)
