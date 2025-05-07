@@ -726,6 +726,7 @@
     * [DSInternals](development/compliance/password-auditing/dsinternals.md)
   * [GRC Tools (Governance, Risk, and Compliance)](development/compliance/grc-tools-governance-risk-and-compliance/README.md)
     * [CISO Assistant](development/compliance/grc-tools-governance-risk-and-compliance/ciso-assistant.md)
+    * [Soc Chef Policy Creator](development/compliance/grc-tools-governance-risk-and-compliance/soc-chef-policy-creator.md)
 * [Siems and EDR](development/siems-and-edr/README.md)
   * [Splunk](development/siems-and-edr/splunk/README.md)
     * [Install](development/siems-and-edr/splunk/install.md)
