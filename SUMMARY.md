@@ -1041,6 +1041,7 @@
 ## Security Education
 
 * [Monthly Security topics Outline](security-education/monthly-security-topics-outline.md)
+* [Do not call number spam](security-education/do-not-call-number-spam.md)
 * [Games](security-education/games/README.md)
   * [Cyber Awareness Challenge](security-education/games/cyber-awareness-challenge.md)
   * [Cyber Crosswords](security-education/games/cyber-crosswords.md)
@@ -1084,4 +1085,3 @@
 * [Videos](security-education/videos/README.md)
   * [Barracuda](security-education/videos/barracuda.md)
   * [Microsoft](security-education/videos/microsoft.md)
-* [Do not call number spam](security-education/do-not-call-number-spam.md)
