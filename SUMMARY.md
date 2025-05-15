@@ -751,6 +751,7 @@
       * [Export Splunk results to CSV file](development/siems-and-edr/splunk/resources/export-splunk-results-to-csv-file.md)
       * [Open-source detection rules like SigmaRules and Splunk ESCU rules](development/siems-and-edr/splunk/resources/open-source-detection-rules-like-sigmarules-and-splunk-escu-rules.md)
       * [Splunk research Detection, Analytics Playbooks and stats](development/siems-and-edr/splunk/resources/splunk-research-detection-analytics-playbooks-and-stats.md)
+      * [Teams Detailed activity properties in the audit log](development/siems-and-edr/splunk/resources/teams-detailed-activity-properties-in-the-audit-log.md)
     * [Creating Graphs and Dashboards](development/siems-and-edr/splunk/creating-graphs-and-dashboards.md)
     * [Splunkbase Apps](development/siems-and-edr/splunk/splunkbase-apps/README.md)
       * [Splunkbase App Values](development/siems-and-edr/splunk/splunkbase-apps/splunkbase-app-values.md)
