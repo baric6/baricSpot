@@ -8,6 +8,8 @@
 
 {% embed url="https://docs.abuseipdb.com/#introduction" %}
 
+In order to get a API key you need to make a account with AbuseIPDB
+
 ### Basics
 
 This is a quick start to call API in python

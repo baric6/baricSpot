@@ -576,7 +576,7 @@
   * [(paid) Netify Network intel](development/api-and-scraping-sources/paid-netify-network-intel.md)
   * [(semi free)IPHQ Fraud and Cyber Threats API](development/api-and-scraping-sources/semi-free-iphq-fraud-and-cyber-threats-api.md)
   * [API-Security-Checklist](development/api-and-scraping-sources/api-security-checklist.md)
-  * [Scamalytics IP Search API](development/api-and-scraping-sources/scamalytics-ip-search-api.md)
+  * [Scamalytics IP Search API](development/siems-and-edr/data-for-siem/scamalytics-ip-search-api.md)
   * [AbuseIPDB API IP checking](development/api-and-scraping-sources/abuseipdb-api-ip-checking.md)
 * [Microsoft KQL](development/microsoft-kql/README.md)
   * [KQL hunting email Queries](development/microsoft-kql/kql-hunting-email-queries.md)
