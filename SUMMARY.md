@@ -726,6 +726,7 @@
     * [Microsoft Entra conditional access: block access by location](development/compliance/entra-admin-center-conditional-access/microsoft-entra-conditional-access-block-access-by-location.md)
     * [Azure AAD create a alert to email when conditional access and Audit logs catch a oddity](development/compliance/entra-admin-center-conditional-access/azure-aad-create-a-alert-to-email-when-conditional-access-and-audit-logs-catch-a-oddity.md)
     * [Apply Conditional Access Policy to Microsoft Copilot](development/compliance/entra-admin-center-conditional-access/apply-conditional-access-policy-to-microsoft-copilot.md)
+    * [Conditional Access block Microsoft Azure CLI](development/compliance/entra-admin-center-conditional-access/conditional-access-block-microsoft-azure-cli.md)
   * [Password Auditing](development/compliance/password-auditing/README.md)
     * [DSInternals](development/compliance/password-auditing/dsinternals.md)
   * [GRC Tools (Governance, Risk, and Compliance)](development/compliance/grc-tools-governance-risk-and-compliance/README.md)
