@@ -1,4 +1,4 @@
-# Splunk Soar
+# SOAR Install
 
 ### Install Splunk Soar Video
 
@@ -44,7 +44,7 @@ sudo -i
 
 Under your home folder for example
 
-<figure><img src="../../../.gitbook/assets/image (429).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (429).png" alt=""><figcaption></figcaption></figure>
 
 After that is done downloading&#x20;
 
@@ -64,7 +64,7 @@ After install you should see this folder on /opt/
 
 CD into the folder
 
-<figure><img src="../../../.gitbook/assets/image (430).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (430).png" alt=""><figcaption></figcaption></figure>
 
 Within that folder prepare the SOAR by
 
@@ -138,5 +138,5 @@ https://localhost:8443 or <ip>:8443
 
 Video for Installing Splunk Soar on red hat 8 in case video is taken down&#x20;
 
-{% file src="../../../.gitbook/assets/Download.mp4" %}
+{% file src="../../../../.gitbook/assets/Download.mp4" %}
 
