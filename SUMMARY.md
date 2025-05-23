@@ -763,6 +763,7 @@
       * [Add Bit-warden to Splunk](development/siems-and-edr/splunk/splunkbase-apps/add-bit-warden-to-splunk.md)
       * [Top Splunk Apps](development/siems-and-edr/splunk/splunkbase-apps/top-splunk-apps.md)
       * [MITRE ATT\&CK App for Splunk](development/siems-and-edr/splunk/splunkbase-apps/mitre-att-and-ck-app-for-splunk.md)
+      * [Splunk Enterprise Security](development/siems-and-edr/splunk/splunkbase-apps/splunk-enterprise-security.md)
     * [Create/Modify User account](development/siems-and-edr/splunk/create-modify-user-account.md)
     * [Stop auto logout](development/siems-and-edr/splunk/stop-auto-logout.md)
     * [Splunk Deployment Server](development/siems-and-edr/splunk/splunk-deployment-server/README.md)
