@@ -822,6 +822,7 @@
       * [Blocklist-ipsets](development/siems-and-edr/data-for-siem/ip-block-lists/blocklist-ipsets.md)
     * [Malicious User Agents](development/siems-and-edr/data-for-siem/malicious-user-agents/README.md)
       * [User Agents](development/siems-and-edr/data-for-siem/malicious-user-agents/user-agents.md)
+    * [Proofpoint Emerging Threats Rules](development/siems-and-edr/data-for-siem/proofpoint-emerging-threats-rules.md)
 * [Graphing Tools](development/graphing-tools/README.md)
   * [Figma Program Graphing](development/graphing-tools/figma-program-graphing.md)
   * [Photopea](development/graphing-tools/photopea.md)
