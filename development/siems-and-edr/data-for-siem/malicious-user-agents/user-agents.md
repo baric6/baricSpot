@@ -61,3 +61,8 @@ Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.12026; Pro) 16 OA
 Mozilla/5.0 (compatible; Yahoo! Slurp China; http://misc.yahoo.com.cn/help.html) 16 OAuth2:Token
 ```
 
+### [TeamFiltration ](https://github.com/Flangvik/TeamFiltration)pentesting framework User Agent
+
+```
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.3.00.30866 Chrome/80.0.3987.165 Electron/8.5.1 Safari/537.36
+```
