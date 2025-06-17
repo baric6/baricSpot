@@ -775,6 +775,7 @@
     * [Splunk Soar](development/siems-and-edr/splunk/splunk-soar/README.md)
       * [Install SOAR](development/siems-and-edr/splunk/splunk-soar/install-soar.md)
       * [Connect Splunk Enterprise With SOAR](development/siems-and-edr/splunk/splunk-soar/connect-splunk-enterprise-with-soar.md)
+    * [CIM normalizing data sources in splunk](development/siems-and-edr/splunk/cim-normalizing-data-sources-in-splunk.md)
   * [Wazuh](development/siems-and-edr/wazuh/README.md)
     * [Default register agent config](development/siems-and-edr/wazuh/default-register-agent-config.md)
     * [Monitoring process to look for a app running](development/siems-and-edr/wazuh/monitoring-process-to-look-for-a-app-running.md)
