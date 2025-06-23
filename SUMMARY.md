@@ -678,6 +678,7 @@
   * [Myspeed testing and keep network speeds](development/homelab/myspeed-testing-and-keep-network-speeds.md)
   * [GOSINT - Open Source Threat Intelligence Gathering and Processing Framework](development/homelab/gosint-open-source-threat-intelligence-gathering-and-processing-framework.md)
   * [GGH](development/homelab/ggh.md)
+  * [Maltrail - malicious traffic detection system](development/homelab/maltrail-malicious-traffic-detection-system.md)
 * [Compliance](development/compliance/README.md)
   * [Self Audit Procedures](development/compliance/self-audit-procedures/README.md)
     * [Cmmc](development/compliance/self-audit-procedures/cmmc/README.md)
