@@ -66,6 +66,7 @@
   * [Hawker Osint](security-programs/osint/hawker-osint.md)
   * [Git Leaks](security-programs/osint/git-leaks.md)
   * [ShipXplorer tracking ships](security-programs/osint/shipxplorer-tracking-ships.md)
+  * [H8mail - breached email search](security-programs/osint/h8mail-breached-email-search.md)
 * [Security FrameWorks](security-programs/security-frameworks/README.md)
   * [(docker) OffensiveDocker](security-programs/security-frameworks/docker-offensivedocker.md)
   * [ICS Security training](security-programs/security-frameworks/ics-security-training.md)
