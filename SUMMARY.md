@@ -962,6 +962,7 @@
     * [Make Edge open a custom site](it-help/windows/group-policy/make-edge-open-a-custom-site.md)
     * [How to unlink and link GPO policies](it-help/windows/group-policy/how-to-unlink-and-link-gpo-policies.md)
     * [Creating a Security Group, adding to folder and Disabling Inheritance](it-help/windows/creating-a-security-group-adding-to-folder-and-disabling-inheritance.md)
+    * [Setup GP to get Bitlocker keys and Enable Bitlocker remotely with PowerShell](it-help/windows/group-policy/setup-gp-to-get-bitlocker-keys-and-enable-bitlocker-remotely-with-powershell.md)
   * [How to uninstall a program through windows command prompt](it-help/windows/how-to-uninstall-a-program-through-windows-command-prompt.md)
   * [Change Password in windows and mac](it-help/windows/change-password-in-windows-and-mac.md)
   * [Reinstalling RDP on a windows machine](it-help/windows/reinstalling-rdp-on-a-windows-machine.md)
