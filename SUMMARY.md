@@ -1024,6 +1024,7 @@
       * [Deploy to Device](it-help/programs/pdq/pdq-connect/deploy-to-device.md)
     * [Upgrade Windows 10 to Windows 11](it-help/programs/pdq/upgrade-windows-10-to-windows-11.md)
     * [Find Windows 11 Compatible Devices](it-help/programs/pdq/find-windows-11-compatible-devices.md)
+    * [PDQ Enable-BitLocker Commands](it-help/programs/pdq/pdq-enable-bitlocker-commands.md)
 * [Networking](it-help/networking/README.md)
   * [DNS](it-help/networking/dns/README.md)
     * [Overview](it-help/networking/dns/overview.md)
