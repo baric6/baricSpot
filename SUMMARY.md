@@ -687,6 +687,7 @@
   * [GGH](development/homelab/ggh.md)
   * [Maltrail - malicious traffic detection system](development/homelab/maltrail-malicious-traffic-detection-system.md)
   * [IntelOwl threat-hunting platform](development/homelab/intelowl-threat-hunting-platform.md)
+  * [(Docker) GoAway - DNS Sinkhole](development/homelab/docker-goaway-dns-sinkhole.md)
 * [Compliance](development/compliance/README.md)
   * [Self Audit Procedures](development/compliance/self-audit-procedures/README.md)
     * [Cmmc](development/compliance/self-audit-procedures/cmmc/README.md)
