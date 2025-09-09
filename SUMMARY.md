@@ -853,6 +853,7 @@
       * [Scam-Blocklist](development/siems-and-edr/data-for-siem/ip-block-lists/scam-blocklist.md)
       * [Blocklist-ipsets](development/siems-and-edr/data-for-siem/ip-block-lists/blocklist-ipsets.md)
       * [IP blocklist lists](development/siems-and-edr/data-for-siem/ip-block-lists/ip-blocklist-lists.md)
+      * [Emerging Threats IP Blocking](development/siems-and-edr/data-for-siem/ip-block-lists/emerging-threats-ip-blocking.md)
     * [Malicious User Agents](development/siems-and-edr/data-for-siem/malicious-user-agents/README.md)
       * [User Agents](development/siems-and-edr/data-for-siem/malicious-user-agents/user-agents.md)
     * [Proofpoint Emerging Threats Rules](development/siems-and-edr/data-for-siem/proofpoint-emerging-threats-rules.md)
