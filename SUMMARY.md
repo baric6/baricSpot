@@ -800,7 +800,7 @@
     * [Splunk Python scripting](development/siems-and-edr/splunk/splunk-python-scripting/README.md)
       * [Splunk Python Lookup Script app Development](development/siems-and-edr/splunk/splunk-python-scripting/splunk-python-lookup-script-app-development.md)
       * [Template for python data pusher](development/siems-and-edr/splunk/splunk-python-scripting/template-for-python-data-pusher.md)
-    * [Managing Datasets](development/siems-and-edr/splunk/managing-datasets.md)
+    * [Managing Datamodels and Sets](development/siems-and-edr/splunk/managing-datamodels-and-sets.md)
     * [Use detection versioning in Splunk Enterprise](development/siems-and-edr/splunk/use-detection-versioning-in-splunk-enterprise.md)
     * [(Github) Splunk Server resource](development/siems-and-edr/splunk/github-splunk-server-resource.md)
     * [Detections Sheet to add](development/siems-and-edr/splunk/detections-sheet-to-add.md)
