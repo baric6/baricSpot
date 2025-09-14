@@ -807,6 +807,7 @@
     * [ContentCTL content control tool](development/siems-and-edr/splunk/contentctl-content-control-tool.md)
     * [Accelerating Security Operations with Splunk and Foundation AI’s First Open-Source Security Model](development/siems-and-edr/splunk/accelerating-security-operations-with-splunk-and-foundation-ais-first-open-source-security-model.md)
     * [Atomic Red Testing Suite](development/siems-and-edr/splunk/atomic-red-testing-suite.md)
+    * [Cloning A detection ES8](development/siems-and-edr/splunk/cloning-a-detection-es8.md)
   * [Wazuh](development/siems-and-edr/wazuh/README.md)
     * [Default register agent config](development/siems-and-edr/wazuh/default-register-agent-config.md)
     * [Monitoring process to look for a app running](development/siems-and-edr/wazuh/monitoring-process-to-look-for-a-app-running.md)
