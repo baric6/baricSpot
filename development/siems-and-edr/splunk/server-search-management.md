@@ -16,3 +16,11 @@ index=_internal sourcetype=splunkd component=DispatchManager
 | timechart count by status
 ```
 
+
+
+Quick fixes
+
+* Kill runaway searches in **Activity → Jobs**.
+* Extend default search time window (don’t allow users to query “All time”).
+* Throttle scheduled searches to run less often.
+* Review CIM/data model accelerations you don’t actually use.
