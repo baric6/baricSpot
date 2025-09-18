@@ -117,3 +117,23 @@ EmailEvents
 | where Subject contains "Direct Deposit"
 | project SenderFromAddress, RecipientEmailAddress, Subject
 ```
+
+#### Count **Sender domain** (sent-from)
+
+```kusto
+EmailEvents
+| where Timestamp > ago(24h)
+| extend SenderDomain = tostring(split(SenderFromAddress, "@")[1])
+| summarize count() by SenderDomain
+| order by count_ desc
+```
+
+#### Count **delivered-to domains** (recipients)
+
+```kusto
+EmailEvents
+| where Timestamp > ago(24h)
+| extend RecipientDomain = tostring(split(RecipientEmailAddress, "@")[1])
+| summarize count() by RecipientDomain
+| order by count_ desc
+```
