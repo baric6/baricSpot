@@ -12,5 +12,6 @@ Macros are a SPL code snip its that are resealable
 NOT (user IN ("svc_account1","svc_account2"))
 ```
 
-
+4. Everything else as default for right now
+5. Save
 
