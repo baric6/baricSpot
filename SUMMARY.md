@@ -809,7 +809,7 @@
     * [Server Search Management](development/siems-and-edr/splunk/server-search-management.md)
     * [Enterprise Security App](development/siems-and-edr/splunk/enterprise-security-app/README.md)
       * [Cloning/Creating A detection ES8](development/siems-and-edr/splunk/enterprise-security-app/cloning-creating-a-detection-es8.md)
-      * [Detections Sheet to add](development/siems-and-edr/splunk/enterprise-security-app/detections-sheet-to-add.md)
+      * [Detection Resource](development/siems-and-edr/splunk/enterprise-security-app/detection-resource.md)
       * [Editing Macros](development/siems-and-edr/splunk/enterprise-security-app/editing-macros.md)
   * [Wazuh](development/siems-and-edr/wazuh/README.md)
     * [Default register agent config](development/siems-and-edr/wazuh/default-register-agent-config.md)
