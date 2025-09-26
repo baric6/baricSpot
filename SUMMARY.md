@@ -897,6 +897,7 @@
     * [Impacket Pentesting lib](development/lanuages/python/impacket-pentesting-lib.md)
     * [NiceGUI python UI Lib](development/lanuages/python/nicegui-python-ui-lib.md)
     * [Mac - Python starting a venv](development/lanuages/python/mac-python-starting-a-venv.md)
+    * [Python Logging](development/lanuages/python/python-logging.md)
   * [bash](development/lanuages/bash/README.md)
     * [Check for Leaked Passwords on HaveIBeenPwned](development/lanuages/bash/check-for-leaked-passwords-on-haveibeenpwned.md)
 * [GitHub](development/github/README.md)
