@@ -568,6 +568,8 @@
     * [romainmarcoux bad IP addresses](development/api-and-scraping-sources/github-data-sources/romainmarcoux-bad-ip-addresses.md)
     * [Data-cve-poc Exploits](development/api-and-scraping-sources/github-data-sources/data-cve-poc-exploits.md)
     * [Free Threat Intel/IOC Feeds](development/api-and-scraping-sources/github-data-sources/free-threat-intel-ioc-feeds.md)
+  * [Darknet API Dump search](development/api-and-scraping-sources/darknet-api-dump-search/README.md)
+    * [Hudsonrock InfoStealer Intelligence API](development/api-and-scraping-sources/darknet-api-dump-search/hudsonrock-infostealer-intelligence-api.md)
   * [(paid) Text message api](development/api-and-scraping-sources/paid-text-message-api.md)
   * [(api) internetdb.shodan.io](development/api-and-scraping-sources/api-internetdb.shodan.io.md)
   * [Awesome-security-Apis](development/api-and-scraping-sources/awesome-security-apis.md)
