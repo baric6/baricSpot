@@ -813,6 +813,7 @@
       * [Cloning/Creating A detection ES8](development/siems-and-edr/splunk/enterprise-security-app/cloning-creating-a-detection-es8.md)
       * [Detection Resource](development/siems-and-edr/splunk/enterprise-security-app/detection-resource.md)
       * [Editing Macros](development/siems-and-edr/splunk/enterprise-security-app/editing-macros.md)
+    * [Changing mode from standalone / distributed with servers roles](development/siems-and-edr/splunk/changing-mode-from-standalone-distributed-with-servers-roles.md)
   * [Wazuh](development/siems-and-edr/wazuh/README.md)
     * [Default register agent config](development/siems-and-edr/wazuh/default-register-agent-config.md)
     * [Monitoring process to look for a app running](development/siems-and-edr/wazuh/monitoring-process-to-look-for-a-app-running.md)
