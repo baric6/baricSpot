@@ -815,6 +815,7 @@
       * [Editing Macros](development/siems-and-edr/splunk/enterprise-security-app/editing-macros.md)
     * [Changing mode from standalone / distributed with servers roles](development/siems-and-edr/splunk/changing-mode-from-standalone-distributed-with-servers-roles.md)
     * [Server Architecture Diagrams](development/siems-and-edr/splunk/server-architecture-diagrams.md)
+    * [Dispatch Jobs getting clogged up and slowing down splunk](development/siems-and-edr/splunk/dispatch-jobs-getting-clogged-up-and-slowing-down-splunk.md)
   * [Wazuh](development/siems-and-edr/wazuh/README.md)
     * [Default register agent config](development/siems-and-edr/wazuh/default-register-agent-config.md)
     * [Monitoring process to look for a app running](development/siems-and-edr/wazuh/monitoring-process-to-look-for-a-app-running.md)
