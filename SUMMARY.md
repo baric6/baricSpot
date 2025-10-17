@@ -544,7 +544,7 @@
   * [Nginx-proxy-manager docker](development/docker/nginx-proxy-manager-docker.md)
   * [Compose Craft](development/docker/compose-craft.md)
   * [Docker Linux Server](development/docker/docker-linux-server.md)
-  * [ntfy.sh | Send push notifications to your phone or desktop via PUT/POST](development/docker/ntfy.sh-or-send-push-notifications-to-your-phone-or-desktop-via-put-post.md)
+  * [ntfy.sh | Send push notifications to your phone or desktop via PUT/POST - text message](development/docker/ntfy.sh-or-send-push-notifications-to-your-phone-or-desktop-via-put-post-text-message.md)
   * [Docker Self hosted collection](development/docker/docker-self-hosted-collection.md)
   * [DockerAndroid](development/docker/dockerandroid.md)
 * [API and Scraping Sources](development/api-and-scraping-sources/README.md)
