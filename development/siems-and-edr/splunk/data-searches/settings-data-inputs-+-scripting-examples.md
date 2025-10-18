@@ -2,7 +2,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
 
 In the Splunk web-app you access this by going to the settings menu in the top right corner and selecting Data Inputs it will give you the image above
 
