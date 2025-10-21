@@ -797,6 +797,7 @@
     * [Splunk Deployment Server](development/siems-and-edr/splunk/splunk-deployment-server/README.md)
       * [Deployment Resources](development/siems-and-edr/splunk/splunk-deployment-server/deployment-resources.md)
       * [Other Types of Deployment Servers that can be used](development/siems-and-edr/splunk/splunk-deployment-server/other-types-of-deployment-servers-that-can-be-used.md)
+      * [Deployment Server Setup](development/siems-and-edr/splunk/splunk-deployment-server/deployment-server-setup.md)
     * [Splunk Soar](development/siems-and-edr/splunk/splunk-soar/README.md)
       * [Install SOAR](development/siems-and-edr/splunk/splunk-soar/install-soar.md)
       * [Connect Splunk Enterprise With SOAR](development/siems-and-edr/splunk/splunk-soar/connect-splunk-enterprise-with-soar.md)
