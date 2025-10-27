@@ -1,5 +1,9 @@
 # Create a email alert
 
+#### Note
+
+Email should be configured on the search head, not the indexer, because the search head is responsible for handling alerts and user-facing functionalities, including the UI that sends email notifications.
+
 ## Server Setup
 
 <figure><img src="../../../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>

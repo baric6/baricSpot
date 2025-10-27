@@ -8,7 +8,7 @@
 
 On the top of the page you will find this
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 depending if you are using one server (standalone) or multiple (distributed) you will change the settings here
 
@@ -20,4 +20,4 @@ find your server in the row and&#x20;
 
 * click edit > edit server roles
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

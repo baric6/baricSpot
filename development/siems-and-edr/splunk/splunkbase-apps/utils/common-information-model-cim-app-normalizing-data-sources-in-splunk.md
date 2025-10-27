@@ -6,7 +6,7 @@
 
 Default values in the Splunk data model&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://help.splunk.com/en/splunk-cloud-platform/manage-knowledge-objects/splunk-app-for-lookup-file-editing/4.0/use-the-splunk-app-for-lookup-file-editing/edit-a-lookup-file-in-the-splunk-app-for-lookup-file-editing" %}
 
