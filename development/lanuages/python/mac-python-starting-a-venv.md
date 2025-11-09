@@ -28,3 +28,9 @@ If it returns nothing it has started and you can start installing libs&#x20;
 ```
 pip3 install requests
 ```
+
+Check if lib is installed
+
+```
+pip3 list
+```
