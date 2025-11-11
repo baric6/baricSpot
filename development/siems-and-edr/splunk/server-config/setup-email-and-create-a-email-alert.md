@@ -1,4 +1,4 @@
-# Create a email alert
+# Setup email and Create a email alert
 
 #### Note
 
@@ -7,6 +7,21 @@ Email should be configured on the search head, not the indexer, because the sear
 ## Server Setup
 
 <figure><img src="../../../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
+
+#### Troubleshooting:&#x20;
+
+If you have setup the email part of it but you are still not getting emails
+
+1. \<Splunk Home>/etc/system/local there should be a file called "alert\_action.conf". If there is no file called that in the local folder. Create it.&#x20;
+   1. anything in the local folder overrides the default settings
+   2. \[email]\
+      mailserver = smtp.gmail.com:587 _// your mail server_\
+      use\_tls = true\
+      auth\_username = [splunk@mydomin.](mailto:splunk@gesmv.org)com _// make sure this matches from=_\
+      auth\_password = \<Your Password>\
+      from = [splunk@mydomain.](mailto:splunk@gesmv.org)com _// make sure this matches auth\_username=_
+   3. restart the server&#x20;
+2. After adding the details in the UI, go to the server and search for any file named alert\_action to see if you details saved. it should look like the above file but in a different location&#x20;
 
 ## Create a alert&#x20;
 

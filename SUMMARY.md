@@ -825,7 +825,7 @@
       * [Server Architecture Diagrams](development/siems-and-edr/splunk/server-config/server-architecture-diagrams.md)
       * [Changing mode from standalone / distributed with servers roles](development/siems-and-edr/splunk/server-config/changing-mode-from-standalone-distributed-with-servers-roles.md)
       * [Stop auto logout](development/siems-and-edr/splunk/server-config/stop-auto-logout.md)
-      * [Create a email alert](development/siems-and-edr/splunk/server-config/create-a-email-alert.md)
+      * [Setup email and Create a email alert](development/siems-and-edr/splunk/server-config/setup-email-and-create-a-email-alert.md)
   * [Wazuh](development/siems-and-edr/wazuh/README.md)
     * [Default register agent config](development/siems-and-edr/wazuh/default-register-agent-config.md)
     * [Monitoring process to look for a app running](development/siems-and-edr/wazuh/monitoring-process-to-look-for-a-app-running.md)
