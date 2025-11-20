@@ -20,8 +20,42 @@ msiexec.exe /i <Path to excutable>/splunkforwarder.msi DEPLOYMENT_SERVER="<Deplo
          2. **Forwarders** - where you will assign the endpoints to the class
          3. **Application** - where you assign the applications you put in the development-apps folders&#x20;
          4. this is made we will come back here later&#x20;
-5. Creating a application or adding one through splunkbase
-   1. **...... TODO ...... need to create this**
+5. Creating a application or adding one through Splunkbase
+   1. Custom apps or splunkbase apps go into `<splunkhome>\etc\deployment-apps`.&#x20;
+   2. Creating a app
+      1. Under the deployment apps folder create a folder named \<Your app> this can be called anything
+      2. Under \<Your app> make two files — **Make sure you save these files from notepad as a .conf. If you create the file using right click it will append file.conf.txt and this will not work. I spent hours debugging this. To check in file explorer navigate to your folder and click view > view hidden file extension.**
+         1. **inputs.conf** — this is what data you are going to push to Splunk from the endpoint — below is getting basic event logs &#x20;
+            1.  **`[WinEventLog://Security]`**\
+                **`checkpointInterval = 5`**\
+                **`current_only = 0`**\
+                **`disabled = 0`**\
+                **`start_from = oldest`**
+
+                `[WinEventLog://Application]`\
+                `checkpointInterval = 5`\
+                `current_only = 0`\
+                `disabled = 0`\
+                `start_from = oldest`
+
+                **`[WinEventLog://System]`**\
+                **`checkpointInterval = 5`**\
+                **`current_only = 0`**\
+                **`disabled = 0`**\
+                **`start_from = oldest`**
+         2. **outputs.conf** — this file connects your agent on the endpoint
+            1.  `[tcpout]`\
+                `defaultGroup = default-autolb-group`
+
+                `[tcpout:default-autolb-group]`\
+                `server = gesmv-hq-lpsfty:9997`
+         3. After these are made the deployment server should be able to see it
+   3. OR Adding A Splunkbase app
+      1. &#x20;Any agent can use this app it is a basic viewer for the conf of a agent
+         1. [https://splunkbase.splunk.com/app/7796](https://splunkbase.splunk.com/app/7796)
+      2. extract the zip and place the extracted folder  `<splunkhome>\etc\deployment-apps`
+      3. once the folder is in there you should see it pop up in the deployment server apps
+   4. Once you have added these you are done head back to the Agent Management UI in Splunk
 6. Adding forwarders to the server class
    1. Going back to the **server class page**, you will see a button in the upper right hand side saying edit forwarders, click it
    2. when  you are on the forwarders page you will see three boxes **Include, filter by machine type and exclude.** This is the way you will add the machines to the server class
