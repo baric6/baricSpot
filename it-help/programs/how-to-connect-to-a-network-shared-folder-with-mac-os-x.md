@@ -15,10 +15,9 @@ To connect to a networked share drive such as your “H drive” (the home folde
 
 ### Select Connect to Server…
 
-\
+<br>
 
-
-![Go connect](https://www.riohondo.edu/its/wp-content/uploads/sites/2/2014/06/go\_connect.png)
+![Go connect](https://www.riohondo.edu/its/wp-content/uploads/sites/2/2014/06/go_connect.png)
 
 &#x20;
 
@@ -26,7 +25,7 @@ To connect to a networked share drive such as your “H drive” (the home folde
 
 &#x20;
 
-![Server list](https://www.riohondo.edu/its/wp-content/uploads/sites/2/2014/06/server\_list.png)
+![Server list](https://www.riohondo.edu/its/wp-content/uploads/sites/2/2014/06/server_list.png)
 
 &#x20;
 

@@ -514,6 +514,11 @@
   * [HoneyDB](security-programs/honeypots/honeydb.md)
   * [Dionaea honeypot - Building a Honeypot to Capture Zero-Day Exploits](security-programs/honeypots/dionaea-honeypot-building-a-honeypot-to-capture-zero-day-exploits.md)
   * [HoneyPots 20+](security-programs/honeypots/honeypots-20+.md)
+* [Antivirus](security-programs/antivirus/README.md)
+  * [Go-Defender](security-programs/antivirus/go-defender.md)
+  * [Clam AV](security-programs/antivirus/clam-av.md)
+  * [Backup Solutions](security-programs/antivirus/backup-solutions/README.md)
+    * [( Windows ) Veeam community edition](security-programs/antivirus/backup-solutions/windows-veeam-community-edition.md)
 
 ## Development&#x20;
 
@@ -699,6 +704,7 @@
   * [Maltrail - malicious traffic detection system](development/homelab/maltrail-malicious-traffic-detection-system.md)
   * [IntelOwl threat-hunting platform](development/homelab/intelowl-threat-hunting-platform.md)
   * [(Docker) GoAway - DNS Sinkhole](development/homelab/docker-goaway-dns-sinkhole.md)
+  * [Port Tracker](development/homelab/port-tracker.md)
 * [Compliance](development/compliance/README.md)
   * [Self Audit Procedures](development/compliance/self-audit-procedures/README.md)
     * [Cmmc](development/compliance/self-audit-procedures/cmmc/README.md)
@@ -993,6 +999,7 @@
     * [Renew a root CA certificate](it-help/windows/sysadmin/renew-a-root-ca-certificate.md)
     * [Plan and deploy on-premises Microsoft Entra Password Protection](it-help/windows/sysadmin/plan-and-deploy-on-premises-microsoft-entra-password-protection.md)
     * [How To Make An Automated Windows 11 Install USB, Updated for 2025](it-help/windows/sysadmin/how-to-make-an-automated-windows-11-install-usb-updated-for-2025.md)
+    * [Rename a domain controller without breaking it](it-help/windows/sysadmin/rename-a-domain-controller-without-breaking-it.md)
   * [Office Product](it-help/windows/office-product/README.md)
     * [Classic Outlook desktop can't read encrypted email](it-help/windows/office-product/classic-outlook-desktop-cant-read-encrypted-email.md)
     * [Create a desktop shortcut for an Office program](it-help/windows/office-product/create-a-desktop-shortcut-for-an-office-program.md)
@@ -1145,6 +1152,8 @@
   * [Hack the box](security-education/online-learning/hack-the-box.md)
   * [Try hack me](security-education/online-learning/try-hack-me.md)
   * [Hacknetics Pentesting Gitbook](security-education/online-learning/hacknetics-pentesting-gitbook.md)
+  * [Red-Team Leaders](security-education/online-learning/red-team-leaders.md)
+  * [OSSU Computer Science self pace class](security-education/online-learning/ossu-computer-science-self-pace-class.md)
 * [Comics](security-education/comics.md)
 * [Communities](security-education/communities/README.md)
   * [Onniforums](security-education/communities/onniforums.md)

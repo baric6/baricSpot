@@ -70,14 +70,11 @@ In short:
 As an aside, when getting started with SPL commands, the [Quick Reference Guide](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Flinkprotect.cudasvc.com%2Furl%3Fa%3Dhttps%253a%252f%252fwww.splunk.com%252fen_us%252fresources%252fsplunk-quick-reference-guide.html%253f_gl%253d1%252afyrfu%252a_ga%252aMTM1MDE5NjQxOS4xNzE2NDkwNTkz%252a_ga_GS7YF8S63Y%252aMTcyMDU0NTkxNi41MC4xLjE3MjA1NDYwNDguNjAuMC4w%252a_gcl_aw%252aR0NMLjE3MTk5NDgwODUuQ2p3S0NBand5bzYwQmhCaUVpd0FIbVZMSmNici10RkRUOU1HcnNIQmFSTlVKNEMxNHNFeDFodWlGZzlzeFJxVUNWT0pJY3pWUUlkRUJ4b0NaN2NRQXZEX0J3RQ..%252a_gcl_au%252aNDc2NzA2MzM4LjE3MTk1MTAyOTc.%252aFPAU%252aNDc2NzA2MzM4LjE3MTk1MTAyOTc.%252a_ga_5EPM2P39FV%252aMTcyMDU0NTkxMC42MS4xLjE3MjA1NDYwOTQuMC4wLjg5NzY5NjQ4MQ..%2526_ga%253d2.112675780.1326565181.1720446000-1350196419.1716490593%2526_gac%253d1.162205518.1719948090.CjwKCAjwyo60BhBiEiwAHmVLJcbr-tFDT9MGrsHBaRNUJ4C14sEx1huiFg9sxRqUCVOJIczVQIdEBxoCZ7cQAvD_BwE%26c%3DE%2C1%2CEfqycHdjyslu-vDjblfaAaXzZJWwxpiV-Y6iYoqbWDihlODdZW3opDAlRZGGE-wuus35hySy9hEUJFiolFssSMCus7G5wx-CMrE9Bm9LFVeYZBoqfQg%2C%26typo%3D1\&data=05%7C02%7Cj.hollon%40gesmv.org%7C957c925c683d49a425a908dcbc67cda4%7C28083ef1d541442f8571ff507e065abf%7C0%7C0%7C638592401318107293%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C\&sdata=BKaQZnWjZTD01AvS6zWAx2n4zvcrap%2FIF56as%2BxvW0Q%3D\&reserved=0) is the holy grail IMO for learning all about Splunk key concepts and common commands, along with different examples. Make sure you've got this one in your back pocket, as well as the [Search Reference Docs](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Flinkprotect.cudasvc.com%2Furl%3Fa%3Dhttps%253a%252f%252fdocs.splunk.com%252fDocumentation%252fSplunk%252f9.3.0%252fSearchReference%252fWhatsInThisManual%26c%3DE%2C1%2CLvqq-cM4stNxqpHx9sm_tXCm0d3gO5qd3na1JxkgHeypdDhX3aQ-jP-5taeav8eSfCu0mksrZxZ6lFk_z3u5EWW5sFIAXWk1e5p8IPnz-pNnBhXHyY9EmLawEuXy%26typo%3D1\&data=05%7C02%7Cj.hollon%40gesmv.org%7C957c925c683d49a425a908dcbc67cda4%7C28083ef1d541442f8571ff507e065abf%7C0%7C0%7C638592401318115115%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C\&sdata=qwP0DazyibF2ZaB%2BCZYuAg4KODUWk60UarXtKoEmVZs%3D\&reserved=0).\
 Yes, you can lookup two tables in the came command. You can even join the two tables together. It really depends on what you're trying to do with the lookup (whether you're trying to use multiple inputlookup calls, or multiple lookup calls).
 
-*   The former requires the use of append or join:\
-
+*   The former requires the use of append or join:<br>
 
     > \| inputlookup lookup1| append \[|inputlookup lookup2]| join ip \[|inputlookup lookup3]\
-    > \
-    >
-*   The latter is just sequential:\
-
+    > <br>
+*   The latter is just sequential:<br>
 
     > index=\<index> sourcetype=\<sourcetype>\
     > |lookup lookup1 ip\
