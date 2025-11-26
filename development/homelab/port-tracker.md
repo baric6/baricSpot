@@ -1,6 +1,6 @@
 # Port Tracker
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Automatic Port Discovery**: Scans the host system to find and display running services and their ports automatically. No manual data entry is needed.
 * **Platform-Specific Collectors**: Includes specialized collectors for Docker and TrueNAS to gather rich, contextual information from the host.

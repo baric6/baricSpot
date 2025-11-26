@@ -14,6 +14,6 @@ This app provides a editor interface for viewing and editing Splunk files. It ha
 
 By default, the app is not able to save files, but this can be enabled from the "Settings" link. As this app provides unrestricted access to Splunk files, users must have the "admin" role to see the app.
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://splunkbase.splunk.com/app/4353" %}

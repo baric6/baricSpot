@@ -16,8 +16,6 @@ If you have a newer device with an A12 SoC, such as the iPhone XS, you can only 
 
 If you are already jailbroken with another jailbreak (besides Odysseyra1n), make sure to properly [remove it](https://ios.cfw.guide/restoring-rootfs) before proceeding.
 
-### &#x20;<a href="#downloads" id="downloads"></a>
-
 ### Downloads <a href="#downloads" id="downloads"></a>
 
 * The latest release of [Chimera](https://chimera.coolstar.org/)
@@ -38,8 +36,6 @@ The unofficial build is **completely unnecessary** on newer (A9 and later) devic
 
 ![A screenshot of the Sideloadly application (Windows)](https://ios.cfw.guide/assets/images/sideloadly_win.png)
 
-### &#x20;<a href="#installing-the-application" id="installing-the-application"></a>
-
 ### Installing the application <a href="#installing-the-application" id="installing-the-application"></a>
 
 1. Open Sideloadly
@@ -51,8 +47,6 @@ The unofficial build is **completely unnecessary** on newer (A9 and later) devic
 
 The app will now install to your iOS device.
 
-### &#x20;<a href="#trusting-the-application" id="trusting-the-application"></a>
-
 ### Trusting the application <a href="#trusting-the-application" id="trusting-the-application"></a>
 
 1. Go to `Settings` -> `General` -> `Device Management` -> `<Your Apple Account>`
@@ -60,8 +54,6 @@ The app will now install to your iOS device.
 2. Tap `Trust "<Your Apple Account>"`
 
 The Chimera application can now be opened from home screen.
-
-### &#x20;<a href="#running-chimera" id="running-chimera"></a>
 
 ### Running Chimera <a href="#running-chimera" id="running-chimera"></a>
 
@@ -79,8 +71,6 @@ The Chimera application can now be opened from home screen.
 If that app or your device continually crashes/restarts unexpectedly and the jailbreak isn't installed despite the above steps, attempt to put the device in a freezer for that 1-2 minute period.
 
 You should now be jailbroken with Sileo installed on your home screen. You can use Sileo to install [tweaks](https://ios.cfw.guide/faq/#what-are-tweaks), themes and more.
-
-### &#x20;<a href="#installing-necessary-software" id="installing-necessary-software"></a>
 
 ### Installing necessary software <a href="#installing-necessary-software" id="installing-necessary-software"></a>
 
