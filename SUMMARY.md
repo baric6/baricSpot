@@ -416,7 +416,7 @@
   * [AdminDirectoryFinder](security-programs/bug-bounty/admindirectoryfinder.md)
   * [BugTrace-AI (needs AI key)](security-programs/bug-bounty/bugtrace-ai-needs-ai-key.md)
   * [WPProbe Scanner](security-programs/bug-bounty/wpprobe-scanner.md)
-  * [Xleak excel opener for the terminal](security-programs/bug-bounty/xleak-excel-opener-for-the-terminal.md)
+  * [xleak excel opener for the terminal](security-programs/bug-bounty/xleak-excel-opener-for-the-terminal.md)
 * [Privacy](security-programs/privacy/README.md)
   * [Privacy Sites](security-programs/privacy/privacy-sites/README.md)
     * [Fake Name and Information generator](security-programs/privacy/privacy-sites/fake-name-and-information-generator.md)
