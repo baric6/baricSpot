@@ -957,6 +957,7 @@
     * [runeLite](development/gaming/runescape-botting/runelite/README.md)
       * [Runlite dev setup](development/gaming/runescape-botting/runelite/runlite-dev-setup.md)
   * [World of Warcraft on a Steam deck](development/gaming/world-of-warcraft-on-a-steam-deck.md)
+  * [Midi game sound effects](development/gaming/midi-game-sound-effects.md)
 * [Cursor AI code editor](development/cursor-ai-code-editor.md)
 * [IOS jailbreaking](development/ios-jailbreaking/README.md)
   * [IOS 12.5.7](development/ios-jailbreaking/ios-12.5.7.md)
