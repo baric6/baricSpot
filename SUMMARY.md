@@ -930,6 +930,7 @@
   * [OpenSauced github repository finder](development/github/opensauced-github-repository-finder.md)
   * [Git Commands](development/github/git-commands.md)
 * [Gaming](development/gaming/README.md)
+  * [OpenEmu](development/gaming/openemu.md)
   * [Ryujinx Switch Emulator](development/gaming/ryujinx-switch-emulator.md)
   * [Runescape Botting](development/gaming/runescape-botting/README.md)
     * [osBot](development/gaming/runescape-botting/osbot/README.md)
