@@ -23,6 +23,7 @@
 4. **It will install a lot may take a second**
 5. **Web UI**
    1. `<ip>:64297` is the default for web&#x20;
+6. connect to the server via ssh, on the live server the terminal don't scroll
 
 #### Testing locally on a internal net
 
