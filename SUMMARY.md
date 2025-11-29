@@ -513,7 +513,7 @@
   * [convoC2](security-programs/command-and-control/convoc2.md)
 * [HoneyPots](security-programs/honeypots/README.md)
   * [Honeypots](security-programs/honeypots/honeypots.md)
-  * [Respotter](security-programs/honeypots/respotter.md)
+  * [( DNS ) Respotter](security-programs/honeypots/dns-respotter.md)
   * [HoneyDB](security-programs/honeypots/honeydb.md)
   * [Dionaea honeypot - Building a Honeypot to Capture Zero-Day Exploits](security-programs/honeypots/dionaea-honeypot-building-a-honeypot-to-capture-zero-day-exploits.md)
   * [HoneyPots 20+](security-programs/honeypots/honeypots-20+.md)
