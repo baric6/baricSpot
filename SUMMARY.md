@@ -964,6 +964,7 @@
 * [Cursor AI code editor](development/cursor-ai-code-editor.md)
 * [IOS jailbreaking](development/ios-jailbreaking/README.md)
   * [IOS 12.5.7](development/ios-jailbreaking/ios-12.5.7.md)
+* [Linux tool list](development/linux-tool-list.md)
 
 ## IT Help
 
