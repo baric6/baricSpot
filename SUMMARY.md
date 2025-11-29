@@ -527,6 +527,7 @@
 
 ## Development&#x20;
 
+* [Linux tool list](development/linux-tool-list.md)
 * [BOF and Coff Executers](development/bof-and-coff-executers/README.md)
   * [COFF Loader](development/bof-and-coff-executers/coff-loader.md)
   * [(golang) Doge-COFFLdr](development/bof-and-coff-executers/golang-doge-coffldr.md)
@@ -964,7 +965,6 @@
 * [Cursor AI code editor](development/cursor-ai-code-editor.md)
 * [IOS jailbreaking](development/ios-jailbreaking/README.md)
   * [IOS 12.5.7](development/ios-jailbreaking/ios-12.5.7.md)
-* [Linux tool list](development/linux-tool-list.md)
 
 ## IT Help
 

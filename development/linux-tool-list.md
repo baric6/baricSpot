@@ -21,6 +21,7 @@ Cowpatty – WPA-PSK WiFi handshake cracking tool.
 Binwalk – Analyzes and extracts firmware images.
 Exiftool – Reads/edits metadata (EXIF) on images/files.
 Airmon-ng – Enables/controls monitor mode for WiFi adapters.
+Spiderfoot - A crawler that can look for phone, eamil, IP, bitcoin address, ...
 ```
 
 #### Utilities and Tools
