@@ -21,7 +21,7 @@ python3 -m venv venv
 #### Activate&#x20;
 
 ```
-source /venv/bin/activate
+source venv/bin/activate
 ```
 
 #### Usage&#x20;
