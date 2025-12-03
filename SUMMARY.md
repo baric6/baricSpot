@@ -776,6 +776,7 @@
       * [Monitoring a file from a PC](development/siems-and-edr/splunk/splunk-forwarder/monitoring-a-file-from-a-pc.md)
       * [Turning on File Folder Auditing](development/siems-and-edr/splunk/splunk-forwarder/turning-on-file-folder-auditing.md)
       * [Configure forwarders with outputs.conf](development/siems-and-edr/splunk/splunk-forwarder/configure-forwarders-with-outputs.conf.md)
+      * [SYSMON and Splunk forwarder](development/siems-and-edr/splunk/splunk-forwarder/sysmon-and-splunk-forwarder.md)
     * [Data / Searches](development/siems-and-edr/splunk/data-searches/README.md)
       * [Windows Detailed activity properties in the audit log](development/siems-and-edr/splunk/data-searches/windows-detailed-activity-properties-in-the-audit-log.md)
       * [SPL Breakdown](development/siems-and-edr/splunk/data-searches/spl-breakdown.md)

@@ -7,6 +7,6 @@ To delay a service start in Windows, set its startup type to "Automatic (Delayed
 3. **Open Service Properties:** Double-click the service to open its properties window.&#x20;
 4. **Change Startup Type:** In the General tab, select "Automatic (Delayed Start)" from the Startup type drop-down.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Save Changes:** Click OK to save the changes.&#x20;
