@@ -931,6 +931,7 @@
     * [Python Logging](development/lanuages/python/python-logging.md)
   * [bash](development/lanuages/bash/README.md)
     * [Check for Leaked Passwords on HaveIBeenPwned](development/lanuages/bash/check-for-leaked-passwords-on-haveibeenpwned.md)
+  * [YARA](development/lanuages/yara.md)
 * [GitHub](development/github/README.md)
   * [Make Personal tokens for use in your programs](development/github/make-personal-tokens-for-use-in-your-programs.md)
   * [OpenSauced github repository finder](development/github/opensauced-github-repository-finder.md)
