@@ -10,7 +10,7 @@ rule yara_rule
         
     string: 
         $s1 = "rundll32.exe" fullword ascii
-        $s2 = "msvcrt.dll" wide
+        $s2 = "the" wide
         $url1 = /http:\/\/.*malhare.*/ nocase
         $hidden = "Malhare" xor
         $b64 = "SOC-mas" base64
@@ -84,16 +84,51 @@ condition:
 
 
 
-#### How to run YARA on your machine
+#### How to Install YARA to your machine
 
 * Windows:
-  * Download `yara-x.x.x-win64.zip` (or 32-bit) from the YARA GitHub Releases page.
-  * Extract `yara.exe` and `yarac.exe` to a folder (e.g., `C:\Tools\YARA`).
-  * Add this folder to your system's `PATH` environment variable.
-  * Install the Visual C++ Redistributable if needed.
+  * Download [`yara-x.x.x-win64.zip`](https://github.com/VirusTotal/yara/releases) (or 32-bit) from the YARA GitHub Releases page.
+  * Extract `yara.exe`
+  * Add this folder to your system's `PATH` environment variable or make a folder with the extracted exe and run it from that folder using yara64.exe
+  * Install the Visual C++ Redistributable if needed, I didn't need to
 * Linux:
   * Use your package manager: `sudo apt install yara` (Debian/Ubuntu) or `sudo yum install yara` (RHEL/CentOS).
   * For the latest version, compile from source or use YARA-X.
 * Mac:
   * Use Homebrew: `brew install yara`.
   * YARA-X can also be installed via Homebrew: `brew install yara-x`.&#x20;
+
+#### Running YARA on your machine
+
+Windows
+
+* I will be running the executable vs putting it in sys-vars
+* It is good to find some yara rules on the net or create your own you need something to run with it. I will be using the one we created above
+* navigate to the folder you put the yara exe in for ease of use put the rules in the same directory, in the root of the file is OK for the time being
+
+```
+yara64.exe -r -w /path/to/file.yar /path/to/scan/location/
+```
+
+* when you run it something should populate from the second string var in the file.
+  * if it looks like it is just hanging it is scanning if it finds something it will populate
+* -r&#x20;
+  * means recursive good for scanning folders
+* -w&#x20;
+  * disable warnings, it will gunk up the results&#x20;
+
+#### Example of output
+
+```
+WarpStrings D:\3dsHacksBackup8-29-23\\3dsbackup\Nintendo 3DS\66f8577af89050f1fa8c86bd581bd4b1\4d5c00cc478040655355333200035344\title\00040000\001bc600\content\00000000.app
+
+Warp D:\3dsHacksBackup8-29-23\\3dsbackup\Nintendo 3DS\66f8577af89050f1fa8c86bd581bd4b1\4d5c00cc478040655355333200035344\title\00040000\001bc600\content\00000000.app
+
+Cobalt_functions D:\3dsHacksBackup8-29-23\\3dsbackup\Nintendo 3DS\66f8577af89050f1fa8c86bd581bd4b1\4d5c00cc478040655355333200035344\title\00040000\000cce00\content\00000004.app
+
+Cobalt_functions D:\3dsHacksBackup8-29-23\\3dsbackup\Nintendo 3DS\66f8577af89050f1fa8c86bd581bd4b1\4d5c00cc478040655355333200035344\title\00040000\00173b00\content\00000000.app
+
+WarpStrings D:\3dsHacksBackup8-29-23\\3dsbackup\Nintendo 3DS\66f8577af89050f1fa8c86bd581bd4b1\4d5c00cc478040655355333200035344\title\00040000\00173b00\content\00000000.app
+
+Warp D:\3dsHacksBackup8-29-23\\3dsbackup\Nintendo 3DS\66f8577af89050f1fa8c86bd581bd4b1\4d5c00cc478040655355333200035344\title\00040000\00173b00\content\00000000.app
+```
