@@ -968,6 +968,10 @@
 * [Cursor AI code editor](development/cursor-ai-code-editor.md)
 * [IOS jailbreaking](development/ios-jailbreaking/README.md)
   * [IOS 12.5.7](development/ios-jailbreaking/ios-12.5.7.md)
+* [Fun Internet finds](development/fun-internet-finds/README.md)
+  * [Web Surfing](development/fun-internet-finds/web-surfing/README.md)
+    * [Wiby.org](development/fun-internet-finds/web-surfing/wiby.org.md)
+    * [Marginalia Search](development/fun-internet-finds/web-surfing/marginalia-search.md)
 
 ## IT Help
 

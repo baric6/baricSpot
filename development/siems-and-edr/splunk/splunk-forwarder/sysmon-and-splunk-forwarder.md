@@ -26,7 +26,7 @@ Get-Service sysmon64
 
 If running it should look like below if running, else it wont return anything if not running
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Check if Event log channel exists
 
