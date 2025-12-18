@@ -63,3 +63,21 @@ Get-WinEvent -LogName "Microsoft-Windows-WindowsUpdateClient/Operational" | Wher
 ```powershell
 Get-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\*" | Select-Object DisplayName, DisplayVersion, InstallDate
 ```
+
+#### Uninstall a program
+
+```
+Get-WmiObject Win32_Product | Where-Object { $_.Name -like "*Wazuh*" } | ForEach-Object { $_.Uninstall() }
+```
+
+#### List installed apps
+
+```
+Get-WmiObject Win32_Product | Select-Object Name, Version
+```
+
+#### Check if a program is still installed
+
+```
+Get-WmiObject Win32_Product | Where-Object { $_.Name -like "*Wazuh*" } | Select-Object Name, Version
+```
