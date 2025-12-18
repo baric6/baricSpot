@@ -667,6 +667,7 @@
     * [CSI Linux OSINT OS](development/homelab/isos/csi-linux-osint-os.md)
     * [UUP dump](development/homelab/isos/uup-dump.md)
     * [BountyOS](development/homelab/isos/bountyos.md)
+    * [Almalinux](development/homelab/isos/almalinux.md)
   * [Zabbix Monitoring](development/homelab/zabbix-monitoring/README.md)
     * [Agent install](development/homelab/zabbix-monitoring/agent-install/README.md)
       * [Windows](development/homelab/zabbix-monitoring/agent-install/windows.md)
