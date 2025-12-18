@@ -898,6 +898,7 @@
   * [Mind map creating diagrams](development/graphing-tools/mind-map-creating-diagrams.md)
   * [OpenFreeMap](development/graphing-tools/openfreemap.md)
   * [Data Formulator turn CSV files to graphs](development/graphing-tools/data-formulator-turn-csv-files-to-graphs.md)
+  * [JS CAD 3D renderer](development/graphing-tools/js-cad-3d-renderer.md)
 * [Website Dev](development/website-dev/README.md)
   * [RevolverMaps](development/website-dev/revolvermaps.md)
   * [Emailerjs](development/website-dev/emailerjs.md)
