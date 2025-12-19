@@ -828,6 +828,7 @@
     * [Enterprise Security App](development/siems-and-edr/splunk/enterprise-security-app/README.md)
       * [Cloning/Creating A detection ES8](development/siems-and-edr/splunk/enterprise-security-app/cloning-creating-a-detection-es8.md)
       * [Detection Resource](development/siems-and-edr/splunk/enterprise-security-app/detection-resource.md)
+      * [Detection Searches](development/siems-and-edr/splunk/enterprise-security-app/detection-searches.md)
       * [Editing Macros](development/siems-and-edr/splunk/enterprise-security-app/editing-macros.md)
       * [Use detection versioning in Splunk Enterprise](development/siems-and-edr/splunk/enterprise-security-app/use-detection-versioning-in-splunk-enterprise.md)
     * [Server Health](development/siems-and-edr/splunk/server-health/README.md)
