@@ -1,8 +1,10 @@
 # Kali in the browser
 
-#### Runs laggy and no network&#x20;
+#### Runs laggy and no network (could be my hardware)
 
 Try with caution&#x20;
+
+* runs without systemd
 
 ```
 sudo docker run -d \
