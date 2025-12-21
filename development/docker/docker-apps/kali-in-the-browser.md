@@ -1,19 +1,24 @@
 # Kali in the browser
 
+#### Runs laggy and no network&#x20;
+
+Try with caution&#x20;
+
 ```
 sudo docker run -d \
 --name=kali-linux \
---security-opt seccom=unconfined `optional` \
+--security-opt seccom=unconfined \
 -e PUID=1000 \
 -e PGID=1000 \ 
 -e TZ=Etc/UTC \
--e SUBFOLDER=/ `optional` \
--e TITLE="Kali Linux" `optional` \
+-e SUBFOLDER=/ \
+-e TITLE="Kali Linux"  \
 -p 3011:3000 \
 -p 3009:3001
---device /dev/dri:/dev/dri `optional` \
---shm-size="1gb" `optional` \
+--device /dev/dri:/dev/dri  \
+--shm-size="1gb" \
 --restart unless-stopped \
 lscr.io:/linuxserver/kali-linux:latest
+
 ```
 
