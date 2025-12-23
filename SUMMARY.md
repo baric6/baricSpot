@@ -715,6 +715,7 @@
   * [IntelOwl threat-hunting platform](development/homelab/intelowl-threat-hunting-platform.md)
   * [(Docker) GoAway - DNS Sinkhole](development/homelab/docker-goaway-dns-sinkhole.md)
   * [Port Tracker](development/homelab/port-tracker.md)
+  * [Pi.Alert](development/homelab/pi.alert.md)
 * [Compliance](development/compliance/README.md)
   * [Self Audit Procedures](development/compliance/self-audit-procedures/README.md)
     * [Cmmc](development/compliance/self-audit-procedures/cmmc/README.md)
