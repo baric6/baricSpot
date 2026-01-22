@@ -983,6 +983,7 @@
   * [Web Surfing](development/fun-internet-finds/web-surfing/README.md)
     * [Wiby.org](development/fun-internet-finds/web-surfing/wiby.org.md)
     * [Marginalia Search](development/fun-internet-finds/web-surfing/marginalia-search.md)
+  * [Freemediaheckya](development/fun-internet-finds/freemediaheckya.md)
 
 ## IT Help
 
