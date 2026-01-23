@@ -22,7 +22,7 @@ Get-ADUser -filter {Enabled -eq $True -and PasswordNeverExpires -eq $False} -Pro
 Get-ADUser -Identity "<username>" -Properties "LastLogonDate"
 ```
 
-Better way to get all users and sort to make a file after propeties add what you want to display also put after select object
+Better way to get all users and sort to make a file after properties add what you want to display also put after select object
 
 ```
 Get-ADUser -filter {enabled -eq $true} -Properties emailaddress,lastlogondate | Select-Object 	Name,emailaddress,lastlogondate 
@@ -97,6 +97,12 @@ Get count disabled users Count
 (Get-ADUser -LDAPFilter '(userAccountControl:1.2.840.113556.1.4.803:=2)').count
 ```
 
+Get count disabled user where not in a group
+
+```
+(Get-ADUser -Filter 'Enabled -eq $false' -Properties DistinguishedName | Where-Object { $_.DistinguishedName -notlike "*OU=change_me*" }).Count
+```
+
 Get count enabled users&#x20;
 
 ```
@@ -156,7 +162,7 @@ Get-ADUser -Filter {whenCreated -ge $When} -Properties whenCreated
 
 ### Groups
 
-Finding users who have not changed their password recently - Specops Software Get all users and their groups
+Finding users who have not changed their password recently&#x20;
 
 ```
 Get-ADGroup -filter * | Get-ADGroupMember -Recursive | Get-ADUser -Properties * | select Name, MemberOf
@@ -203,6 +209,12 @@ Get filtered group name
 
 ```
 Get-ADGroup -Filter {Name -like '*legal*'} | Select-Object Name
+```
+
+Count users in a certain group
+
+```
+(Get-ADUser -SearchBase "OU=Disabled,OU=Users,DC=domain,DC=local" -Filter 'Enabled -eq $false').Count
 ```
 
 ### Group members
