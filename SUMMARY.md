@@ -625,6 +625,7 @@
   * [Scamalytics IP Search API](development/siems-and-edr/data-for-siem/scamalytics-ip-search-api.md)
   * [AbuseIPDB API IP checking](development/api-and-scraping-sources/abuseipdb-api-ip-checking.md)
   * [Ismalicious API domain and IP lookup](development/api-and-scraping-sources/ismalicious-api-domain-and-ip-lookup.md)
+  * [API vault](development/api-and-scraping-sources/api-vault.md)
 * [Microsoft KQL](development/microsoft-kql/README.md)
   * [KQL hunting email Queries](development/microsoft-kql/kql-hunting-email-queries.md)
   * [KQL hunting with Azure and Log Analytics](development/microsoft-kql/kql-hunting-with-azure-and-log-analytics.md)
