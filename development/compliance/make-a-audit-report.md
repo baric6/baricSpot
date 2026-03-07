@@ -2,11 +2,10 @@
 
 
 
-#### User Analysis
+#### User Analysis (hybrid check local and azure)
 
 {% columns %}
 {% column %}
-* List AD Users
 * AD users Enabled/Disabled
 * Local users Enabled/Disabled
 * Detect local accounts&#x20;
@@ -18,8 +17,6 @@
 * Password Last set
 * Password Expires
 * Enumerate OU and Security Groups&#x20;
-
-
 {% endcolumn %}
 {% endcolumns %}
 
