@@ -10,5 +10,5 @@
 
 ### Training
 
-{% file src="../../.gitbook/assets/gravwell_training_v5.6.8.pdf" %}
+{% file src="../../../.gitbook/assets/gravwell_training_v5.6.8.pdf" %}
 
