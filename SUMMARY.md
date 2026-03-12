@@ -1047,6 +1047,7 @@
     * [Plan and deploy on-premises Microsoft Entra Password Protection](it-help/windows/sysadmin/plan-and-deploy-on-premises-microsoft-entra-password-protection.md)
     * [How To Make An Automated Windows 11 Install USB, Updated for 2025](it-help/windows/sysadmin/how-to-make-an-automated-windows-11-install-usb-updated-for-2025.md)
     * [Rename a domain controller without breaking it](it-help/windows/sysadmin/rename-a-domain-controller-without-breaking-it.md)
+    * [Connect Azure to Google Admin console](it-help/windows/sysadmin/connect-azure-to-google-admin-console.md)
   * [Office Product](it-help/windows/office-product/README.md)
     * [Classic Outlook desktop can't read encrypted email](it-help/windows/office-product/classic-outlook-desktop-cant-read-encrypted-email.md)
     * [Create a desktop shortcut for an Office program](it-help/windows/office-product/create-a-desktop-shortcut-for-an-office-program.md)
