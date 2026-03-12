@@ -728,6 +728,8 @@
   * [Port Tracker](development/homelab/port-tracker.md)
   * [Pi.Alert](development/homelab/pi.alert.md)
   * [Botwave - PI FM radio](development/homelab/botwave-pi-fm-radio.md)
+  * [Scrypted](development/homelab/scrypted.md)
+  * [Scrypted Security Video Platform](development/homelab/scrypted-security-video-platform.md)
 * [Compliance](development/compliance/README.md)
   * [Self Audit Procedures](development/compliance/self-audit-procedures/README.md)
     * [Cmmc](development/compliance/self-audit-procedures/cmmc/README.md)
@@ -1000,6 +1002,7 @@
     * [Wiby.org](development/fun-internet-finds/web-surfing/wiby.org.md)
     * [Marginalia Search](development/fun-internet-finds/web-surfing/marginalia-search.md)
   * [Freemediaheckya](development/fun-internet-finds/freemediaheckya.md)
+  * [WorldTimezone.com](development/fun-internet-finds/worldtimezone.com.md)
 
 ## IT Help
 
