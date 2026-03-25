@@ -1,4 +1,4 @@
-# Make a Audit Report
+# Audit Report Variables
 
 
 
@@ -9,7 +9,12 @@
 * AD users Enabled/Disabled
 * Local users Enabled/Disabled
 * Detect local accounts&#x20;
-* last login/use
+* last login/use(inactive users)
+* Audit privileged Groups
+* Admins w/o MFA
+* Users with AdminCount = 1
+* Accounts with No Password Required
+* Orphaned SIDs for folders
 {% endcolumn %}
 
 {% column %}
@@ -17,6 +22,10 @@
 * Password Last set
 * Password Expires
 * Enumerate OU and Security Groups&#x20;
+* Direct permissions for folder access
+* Users w/o MFA&#x20;
+* Users in Too Many Groups
+* GPO audit
 {% endcolumn %}
 {% endcolumns %}
 
@@ -67,11 +76,3 @@
 * external security vulnerabilities&#x20;
 {% endcolumn %}
 {% endcolumns %}
-
-#### FSMO Role Analyst&#x20;
-
-* Schema Master - forest - Modifies AD structure
-* Domain naming Master - forest - Adds/removes Domains
-* PCD Emulator - Domain - Syncs time, Manages Passwords
-* RID Master -  Domain - Allocates object ID's
-* Infrastructure Master - Domain - Updates cross domain references&#x20;
