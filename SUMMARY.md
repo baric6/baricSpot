@@ -731,6 +731,7 @@
   * [Scrypted](development/homelab/scrypted.md)
   * [Scrypted Security Video Platform](development/homelab/scrypted-security-video-platform.md)
   * [Healthchecks io](development/homelab/healthchecks-io.md)
+  * [MCP](development/homelab/mcp.md)
 * [Compliance](development/compliance/README.md)
   * [Self Audit Procedures](development/compliance/self-audit-procedures/README.md)
     * [Cmmc](development/compliance/self-audit-procedures/cmmc/README.md)
