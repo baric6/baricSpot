@@ -845,6 +845,7 @@
     * [Splunk Python scripting](development/siems-and-edr/splunk/splunk-python-scripting/README.md)
       * [Splunk Python Lookup Script app Development](development/siems-and-edr/splunk/splunk-python-scripting/splunk-python-lookup-script-app-development.md)
       * [Template for python data pusher](development/siems-and-edr/splunk/splunk-python-scripting/template-for-python-data-pusher.md)
+      * [(Windows) Running Python in task scheduler](development/siems-and-edr/splunk/splunk-python-scripting/windows-running-python-in-task-scheduler.md)
     * [Enterprise Security App](development/siems-and-edr/splunk/enterprise-security-app/README.md)
       * [Cloning/Creating A detection ES8](development/siems-and-edr/splunk/enterprise-security-app/cloning-creating-a-detection-es8.md)
       * [Detection Resource](development/siems-and-edr/splunk/enterprise-security-app/detection-resource.md)
