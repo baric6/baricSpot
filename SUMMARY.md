@@ -1006,6 +1006,9 @@
     * [Marginalia Search](development/fun-internet-finds/web-surfing/marginalia-search.md)
   * [Freemediaheckya](development/fun-internet-finds/freemediaheckya.md)
   * [WorldTimezone.com](development/fun-internet-finds/worldtimezone.com.md)
+* [Video Development](development/video-development/README.md)
+  * [Canva](development/video-development/canva.md)
+  * [Mirror Phone Screen to PC](development/video-development/mirror-phone-screen-to-pc.md)
 
 ## IT Help
 
