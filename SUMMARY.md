@@ -809,6 +809,7 @@
       * [Managing Datamodels and Sets](development/siems-and-edr/splunk/data-searches/managing-datamodels-and-sets.md)
       * [Uploading lookup table csv file](development/siems-and-edr/splunk/data-searches/uploading-lookup-table-csv-file.md)
       * [Export Splunk results to CSV file](development/siems-and-edr/splunk/data-searches/export-splunk-results-to-csv-file.md)
+      * [Living Off The Land - Data CSV](development/siems-and-edr/splunk/data-searches/living-off-the-land-data-csv.md)
     * [Resources](development/siems-and-edr/splunk/resources/README.md)
       * [Detecting Business Email Compromise Using Splunk](development/siems-and-edr/splunk/resources/detecting-business-email-compromise-using-splunk.md)
       * [Install Splunk AI Assistant for SPL](development/siems-and-edr/splunk/resources/install-splunk-ai-assistant-for-spl.md)
