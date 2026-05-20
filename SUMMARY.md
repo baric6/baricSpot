@@ -939,6 +939,7 @@
     * [Quick start node](development/lanuages/node-ts/quick-start-node.md)
     * [Gmail API retrieve emails from gmail](development/lanuages/node-ts/gmail-api-retrieve-emails-from-gmail.md)
     * [Installing (nvm) Node Version Manager](development/lanuages/node-ts/installing-nvm-node-version-manager.md)
+    * [Node removing dependencies](development/lanuages/node-ts/node-removing-dependencies.md)
   * [Golang](development/lanuages/golang/README.md)
     * [Quick start Go](development/lanuages/golang/quick-start-go.md)
   * [Library](development/lanuages/library/README.md)
