@@ -14,8 +14,21 @@ Clear the npm cache
 npm cache clean --force
 ```
 
-Remove global npm packages ()
+Remove global npm packages (if removing global packages)
 
 ```
 npm ls -g --depth=0
 ```
+
+Clean Cache
+
+```
+npm cache clean --force
+```
+
+Audit for vulns
+
+```
+npm audit
+```
+
