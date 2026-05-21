@@ -7,8 +7,6 @@
 {% columns %}
 {% column %}
 * AD users Enabled/Disabled
-* Local users Enabled/Disabled
-* Detect local accounts&#x20;
 * last login/use(inactive users)
 * Audit privileged Groups
 * Admins w/o MFA
@@ -60,6 +58,8 @@
 * Listening ports&#x20;
 * Windows Key
 * Antivirus/Anti spyware/Firewall
+* Local users Enabled/Disabled
+* Detect local accounts&#x20;
 {% endcolumn %}
 {% endcolumns %}
 
