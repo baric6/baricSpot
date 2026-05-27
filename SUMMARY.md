@@ -1064,6 +1064,7 @@
     * [Connect Azure to Google Admin console](it-help/windows/sysadmin/connect-azure-to-google-admin-console.md)
     * [Errors in shared files servers / NAS](it-help/windows/sysadmin/errors-in-shared-files-servers-nas.md)
     * [Entra ID: Disable User Password Expiration](it-help/windows/sysadmin/entra-id-disable-user-password-expiration.md)
+    * [Reset token in Microsoft Entra](it-help/windows/sysadmin/reset-token-in-microsoft-entra.md)
   * [Office Product](it-help/windows/office-product/README.md)
     * [Excel](it-help/windows/office-product/excel/README.md)
       * [Excel Developer Tab in ribbon](it-help/windows/office-product/excel/excel-developer-tab-in-ribbon.md)
