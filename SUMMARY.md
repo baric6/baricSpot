@@ -1032,6 +1032,7 @@
       * [Purview](it-help/windows/sysadmin/tools/purview/README.md)
         * [(Purview) Microsoft 365 - How to create an alert policy](it-help/windows/sysadmin/tools/purview/purview-microsoft-365-how-to-create-an-alert-policy.md)
         * [Purview audit activities keywords](it-help/windows/sysadmin/tools/purview/purview-audit-activities-keywords.md)
+      * [Windows Troubleshooting Powershell commands](it-help/windows/sysadmin/tools/windows-troubleshooting-powershell-commands.md)
     * [DUO](it-help/windows/sysadmin/duo/README.md)
       * [Duo Authentication for Windows Logon and RDP](it-help/windows/sysadmin/duo/duo-authentication-for-windows-logon-and-rdp.md)
       * [YubiKey for authentication into Duo for Windows Logon](it-help/windows/sysadmin/duo/yubikey-for-authentication-into-duo-for-windows-logon.md)
