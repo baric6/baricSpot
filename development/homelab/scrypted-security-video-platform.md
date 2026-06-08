@@ -4,7 +4,7 @@ What is it?
 
 {% embed url="https://docs.scrypted.app/" %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://docs.scrypted.app/installation.html" %}
 
