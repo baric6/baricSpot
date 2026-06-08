@@ -853,6 +853,7 @@
       * [Detection Searches](development/siems-and-edr/splunk/enterprise-security-app/detection-searches.md)
       * [Editing Macros](development/siems-and-edr/splunk/enterprise-security-app/editing-macros.md)
       * [Use detection versioning in Splunk Enterprise](development/siems-and-edr/splunk/enterprise-security-app/use-detection-versioning-in-splunk-enterprise.md)
+      * [Turn on default Threat Intelligence Sources](development/siems-and-edr/splunk/enterprise-security-app/turn-on-default-threat-intelligence-sources.md)
     * [Server Health](development/siems-and-edr/splunk/server-health/README.md)
       * [Rapid diagnosis testing server health](development/siems-and-edr/splunk/server-health/rapid-diagnosis-testing-server-health.md)
       * [Dispatch Jobs getting clogged up and slowing down splunk](development/siems-and-edr/splunk/server-health/dispatch-jobs-getting-clogged-up-and-slowing-down-splunk.md)
