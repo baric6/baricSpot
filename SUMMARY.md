@@ -1159,6 +1159,7 @@
     * [Upgrade Windows 10 to Windows 11](it-help/programs/pdq/upgrade-windows-10-to-windows-11.md)
     * [Find Windows 11 Compatible Devices](it-help/programs/pdq/find-windows-11-compatible-devices.md)
     * [GPO and Enable-BitLocker Commands](it-help/programs/pdq/gpo-and-enable-bitlocker-commands.md)
+  * [Cisco Using Tags to Manage MR Access Points](it-help/programs/cisco-using-tags-to-manage-mr-access-points.md)
 * [Networking](it-help/networking/README.md)
   * [DNS](it-help/networking/dns/README.md)
     * [Overview](it-help/networking/dns/overview.md)
