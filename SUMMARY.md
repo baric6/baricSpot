@@ -1068,6 +1068,7 @@
     * [Errors in shared files servers / NAS](it-help/windows/sysadmin/errors-in-shared-files-servers-nas.md)
     * [Entra ID: Disable User Password Expiration](it-help/windows/sysadmin/entra-id-disable-user-password-expiration.md)
     * [Reset token in Microsoft Entra](it-help/windows/sysadmin/reset-token-in-microsoft-entra.md)
+    * [Add an email as a proxy address](it-help/windows/sysadmin/add-an-email-as-a-proxy-address.md)
   * [Office Product](it-help/windows/office-product/README.md)
     * [Excel](it-help/windows/office-product/excel/README.md)
       * [Excel Developer Tab in ribbon](it-help/windows/office-product/excel/excel-developer-tab-in-ribbon.md)
