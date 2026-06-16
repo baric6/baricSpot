@@ -788,7 +788,7 @@
     * [CISO Assistant](development/compliance/grc-tools-governance-risk-and-compliance/ciso-assistant.md)
     * [Soc Chef Policy Creator](development/compliance/grc-tools-governance-risk-and-compliance/soc-chef-policy-creator.md)
   * [Audit Report Variables](development/compliance/audit-report-variables.md)
-  * [Best Practices](development/compliance/best-practices.md)
+  * [Best Practices and Articles](development/compliance/best-practices-and-articles.md)
 * [Siems and EDR](development/siems-and-edr/README.md)
   * [Splunk](development/siems-and-edr/splunk/README.md)
     * [Splunk forwarder](development/siems-and-edr/splunk/splunk-forwarder/README.md)
