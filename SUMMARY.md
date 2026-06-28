@@ -654,6 +654,8 @@
   * [Run app with Admin creds through powershell](development/ad-ps-commands/run-app-with-admin-creds-through-powershell.md)
   * [Powershell Auditing Commands](development/ad-ps-commands/powershell-auditing-commands.md)
 * [HomeLab](development/homelab/README.md)
+  * [Local AI](development/homelab/local-ai/README.md)
+    * [Ollama](development/homelab/local-ai/ollama.md)
   * [Awesome-Self hosted collection](development/homelab/awesome-self-hosted-collection.md)
   * [ISO's](development/homelab/isos/README.md)
     * [(windows) atlas OS](development/homelab/isos/windows-atlas-os.md)
