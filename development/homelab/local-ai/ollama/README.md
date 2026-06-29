@@ -1,6 +1,14 @@
 # Ollama
 
-Ollama from my perspective is a framework that runs models/logic. It seems like docker to me, how docker is a framework and docker images are the models. The models are only ran when needed. So if you are talking to a model in chat that chat will be active in memory for like 5mins. After that it removes itself freeing up ram saving the conversation till needed again.
+Three main parts of Ollama&#x20;
+
+1. UI - there is more but that is all we will be focusing on for now
+2. Ollama framework and API
+3. Models and training data
+
+<figure><img src="../../../../.gitbook/assets/image (482).png" alt=""><figcaption></figcaption></figure>
+
+
 
 #### Install
 
