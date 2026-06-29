@@ -1,4 +1,12 @@
-# Ollama
+# ( Linux ) API back-end opening firewall and remote access
+
+#### Linux unblocking a port in the firewall
+
+try this first if you are not seeing the web UI
+
+```
+sudo ufw allow 8080/tcp
+```
 
 #### Exposing API for agent development
 
