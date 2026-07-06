@@ -559,6 +559,7 @@
   * [SQLite and Nodejs](development/databases/sqlite-and-nodejs.md)
   * [ChartDB](development/databases/chartdb.md)
   * [Metabase](development/databases/metabase.md)
+  * [Cloudflare R2 Database](development/databases/cloudflare-r2-database.md)
 * [Docker](development/docker/README.md)
   * [Docker Apps](development/docker/docker-apps/README.md)
     * [Rancher Kubernetes cluster](development/docker/docker-apps/rancher-kubernetes-cluster.md)
