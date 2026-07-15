@@ -828,6 +828,7 @@
       * [Teams Detailed activity properties in the audit log](development/siems-and-edr/splunk/resources/teams-detailed-activity-properties-in-the-audit-log.md)
       * [Accelerating Security Operations with Splunk and Foundation AI’s First Open-Source Security Model](development/siems-and-edr/splunk/resources/accelerating-security-operations-with-splunk-and-foundation-ais-first-open-source-security-model.md)
       * [(Github) Splunk Server resource](development/siems-and-edr/splunk/resources/github-splunk-server-resource.md)
+      * [Adding Cisco Identity Intelligence to Splunk](development/siems-and-edr/splunk/resources/adding-cisco-identity-intelligence-to-splunk.md)
     * [Splunkbase Apps](development/siems-and-edr/splunk/splunkbase-apps/README.md)
       * [Top Splunk Apps](development/siems-and-edr/splunk/splunkbase-apps/top-splunk-apps.md)
       * [Splunkbase sourcetypes per app](development/siems-and-edr/splunk/splunkbase-apps/splunkbase-sourcetypes-per-app.md)

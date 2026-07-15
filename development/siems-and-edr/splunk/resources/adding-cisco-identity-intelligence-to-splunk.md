@@ -1,0 +1,5 @@
+# Adding Cisco Identity Intelligence to Splunk
+
+As organizations face growing complexity in identity management, Cisco Identity Intelligence provides a centralized platform to detect, monitor, and gain actionable insights into identity-based threats. By correlating identity data and leveraging AI-powered Identity Threat Detection and Response (ITDR) and Security Posture Management, it offers deep visibility into user behaviors and risks, enabling security teams to mitigate threats proactively. To channel these critical insights directly into your security operations workflow, the Cisco Security Cloud application for Splunk offers a seamless integration engineered for reliability and actionability. It provides comprehensive event logging with assigned severity levels to help teams prioritize efforts, and crucially, it pinpoints the specific user information for each failed security check, delivering the granular, context-rich data needed to maintain operational integrity and accelerate response.
+
+{% embed url="https://docs.oort.io/integrations/splunk" %}
