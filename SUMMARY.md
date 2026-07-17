@@ -846,6 +846,7 @@
       * [Joe Sandbox v2](development/siems-and-edr/splunk/splunkbase-apps/joe-sandbox-v2.md)
       * [ContentCTL content control tool](development/siems-and-edr/splunk/splunkbase-apps/contentctl-content-control-tool.md)
       * [Atomic Red Testing Suite](development/siems-and-edr/splunk/splunkbase-apps/atomic-red-testing-suite.md)
+      * [Splunk MCP Sever - setup](development/siems-and-edr/splunk/splunkbase-apps/splunk-mcp-sever-setup.md)
     * [Splunk Deployment Server](development/siems-and-edr/splunk/splunk-deployment-server/README.md)
       * [Deployment Resources](development/siems-and-edr/splunk/splunk-deployment-server/deployment-resources.md)
       * [Other Types of Deployment Servers that can be used](development/siems-and-edr/splunk/splunk-deployment-server/other-types-of-deployment-servers-that-can-be-used.md)
