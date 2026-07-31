@@ -872,7 +872,7 @@
       * [Server Search Management - finding resource heavy searches](development/siems-and-edr/splunk/server-health/server-search-management-finding-resource-heavy-searches.md)
       * [Finding orphaned Searches](development/siems-and-edr/splunk/server-health/finding-orphaned-searches.md)
     * [Server Config](development/siems-and-edr/splunk/server-config/README.md)
-      * [Install](development/siems-and-edr/splunk/server-config/install.md)
+      * [Spunk Install](development/siems-and-edr/splunk/server-config/spunk-install.md)
       * [Create/Modify User account](development/siems-and-edr/splunk/server-config/create-modify-user-account.md)
       * [Splunk Developer program and adding a License](development/siems-and-edr/splunk/server-config/splunk-developer-program-and-adding-a-license.md)
       * [Server Architecture Diagrams](development/siems-and-edr/splunk/server-config/server-architecture-diagrams.md)
