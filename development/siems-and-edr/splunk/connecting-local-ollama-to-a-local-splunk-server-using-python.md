@@ -297,6 +297,17 @@ What runs first i the Cli part is what interact with both Splunk and Ollama. If 
 
 If both are not connecting the Ollama error will fire first then Splunk. Say you got the Ollama error saying "could not connect".
 
-* Make sure the port is open on Ollma server 11434
+* Make sure the port is open on Ollama server 11434
 * Can you see the Splunk device on the network by pinging the ip address&#x20;
-* Did you enable the service to run the Ollama API - 11434
+
+Ways to check if you are able to reach Ollama
+
+* From the machine you are going to run the script on
+
+{% code overflow="wrap" %}
+```
+curl http://<Ollama IP>:11434
+```
+{% endcode %}
+
+you should get "Ollama is running"
