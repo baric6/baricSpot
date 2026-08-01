@@ -880,6 +880,7 @@
       * [Stop auto logout](development/siems-and-edr/splunk/server-config/stop-auto-logout.md)
       * [Setup email and Create a email alert](development/siems-and-edr/splunk/server-config/create-a-email-alert.md)
     * [SPL weather server](development/siems-and-edr/splunk/spl-weather-server.md)
+    * [Connecting Local Ollama to a Local Splunk server using Python](development/siems-and-edr/splunk/connecting-local-ollama-to-a-local-splunk-server-using-python.md)
   * [Wazuh](development/siems-and-edr/wazuh/README.md)
     * [Default register agent config](development/siems-and-edr/wazuh/default-register-agent-config.md)
     * [Monitoring process to look for a app running](development/siems-and-edr/wazuh/monitoring-process-to-look-for-a-app-running.md)
