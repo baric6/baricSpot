@@ -254,3 +254,125 @@ This will alert when a user downloads more than 200 files
 | stats count as download_count by UserId
 | where download_count > 200
 ```
+
+#### Excessive downloading sharing deleting&#x20;
+
+```
+index=* 
+  Operation IN (
+    FileDownloaded,
+    FileSyncUploadedFull,
+    SoftDelete,
+    AnonymousLinkCreated,
+    SharingSet
+  )
+  NOT (Operation="SoftDelete" AND RecordType=2)
+| eval OpWeight = case(
+    Operation="AnonymousLinkCreated", 5,
+    Operation="SoftDelete",           4,
+    Operation="FileSyncUploadedFull", 3,
+    Operation="FileDownloaded",       2,
+    Operation="SharingSet",           1,
+    true(), 1
+  )
+| eval _x = if(isnotnull(mvfind(OperationsSeen, "SoftDelete")), 1, 0)
+| eval IsExfil    = if(Operation IN ("FileDownloaded","FileSyncUploadedFull"), 1, 0)
+| eval IsDeletion = if(Operation IN ("SoftDelete","MoveToDeletedItems"), 1, 0)
+| eval IsExposure = if(Operation IN ("AnonymousLinkCreated","SharingSet"), 1, 0)
+| stats
+    count             AS TotalEvents,
+    sum(OpWeight)     AS RiskScore,
+    dc(Operation)     AS UniqueOps,
+    values(Operation) AS OperationsSeen,
+    sum(IsExfil)      AS ExfilEvents,
+    sum(IsDeletion)   AS DeletionEvents,
+    sum(IsExposure)   AS ExposureEvents,
+    earliest(_time)   AS FirstSeen,
+    latest(_time)     AS LastSeen
+    BY UserId
+| where UniqueOps >= 2
+| eval SpanHours     = round((LastSeen - FirstSeen) / 3600, 1)
+| eval EventsPerHour = round(TotalEvents / if(SpanHours > 0, SpanHours, 1), 0)
+| eval RiskTier = case(
+    RiskScore >= 20, "HIGH",
+    RiskScore >= 10, "MEDIUM",
+    true(), "LOW"
+  )
+| eval _u = if(isnotnull(mvfind(OperationsSeen, "FileSyncUploadedFull")), 1, 0)
+| eval _d = if(isnotnull(mvfind(OperationsSeen, "FileDownloaded")), 1, 0)
+| eval _x = if(isnotnull(mvfind(OperationsSeen, "SoftDelete|MoveToDeletedItems")), 1, 0)
+| eval _a = if(isnotnull(mvfind(OperationsSeen, "AnonymousLinkCreated")), 1, 0)
+| eval _s = if(isnotnull(mvfind(OperationsSeen, "SharingSet")), 1, 0)
+| eval Suspected = case(
+    _a=1 AND _x=1,     "Anonymous exposure + cover tracks",
+    _u=1 AND _x=1,     "Exfil via sync + cover tracks",
+    _d=1 AND _x=1,     "Download + cover tracks",
+    _a=1 AND _d=1,     "Download + anonymous sharing",
+    _d=1 AND _s=1,     "Download + sharing",
+    _u=1 AND _s=1,     "Sync upload + sharing",
+    _a=1,              "Anonymous link exposure",
+    _u=1,              "Bulk sync upload (possible staging)",
+    _d=1,              "Mass download",
+    _x=1,              "Mass deletion / data destruction",
+    _s=1,              "Unusual sharing activity",
+    true(),            "Review manually"
+  )
+| fields - _u _d _x _a _s
+| eval ActivityBreakdown  = ExfilEvents." exfil | ".DeletionEvents." deletion | ".ExposureEvents." exposure"
+| eval DurationAndRate    = SpanHours." hrs @ ".EventsPerHour."/hr"
+| eval DeletionPct        = round((DeletionEvents / TotalEvents) * 100, 0)."%"
+| eval FirstSeen          = strftime(FirstSeen, "%m/%d %H:%M")
+| eval LastSeen           = strftime(LastSeen,  "%m/%d %H:%M")
+| sort - RiskScore
+| table UserId, RiskTier, RiskScore, TotalEvents, ActivityBreakdown, DeletionPct, OperationsSeen, DurationAndRate, Suspected, FirstSeen, LastSeen
+| rename
+    UserId            AS "User",
+    RiskTier          AS "Risk Tier",
+    RiskScore         AS "Risk Score",
+    TotalEvents       AS "Total Events",
+    ActivityBreakdown AS "Event Breakdown (Exfil|Del|Exposure)",
+    DeletionPct       AS "% Cover-Tracks",
+    OperationsSeen    AS "Operations Seen",
+    DurationAndRate   AS "Duration / Burst Rate",
+    Suspected         AS "Suspected Activity",
+    FirstSeen         AS "First Seen",
+    LastSeen          AS "Last Seen"
+```
+
+#### Accounts that are being brute forced
+
+```
+index=<365 inex>
+| where match('Operation',"(?i)login|logon|signin|sign-in|authenticate|UserLoggedIn|UserLoginFailed")
+| where ClientIP!="<Office IP>"
+| where UserId!="<Ignored emails>"
+| where UserId!="Not Available"
+| where NOT match(ClientIP,"^151\.186\.")
+| iplocation ClientIP
+| eval ip_with_location=ClientIP+" ["+coalesce(City,"Unknown")+", "+coalesce(Region,"Unknown")+"]"
+| eval is_failure=if(match(ResultStatus,"(?i)fail|false|unsuccessful"),1,0)
+| stats 
+    dc(ClientIP) as unique_ips 
+    values(ip_with_location) as ip_list 
+    values(ResultStatus) as result_statuses 
+    sum(is_failure) as failed_attempts 
+    earliest(_time) as first_seen 
+    latest(_time) as last_seen 
+    count as total_attempts 
+  by UserId
+| eval brute_force_risk=case(
+    failed_attempts>=50,"CRITICAL - Likely Brute Force",
+    failed_attempts>=20,"HIGH - Possible Brute Force",
+    failed_attempts>=10,"MEDIUM - Suspicious",
+    failed_attempts>=5,"LOW - Monitor",
+    1==1,"Normal")
+| where failed_attempts>=5
+| eval first_seen=strftime(first_seen,"%Y-%m-%d %H:%M:%S")
+| eval last_seen=strftime(last_seen,"%Y-%m-%d %H:%M:%S")
+| eval attack_duration_hrs=round((strptime(last_seen,"%Y-%m-%d %H:%M:%S")-strptime(first_seen,"%Y-%m-%d %H:%M:%S"))/3600,2)
+| eval had_success=if(mvfind(result_statuses,"(?i)success|true")>=0,"YES ⚠️","NO")
+| sort -failed_attempts
+| table UserId unique_ips ip_list total_attempts failed_attempts 
+        brute_force_risk had_success attack_duration_hrs 
+        result_statuses first_seen last_seen
+```
