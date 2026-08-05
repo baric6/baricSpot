@@ -1203,11 +1203,12 @@
     * [DHCP Policies](it-help/networking/dhcp/dhcp-policies.md)
     * [Maintain the DHCP Database](it-help/networking/dhcp/maintain-the-dhcp-database.md)
     * [Troubleshooting DHCP](it-help/networking/dhcp/troubleshooting-dhcp.md)
-* [Resume tools](it-help/resume-tools/README.md)
-  * [Latex resume builder](it-help/resume-tools/latex-resume-builder.md)
-  * [Eforms](it-help/resume-tools/eforms.md)
-  * [eSign](it-help/resume-tools/esign.md)
-  * [MarkItDown](it-help/resume-tools/markitdown.md)
+* [Resume / Certs tools](it-help/resume-certs-tools/README.md)
+  * [Latex resume builder](it-help/resume-certs-tools/latex-resume-builder.md)
+  * [Eforms](it-help/resume-certs-tools/eforms.md)
+  * [eSign](it-help/resume-certs-tools/esign.md)
+  * [MarkItDown](it-help/resume-certs-tools/markitdown.md)
+  * [How to Purchase CertMaster CE for Certification Renewal?](it-help/resume-certs-tools/how-to-purchase-certmaster-ce-for-certification-renewal.md)
 
 ## Security Education
 
