@@ -1,6 +1,20 @@
-# SPL
+# SPL Basics
 
 ## Useful search commands
+
+#### Display fields and count events for column
+
+```
+| fieldsummary
+| table field, count, distinct_count
+```
+
+#### Display row field of first entry
+
+```
+| head 1
+| transpose
+```
 
 ### Count by tag you are searching for like "Message" will bring a count of like messages
 
