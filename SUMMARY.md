@@ -1084,6 +1084,7 @@
     * [Entra ID: Disable User Password Expiration](it-help/windows/sysadmin/entra-id-disable-user-password-expiration.md)
     * [Reset token in Microsoft Entra](it-help/windows/sysadmin/reset-token-in-microsoft-entra.md)
     * [Add an email as a proxy address](it-help/windows/sysadmin/add-an-email-as-a-proxy-address.md)
+    * [RDP - Server Cert failure changeing the RDP to "Connect and dont warn me" then fails](it-help/windows/sysadmin/rdp-server-cert-failure-changeing-the-rdp-to-connect-and-dont-warn-me-then-fails.md)
   * [Office Product](it-help/windows/office-product/README.md)
     * [Excel](it-help/windows/office-product/excel/README.md)
       * [Excel Developer Tab in ribbon](it-help/windows/office-product/excel/excel-developer-tab-in-ribbon.md)
