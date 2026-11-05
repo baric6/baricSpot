@@ -799,6 +799,7 @@
   * [Patching Vulns](development/compliance/patching-vulns/README.md)
     * [SSL/TLS: Deprecated TLSv1.0 and TLSv1.1 Protocol Detection](development/compliance/patching-vulns/ssl-tls-deprecated-tlsv1.0-and-tlsv1.1-protocol-detection.md)
     * [TCP timestamps](development/compliance/patching-vulns/tcp-timestamps.md)
+    * [OpenBSD OpenSSH Vulnerability](development/compliance/patching-vulns/openbsd-openssh-vulnerability.md)
 * [Siems and EDR](development/siems-and-edr/README.md)
   * [Splunk](development/siems-and-edr/splunk/README.md)
     * [Splunk forwarder](development/siems-and-edr/splunk/splunk-forwarder/README.md)
